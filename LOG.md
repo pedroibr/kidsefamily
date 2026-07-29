@@ -6,7 +6,7 @@ status: active
 owner: workspace
 tags: [client-workspace, log]
 created: 2026-07-26
-updated: 2026-07-27
+updated: 2026-07-29
 ---
 
 # Clínica Cristiane Martins Log
@@ -19,3 +19,7 @@ updated: 2026-07-27
 ## 2026-07-27
 
 - Updated the approved root business brief to describe the clinic as a multidisciplinary integrated-health clinic and removed the outdated `integrated functional clinic` wording.
+
+## 2026-07-29
+
+- Initialized Git version control and published the workspace to the private GitHub repository `pedroibr/cristianemartins`.

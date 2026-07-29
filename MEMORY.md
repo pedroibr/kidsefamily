@@ -2,6 +2,7 @@
 
 ## Active Projects and Work
 - 2026-07-26: The client workspace was instantiated from the canonical CoworkOS Knowledge Protocol template and is ready for initial discovery and organization.
+- 2026-07-29: The root workspace is versioned in the private GitHub repository `pedroibr/cristianemartins`, with `main` as the default branch.
 
 ## Decisions
 - 2026-07-26: `Clínica Cristiane Martins` is the provisional workspace and business name until the official name is confirmed.

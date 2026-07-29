@@ -83,11 +83,14 @@
 - New folders should inherit parent rules automatically and add only local context.
 - Every meaningful new folder should contain:
   - `AGENTS.md`
+  - `CLAUDE.md`
   - `MEMORY.md`
   - `INDEX.md`
   - `LOG.md`
   - optional `ENV.md` only when the folder needs stable parameters or resource pointers
   - optional `archive/ARCHIVE.md` only when memory needs cold storage
+- Every folder containing `AGENTS.md` must also contain `CLAUDE.md` as a compatibility pointer for Claude.
+- Each `CLAUDE.md` must contain only `Read and follow AGENTS.md in this folder.`; keep all durable instructions in the colocated `AGENTS.md`.
 - Standard child `AGENTS.md` structure:
   - `Purpose`
   - `Inheritance`

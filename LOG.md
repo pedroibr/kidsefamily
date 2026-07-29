@@ -27,3 +27,4 @@ updated: 2026-07-29
 - Added a root contact directory for resolving Leonardo Machado and Cristiane Martins in communication requests.
 - Restricted the root contact directory to communication and consultation specifically about this workspace and its projects.
 - Renamed the directory to `PROJECT_CONTACTS.md` and added Pedro Raimundo as the third project contact.
+- Invited Leonardo Machado and Cristiane Martins to the private GitHub repository with write access.

@@ -75,6 +75,7 @@
 ## References
 - Read `workspace/AGENTS.md` for cross-workspace behavior.
 - Read `MEMORY.md` for current root context.
+- For requests to notify or email a workspace contact, resolve names, aliases, and addresses from `CONTACTS.md`.
 - Read `archive/ARCHIVE.md` only when historical context is explicitly needed.
 - The protocol source of truth is the private GitHub repository `pedroibr/knowledge-protocol`.
 - Monday.com remains an execution layer; this workspace remains the durable context layer.

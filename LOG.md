@@ -24,3 +24,4 @@ updated: 2026-07-29
 
 - Initialized Git version control and published the workspace to the private GitHub repository `pedroibr/cristianemartins`.
 - Added `CLAUDE.md` compatibility pointers to every folder containing `AGENTS.md` and established the pairing rule for future contexts.
+- Added a root contact directory for resolving Leonardo Machado and Cristiane Martins in communication requests.

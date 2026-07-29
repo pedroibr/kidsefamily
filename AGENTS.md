@@ -75,8 +75,8 @@
 ## References
 - Read `workspace/AGENTS.md` for cross-workspace behavior.
 - Read `MEMORY.md` for current root context.
-- Use `CONTACTS.md` only to resolve people for communication or consultation specifically about this workspace and its projects.
-- For unrelated work, other clients, external systems, or CRM tasks, resolve recipients from the relevant context instead of reusing `CONTACTS.md`.
+- Use `PROJECT_CONTACTS.md` only to resolve people for communication or consultation specifically about this workspace and its projects.
+- For unrelated work, other clients, external systems, or CRM tasks, resolve recipients from the relevant context instead of reusing `PROJECT_CONTACTS.md`.
 - Read `archive/ARCHIVE.md` only when historical context is explicitly needed.
 - The protocol source of truth is the private GitHub repository `pedroibr/knowledge-protocol`.
 - Monday.com remains an execution layer; this workspace remains the durable context layer.

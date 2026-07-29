@@ -20,7 +20,7 @@ This folder is the root knowledge workspace for Clínica Cristiane Martins.
 - [Root Agent Rules](AGENTS.md)
 - [Root Memory](MEMORY.md)
 - [Root Environment](ENV.md)
-- [Workspace Contacts](CONTACTS.md)
+- [Project Contacts](PROJECT_CONTACTS.md)
 - [Workspace Index](workspace/INDEX.md)
 
 ## Child Folders

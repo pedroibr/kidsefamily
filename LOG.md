@@ -26,3 +26,4 @@ updated: 2026-07-29
 - Added `CLAUDE.md` compatibility pointers to every folder containing `AGENTS.md` and established the pairing rule for future contexts.
 - Added a root contact directory for resolving Leonardo Machado and Cristiane Martins in communication requests.
 - Restricted the root contact directory to communication and consultation specifically about this workspace and its projects.
+- Renamed the directory to `PROJECT_CONTACTS.md` and added Pedro Raimundo as the third project contact.

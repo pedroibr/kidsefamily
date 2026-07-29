@@ -11,6 +11,8 @@ updated: 2026-07-29
 
 # Workspace Contacts
 
+Use these contacts only for communication or consultation about this workspace and its projects. Do not use this directory to resolve recipients for unrelated work, other clients, external systems, or CRM tasks.
+
 | Name | Also known as | Email |
 |---|---|---|
 | Leonardo Machado | Leonardo, Leo, Léo | [leomachadopt@gmail.com](mailto:leomachadopt@gmail.com) |

@@ -3,7 +3,7 @@ type: Audience
 title: Audience Signals
 aliases:
   - Audience Signals
-description: Mapeia situações, arquétipos e sinais de identidade que podem orientar a comunicação da Clínica Cristiane Martins.
+description: Mapeia situações, arquétipos e sinais de identidade alinhados à medicina dentária sistémica da Clínica Kids e Family.
 status: draft
 owner: workspace
 tags:
@@ -12,123 +12,100 @@ tags:
   - audience
   - messaging
 created: 2026-07-27
-updated: 2026-07-27
+updated: 2026-08-11
 ---
 
 # Audience Signals
 
 ## Purpose
 
-Entender como famílias e pacientes adultos podem perceber a escolha da Clínica Cristiane Martins e quais sinais práticos ou aspiracionais a comunicação deve reforçar.
+Entender o que a escolha da Kids e Family pode representar para responsáveis, famílias e adultos que procuram uma leitura mais coordenada da saúde oral.
 
 ## Relevant Customers
 
-A pesquisa e a estratégia sustentam três grupos amplos:
-
-- Famílias com crianças que procuram primeira consulta, prevenção, acompanhamento ou uma experiência pediátrica mais tranquila.
-- Adultos da mesma família que precisam de medicina dentária geral, ortodontia, alinhadores, estética, reabilitação ou implantes.
-- Pessoas da região que procuram uma nova referência por mudança, indicação, perda de confiança no prestador anterior ou necessidade de cuidado mais coordenado.
-
-Os arquétipos abaixo são interpretações estratégicas. Ainda precisam ser confrontados com entrevistas, dados de pacientes e linguagem real usada pela clínica.
+- Responsáveis que querem começar bem o cuidado dentário da criança ou compreender sinais de crescimento, hábitos e respiração.
+- Adultos com dor orofacial, ruídos, limitação ou sintomas de função mandibular que procuram clareza.
+- Famílias que desejam continuidade sem coordenar sozinhas várias especialidades.
+- Adultos que precisam de prevenção, alinhamento, reabilitação ou manutenção dentro de um plano responsável.
 
 ## Relevant Situations
 
-- Preparar a primeira consulta da criança.
-- Procurar ajuda depois de medo, resistência ou experiência anterior difícil.
-- Retomar prevenção após um período sem acompanhamento.
-- Entender uma recomendação de ortodontia ou acompanhar o crescimento.
-- Encontrar uma clínica para mais de um membro da família.
-- Mudar para a região sem uma referência de confiança.
-- Comparar opções para um tratamento de maior investimento.
-- Precisar de coordenação entre medicina dentária e outras áreas da saúde.
-- Resolver um problema sem voltar a uma relação baseada apenas em urgência.
+- Primeira consulta ou recomeço do cuidado infantil.
+- Dúvidas sobre respiração oral, sono, hábitos, crescimento ou função.
+- Dor, ruídos, travamento ou limitação mandibular.
+- Recomendações diferentes que parecem não conversar entre si.
+- Transição entre prevenção, ortodontia, cuidado adulto e reabilitação.
+- Procura de uma referência para mais de um membro da família.
 
 ## Audience Archetypes
 
 ### 1. Quem quer começar bem
 
-**Comportamento:** pesquisa primeira consulta, prevenção, hábitos e formas de preparar a criança. Procura avaliações e recomendações antes de marcar.
+**Comportamento:** pesquisa primeira consulta, prevenção, desenvolvimento e formas de preparar a criança.
 
-**Motivação:** criar uma experiência positiva desde cedo e evitar que pequenos problemas ou medos cresçam.
+**Motivação:** cuidar cedo e criar uma experiência de confiança.
 
-**Valores:** cuidado, responsabilidade, calma e informação confiável.
+**Sinal desejado:** “Observo, procuro orientação responsável e não espero apenas pela urgência.”
 
-**Autopercepção desejada:** “Sou alguém que cuida cedo e ajuda a criança a desenvolver uma relação saudável com o dentista.”
+### 2. Quem tenta juntar sinais dispersos
 
-### 2. Quem quer recuperar a tranquilidade
+**Comportamento:** procura relações entre dor, mandíbula, função, respiração, sono ou hábitos e pode ter passado por explicações isoladas.
 
-**Comportamento:** procura ajuda quando a criança já demonstra medo, existe uma experiência anterior difícil ou o cuidado foi adiado.
+**Motivação:** compreender o que merece avaliação e qual profissional ou percurso faz sentido.
 
-**Motivação:** resolver a situação sem julgamento e reconstruir segurança.
-
-**Valores:** acolhimento, paciência, respeito ao ritmo da criança e orientação clara.
-
-**Autopercepção desejada:** “Ainda posso fazer uma escolha melhor para a minha família sem ser culpabilizado pelo que aconteceu antes.”
+**Sinal desejado:** “Quero uma leitura criteriosa, não uma resposta rápida ou simplista.”
 
 ### 3. Quem organiza o cuidado da família
 
-**Comportamento:** coordena agendas, acompanha tratamentos, compara prioridades e influencia a escolha dos prestadores para mais de uma pessoa.
+**Comportamento:** coordena consultas, tratamentos e prioridades de mais de uma pessoa.
 
-**Motivação:** reduzir fragmentação e contar com uma referência confiável para diferentes necessidades.
+**Motivação:** manter contexto, confiança e continuidade entre fases.
 
-**Valores:** continuidade, conveniência inteligente, previsibilidade e relação.
-
-**Autopercepção desejada:** “Faço escolhas responsáveis e mantenho a saúde da família organizada.”
+**Sinal desejado:** “Escolho uma referência capaz de orientar a família sem transformar tudo no mesmo tratamento.”
 
 ### 4. Quem procura uma decisão adulta bem orientada
 
-**Comportamento:** avalia tratamentos funcionais, estéticos ou de maior investimento; compara opções, resultados, tempo e condições.
+**Comportamento:** compara alternativas funcionais, ortodônticas, restauradoras ou estéticas.
 
-**Motivação:** tomar uma decisão segura sem ser pressionado por uma promessa ou promoção.
+**Motivação:** decidir com contexto, indicação e transparência.
 
-**Valores:** clareza, indicação adequada, resultado, transparência e confiança clínica.
-
-**Autopercepção desejada:** “Invisto no que faz sentido para mim depois de compreender prioridades e alternativas.”
+**Sinal desejado:** “Invisto depois de compreender necessidade, opções, limites e prioridades.”
 
 ### 5. Quem precisa de uma nova referência
 
-**Comportamento:** pergunta a conhecidos, pesquisa presença local, consulta avaliações e procura sinais de consistência.
+**Comportamento:** procura indicação, avaliações, presença local, equipa e sinais de consistência.
 
-**Motivação:** substituir uma relação perdida ou inexistente por uma clínica em que possa permanecer.
+**Motivação:** encontrar uma relação em que possa permanecer.
 
-**Valores:** reputação, proximidade relacional, competência e continuidade.
-
-**Autopercepção desejada:** “Escolhi com critério uma referência para os próximos anos, não apenas para resolver o problema de hoje.”
+**Sinal desejado:** “Escolhi uma clínica com foco, coordenação e responsabilidade.”
 
 ## Consumer Perceptions
 
-| Arquétipo | Percepção positiva desejada | Risco de percepção negativa |
+| Arquétipo | Perceção positiva desejada | Risco de perceção negativa |
 |---|---|---|
-| Quem quer começar bem | Responsável, preventivo e atento | Ansioso ou excessivamente protetor |
-| Quem quer recuperar a tranquilidade | Cuidadoso e disposto a reparar | Culpado, atrasado ou negligente |
-| Quem organiza o cuidado da família | Organizado, confiável e prático | Controlador ou focado apenas em conveniência |
-| Quem procura decisão adulta bem orientada | Criterioso e consciente | Vaidoso, indeciso ou guiado por preço |
-| Quem precisa de nova referência | Seletivo e comprometido | Desconfiado ou difícil de fidelizar |
-
-A comunicação deve reforçar a leitura positiva sem alimentar o julgamento negativo.
+| Quem quer começar bem | Preventivo e atento | Ansioso ou excessivamente protetor |
+| Quem junta sinais | Criterioso e consciente | Autodiagnóstico ou procura de causa única |
+| Quem organiza a família | Responsável e prático | Focado apenas em conveniência |
+| Quem decide sobre tratamento | Informado e proporcional | Indeciso, estético ou guiado apenas por preço |
+| Quem procura referência | Seletivo e comprometido | Desconfiado ou difícil de fidelizar |
 
 ## Brand Signals
 
-A marca pode ajudar o paciente a expressar:
-
+- **“Eu procuro compreender, não apenas apagar o sintoma.”**
 - **“Eu cuido antes da urgência.”**
-- **“Eu escolho confiança, não apenas conveniência ou preço.”**
-- **“Eu quero que a criança se sinta segura e compreenda o cuidado.”**
-- **“Eu organizo a saúde da família com continuidade.”**
+- **“Eu valorizo uma visão mais completa, mas quero rigor e limites.”**
+- **“Eu não quero coordenar o caso sozinho.”**
+- **“Eu escolho confiança e continuidade para a minha família.”**
 - **“Eu tomo decisões informadas, sem pressão.”**
-- **“Eu valorizo uma equipa que conecta as diferentes fases do cuidado.”**
-- **“Eu posso recomeçar sem culpa.”**
 
 ## Messaging Implications
 
-- Falar com o responsável como parceiro, não como aluno ou culpado.
-- Mostrar que começar cedo é uma oportunidade, sem transformar atraso em acusação.
-- Usar situações reconhecíveis — primeira consulta, medo, mudança de fase, decisão familiar — antes de apresentar serviços.
-- Tratar continuidade como alívio prático e emocional, não apenas conveniência.
-- Explicar tratamentos adultos com sobriedade, critérios e alternativas.
-- Usar avaliações e histórias autorizadas como prova de confiança, respeitando privacidade e regras clínicas.
-- Permitir que pessoas recém-chegadas identifiquem rapidamente localização, proposta, equipa e forma de atendimento.
-- Evitar estereótipos de “mãe perfeita”, criança sempre cooperante, família idealizada ou adulto motivado apenas por estética.
+- Validar a dúvida antes de explicar a abordagem.
+- Não sugerir que sinais dispersos possuem necessariamente uma causa comum.
+- Mostrar coordenação como alívio prático: quem avalia, quem orienta e o que acontece depois.
+- Falar com responsáveis sem culpa e com adultos sem fabricar insegurança.
+- Usar situações infantis e funcionais como portas de entrada para a tese.
+- Manter linguagem simples, calma e tecnicamente responsável.
 
 ## Relationships
 
@@ -144,8 +121,6 @@ A marca pode ajudar o paciente a expressar:
 
 ## Open Questions
 
-- Quem normalmente inicia o contacto e influencia a decisão dentro da família?
-- Quais situações aparecem com maior frequência nas marcações e mensagens?
-- Que palavras os pacientes usam para descrever medo, confiança, prevenção e integração?
-- Quais arquétipos representam maior volume, retenção e potencial estratégico?
-- Existem públicos relevantes, como profissionais de saúde encaminhadores, que precisam de uma camada própria de mensagem?
+- Que palavras os pacientes usam para descrever sintomas, fragmentação e coordenação?
+- Quais situações geram procura por ATM e odontopediatria?
+- Quem influencia e quem decide em cada entrada?

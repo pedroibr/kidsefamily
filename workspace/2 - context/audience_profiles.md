@@ -6,7 +6,7 @@ status: draft
 owner: Clínica Kids e Family
 tags: [business-architecture, profiles, audiences]
 created: 2026-08-04
-updated: 2026-08-04
+updated: 2026-08-11
 ---
 
 # Profiles
@@ -36,7 +36,7 @@ updated: 2026-08-04
 | Field | Value |
 | --- | --- |
 | `businessAssets` | Clínica Kids e Family |
-| `journeys` | Procurando resolver dor, desconforto ou perda de função, Planejando alinhar, reabilitar ou manter a saúde oral ao longo da vida |
+| `journeys` | Procurando resolver dor, desconforto ou perda de função, Tentando compreender sinais de sono, respiração ou roncopatia, Planejando alinhar, reabilitar ou manter a saúde oral ao longo da vida |
 | `audienceDescription` | Adultos que precisam recuperar função, conforto, saúde oral ou confiança após perda, desgaste, desalinhamento, doença ou adiamento de cuidados. Podem chegar por indicação, por continuidade de um familiar ou por procura ativa por implantes, reabilitação, ortodontia, estética ou manutenção. |
 | `reasonToEngage` | Querem compreender alternativas e investir num plano seguro, proporcional e compatível com a sua vida. |
 
@@ -45,13 +45,13 @@ updated: 2026-08-04
 | Field | Value |
 | --- | --- |
 | `businessAssets` | Clínica Kids e Family |
-| `journeys` | Tentando compreender sinais de crescimento, respiração ou função oral, Procurando resolver dor, desconforto ou perda de função |
-| `audienceDescription` | Crianças, adolescentes ou adultos com sintomas, sinais ou dúvidas que atravessam mais de uma área — por exemplo, dor orofacial, respiração, sono, função oral ou desenvolvimento. Precisam de uma leitura coordenada e de clareza sobre quando tratar, acompanhar ou encaminhar. |
-| `reasonToEngage` | Querem sair de explicações isoladas e entender o próximo passo sem receber uma promessa diagnóstica simplista. |
+| `journeys` | Tentando compreender sinais de crescimento, respiração ou função oral, Tentando compreender sinais de sono, respiração ou roncopatia, Procurando resolver dor, desconforto ou perda de função |
+| `audienceDescription` | Crianças, adolescentes ou adultos com sintomas, sinais ou dúvidas que atravessam mais de uma área — por exemplo, dor orofacial, ATM, respiração, sono, função oral ou desenvolvimento. Nos adultos, inclui especialmente pessoas com dor, ruídos, travamento ou limitação mandibular. Precisam de uma leitura coordenada e de clareza sobre quando tratar, acompanhar ou encaminhar. |
+| `reasonToEngage` | Querem sair de explicações isoladas e entender o próximo passo sem receber uma promessa diagnóstica simplista. Para ATM/dor orofacial, constituem uma das duas principais audiências de entrada. |
 
 ## Hierarquia de audiência
 
-1. Responsáveis na Primeira Consulta — principal porta de entrada.
-2. Famílias em Crescimento — principal oportunidade de continuidade e expansão intrafamiliar.
-3. Pacientes com Sintomas Complexos — diferenciação pela leitura integrada.
+1. Responsáveis na Primeira Consulta — porta de entrada prioritária para odontopediatria, crescimento e respiração oral infantil.
+2. Pacientes com Sintomas Complexos — porta de entrada prioritária para ATM, dor orofacial e função mandibular.
+3. Famílias em Crescimento — principal oportunidade de continuidade e expansão intrafamiliar.
 4. Adultos em Reabilitação — continuidade e maior valor por plano, sempre após avaliação.

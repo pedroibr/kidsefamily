@@ -6,12 +6,12 @@ status: draft
 owner: Clínica Kids e Family
 tags: [business-architecture, journeys, demand-states]
 created: 2026-08-04
-updated: 2026-08-04
+updated: 2026-08-11
 ---
 
 # Journeys
 
-> As jornadas são estados ativos de procura, não nomes de serviços. Foram inferidas a partir das sete ofertas fornecidas.
+> As jornadas são estados ativos de procura, não nomes de serviços. Foram alinhadas às dez ofertas e às três categorias atuais de descoberta.
 
 ## Item: Buscando iniciar o cuidado oral da criança com confiança
 
@@ -29,9 +29,19 @@ updated: 2026-08-04
 | --- | --- |
 | `businessAssets` | Clínica Kids e Family |
 | `profiles` | Famílias em Crescimento, Pacientes com Sintomas Complexos |
-| `mechanismINPUT` | Leitura integrada que relaciona cavidade oral, respiração, crescimento craniofacial e função oral, sem reduzir a situação a uma única especialidade. |
+| `mechanismINPUT` | Abordagem sistémica que parte da medicina dentária e considera respiração, crescimento craniofacial, hábitos e função oral quando existe relevância clínica, com coordenação e encaminhamento quando necessários. |
 | `multiStepINPUT` | Notar sinais ou dúvidas → procurar orientação confiável → realizar leitura integrada → entender hipóteses e limites → definir plano ou encaminhamento → acompanhar a evolução. |
-| `journeyDescription` | Sinais dispersos de crescimento, respiração ou função passam a ser compreendidos dentro de uma leitura integrada. A família reduz a confusão, entende limites e consegue decidir entre acompanhamento, tratamento ou encaminhamento. |
+| `journeyDescription` | Sinais dispersos de crescimento, respiração ou função passam a ser organizados numa leitura dentária mais contextual, sem assumir que possuem uma causa única. A família reduz a confusão, entende limites e consegue decidir entre acompanhamento, tratamento ou encaminhamento. |
+
+## Item: Tentando compreender sinais de sono, respiração ou roncopatia
+
+| Field | Value |
+| --- | --- |
+| `businessAssets` | Clínica Kids e Family |
+| `profiles` | Pacientes com Sintomas Complexos, Adultos em Reabilitação |
+| `mechanismINPUT` | Avaliação do possível contributo dentário e orofacial, explicação clara do âmbito da clínica e coordenação com outras áreas quando indicada. |
+| `multiStepINPUT` | Notar sinais de sono, respiração ou ronco → procurar orientação → realizar avaliação dentária contextual → compreender limites e hipóteses → definir acompanhamento ou encaminhamento → rever a evolução. |
+| `journeyDescription` | O adulto ou paciente sai da dúvida sobre o significado dos sinais e sobre qual profissional procurar para uma rota coordenada de avaliação. A clínica esclarece o papel possível da medicina dentária sem substituir diagnóstico médico ou atribuir uma causa única. |
 
 ## Item: Procurando resolver dor, desconforto ou perda de função
 
@@ -39,9 +49,9 @@ updated: 2026-08-04
 | --- | --- |
 | `businessAssets` | Clínica Kids e Family |
 | `profiles` | Pacientes com Sintomas Complexos, Adultos em Reabilitação |
-| `mechanismINPUT` | Avaliação clínica dirigida, esclarecimento da origem provável do problema dentro do escopo da equipa e plano de tratamento ou encaminhamento. |
+| `mechanismINPUT` | Avaliação clínica dirigida de dor, ATM e função mandibular, integrada a outras áreas apenas quando necessário, com esclarecimento de hipóteses, plano ou encaminhamento. |
 | `multiStepINPUT` | Perceber dor ou limitação → procurar uma avaliação → esclarecer o problema → comparar opções e prioridades → iniciar o cuidado → rever resposta e próximos passos. |
-| `journeyDescription` | A pessoa transforma dor, desconforto ou limitação em entendimento clínico e plano de ação. O benefício procurado é recuperar função, segurança e confiança para viver, dormir, falar, mastigar ou sorrir melhor. |
+| `journeyDescription` | A pessoa transforma dor, desconforto ou limitação em entendimento clínico e plano de ação sem depender de uma explicação simplista. Esta é a principal jornada de entrada para ATM/dor orofacial; o benefício procurado é recuperar função, segurança e confiança. |
 
 ## Item: Planejando alinhar, reabilitar ou manter a saúde oral ao longo da vida
 

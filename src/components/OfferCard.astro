@@ -1,0 +1,12 @@
+---
+import type { Offer } from '../data/offers';
+const { offer } = Astro.props as { offer: Offer };
+---
+<a class="offer-card reveal" href={`/cuidados/${offer.slug}/`} style={`--offer-image: url("${offer.image}")`}>
+  <div>
+    <p class="offer-card__tag">{offer.group}</p>
+    <h3>{offer.cardTitle}</h3>
+    <p>{offer.hero}</p>
+  </div>
+  <span class="offer-card__link">Conhecer este cuidado <span aria-hidden="true">→</span></span>
+</a>

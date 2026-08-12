@@ -6,12 +6,12 @@ status: draft
 owner: Clínica Kids e Family
 tags: [business-architecture, lead-magnets, acquisition]
 created: 2026-08-04
-updated: 2026-08-04
+updated: 2026-08-11
 ---
 
 # Lead Magnets
 
-> “Avaliação Respiração Oral Infantil” já existe e foi confirmada pelo utilizador e pelo site público [Respiração Oral](https://respiracaooral.pt/). “Mapa de Sinais de Dor e Função Mandibular” foi aprovado como conceito canônico a desenvolver. Critérios clínicos, perguntas, pontuação, recomendações e implementação pública devem permanecer sob revisão profissional.
+> “Avaliação Respiração Oral Infantil” já existe e foi confirmada pelo utilizador e pelo site público [Respiração Oral](https://respiracaooral.pt/). “Mapa de Sinais de Dor e Função Mandibular” foi aprovado como conceito canônico a desenvolver. Em conjunto, representam as duas entradas prioritárias — odontopediatria e ATM/dor orofacial — e traduzem a abordagem sistémica como organização de sinais e próximos passos, nunca como diagnóstico automático. Critérios clínicos, perguntas, pontuação, recomendações e implementação pública devem permanecer sob revisão profissional.
 
 ## Item: Avaliação Respiração Oral Infantil
 

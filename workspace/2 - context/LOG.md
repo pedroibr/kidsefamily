@@ -6,7 +6,7 @@ status: active
 owner: workspace
 tags: [context, log]
 created: 2026-07-26
-updated: 2026-08-04
+updated: 2026-08-11
 ---
 
 # Context Log
@@ -31,3 +31,13 @@ updated: 2026-08-04
 - Renamed the canonical pediatric lead magnet from “Avaliação com a Dra. Ro” to “Avaliação Respiração Oral Infantil”.
 - Expanded `AGENTS.md` into the local Context Builder document contract with canonical filenames, titles, required fields, relationship invariants, evidence rules, and maintenance requirements.
 - Normalized the canonical `businessName` to “Clínica Kids e Family” so business info and relation fields use the same exact item name.
+
+## 2026-08-11
+
+- Rewrote Business Info to define systemic dental medicine as an approach with dentistry at the core and explicit clinical limits.
+- Aligned journeys and audience priority with pediatric dentistry and TMJ/orofacial pain as the two entry routes.
+- Made systemic dental medicine a cross-cutting content lens and reframed the prevention pillar around coordination and continuity.
+- Clarified that the two existing lead magnets demonstrate triage and next-step organization rather than automatic diagnosis.
+- Expanded the offer architecture from seven to ten offers across Infância e desenvolvimento; Dor, função e sono; and Saúde oral, reabilitação e estética.
+- Separated Respiração oral infantil, Ortodontia infantil e desenvolvimento, Ortodontia funcional, and Ortodontia e alinhadores transparentes para adultos into distinct canonical offer records and value propositions.
+- Added a dedicated journey for adults or patients trying to understand sleep, breathing, and snoring signals and connected it to the relevant audiences and offer.

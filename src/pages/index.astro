@@ -1,0 +1,89 @@
+---
+import SiteLayout from '../layouts/SiteLayout.astro';
+import OfferCard from '../components/OfferCard.astro';
+import { offers } from '../data/offers';
+
+const title = 'Saúde oral e cuidado integrado para toda a família';
+const description = 'Clínica multidisciplinar em Oliveira de Azeméis para crianças, adultos e famílias. Saúde oral, sono, respiração, crescimento e cuidado coordenado.';
+---
+<SiteLayout title={title} description={description} active="home">
+  <section class="hero-home">
+    <div class="hero-orb" aria-hidden="true"><span class="hero-orb__label">um olhar<br />para a pessoa inteira</span></div>
+    <div class="wrap">
+      <p class="eyebrow">Oliveira de Azeméis · Saúde oral e cuidado integrado</p>
+      <h1>A saúde da sua família não se vê em <em>separado.</em></h1>
+      <p class="lede">Uma clínica multidisciplinar para cuidar da boca, do crescimento, da respiração, do sono e do bem-estar — com profissionais que conversam entre si.</p>
+      <div class="button-row">
+        <a class="button button--dark" href="/contacto/">Marcar uma avaliação <span aria-hidden="true">→</span></a>
+        <a class="button button--outline" href="#cuidados">Encontrar o cuidado certo</a>
+      </div>
+      <div class="hero-home__meta" aria-label="Informação sobre a clínica">
+        <span><i class="gold">●</i> Para crianças, adultos e famílias</span>
+        <span><i class="gold">●</i> Equipa com várias áreas</span>
+        <span><i class="gold">●</i> Um próximo passo claro</span>
+      </div>
+    </div>
+  </section>
+
+  <section class="section" id="jornadas">
+    <div class="wrap">
+      <div class="journey-head">
+        <p class="eyebrow">Por onde começar</p>
+        <h2>Comece pela situação. Nós ajudamos a organizar o resto.</h2>
+        <p class="muted" style="margin-top:1rem;">Não precisa de saber o nome da especialidade antes de nos contactar.</p>
+      </div>
+      <div class="journey-grid">
+        <a class="journey-card reveal" href="/cuidados/odontopediatria/"><span class="journey-card__number">01</span><h3>Quero começar o cuidado oral da criança.</h3><p>Primeira visita, prevenção, hábitos e desenvolvimento.</p></a>
+        <a class="journey-card reveal" href="/cuidados/sono-respiracao-roncopatia/"><span class="journey-card__number">02</span><h3>Notei sinais no sono ou na respiração.</h3><p>Ronco, boca aberta, sono agitado ou crescimento.</p></a>
+        <a class="journey-card reveal" href="/cuidados/dtm-dor-orofacial/"><span class="journey-card__number">03</span><h3>Tenho dor, tensão ou perda de função.</h3><p>Mandíbula, face, dentes, mastigação ou desconforto.</p></a>
+        <a class="journey-card reveal" href="/cuidados/medicina-dentaria-adulto/"><span class="journey-card__number">04</span><h3>Quero cuidar, alinhar ou recuperar.</h3><p>Prevenção, tratamento, ortodontia ou reabilitação.</p></a>
+      </div>
+    </div>
+  </section>
+
+  <section class="section section--deep" id="cuidados">
+    <div class="wrap">
+      <div class="section-heading">
+        <div><p class="eyebrow">Cuidados para cada fase</p><h2>Uma equipa para necessidades diferentes.</h2><p>Conheça as principais áreas de cuidado da clínica e encontre o ponto de partida que faz sentido para si.</p></div>
+        <a class="text-link" href="/cuidados/">Ver todos os cuidados <span aria-hidden="true">→</span></a>
+      </div>
+      <div class="offer-grid">
+        {offers.map((offer) => <OfferCard offer={offer} />)}
+      </div>
+    </div>
+  </section>
+
+  <section class="section section--dark">
+    <div class="wrap care-grid">
+      <div><p class="eyebrow">Como cuidamos</p><h2>Uma consulta. Um plano. Uma equipa que se coordena.</h2></div>
+      <div class="care-steps">
+        <article class="care-step reveal"><span class="care-step__num">01</span><h3>Escutamos</h3><p>A sua história, as suas dúvidas e o que precisa de mudar.</p></article>
+        <article class="care-step reveal"><span class="care-step__num">02</span><h3>Avaliamos</h3><p>O que está a acontecer e quais são as prioridades.</p></article>
+        <article class="care-step reveal"><span class="care-step__num">03</span><h3>Explicamos</h3><p>Alternativas e próximos passos, com linguagem clara.</p></article>
+        <article class="care-step reveal"><span class="care-step__num">04</span><h3>Acompanhamos</h3><p>O cuidado continua conforme a pessoa e a família mudam.</p></article>
+      </div>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="wrap proof">
+      <blockquote class="quote">Cuidar bem é <em>juntar as pontas</em> que uma consulta isolada não consegue ver.<cite>— A forma de trabalhar da Clínica Cristiane Martins</cite></blockquote>
+      <div class="proof-note"><strong>O que pode esperar de nós:</strong><br />tempo para compreender, uma indicação honesta e uma equipa que sabe quando é importante chamar outra área para a conversa.</div>
+    </div>
+  </section>
+
+  <section class="section section--deep">
+    <div class="wrap home-team">
+      <div><p class="eyebrow">A equipa</p><h2>O cuidado integrado começa nas pessoas.</h2><p class="muted" style="margin-top:1rem;">Profissionais diferentes, uma mesma responsabilidade: ajudar cada família a perceber o que fazer a seguir.</p></div>
+      <div>
+        <div class="home-team__list">
+          <div class="mini-person reveal"><b>Dra. Cristiane Martins</b><span>Odontopediatria · Respira e Cresce</span></div>
+          <div class="mini-person reveal"><b>Equipa de medicina dentária</b><span>Prevenção · Tratamento · Reabilitação</span></div>
+          <div class="mini-person reveal"><b>Equipa de desenvolvimento</b><span>Pediatria · Sono · Respiração · Fisioterapia</span></div>
+          <div class="mini-person reveal"><b>Equipa de apoio</b><span>O acolhimento antes, durante e depois</span></div>
+        </div>
+        <a class="text-link" style="margin-top:2rem;" href="/equipa/">Conhecer a equipa <span aria-hidden="true">→</span></a>
+      </div>
+    </div>
+  </section>
+</SiteLayout>

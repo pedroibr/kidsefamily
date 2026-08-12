@@ -4,7 +4,7 @@ title: Brand Report
 aliases:
   - Brand Report
   - Brand Messaging Report
-description: Condensa a razão, as crenças, os sinais de audiência e a plataforma de mensagens em decisões práticas para a marca.
+description: Condensa a tese sistémica, as crenças, os sinais de audiência e a plataforma em decisões práticas para a marca Kids e Family.
 status: draft
 owner: workspace
 tags:
@@ -13,113 +13,115 @@ tags:
   - messaging
   - report
 created: 2026-07-27
-updated: 2026-07-27
+updated: 2026-08-11
 ---
 
 # Brand Report
 
 ## Purpose
 
-Oferecer uma referência rápida para manter páginas, campanhas, ofertas e conteúdo alinhados à estratégia de marca proposta para a Clínica Cristiane Martins.
+Oferecer uma referência rápida para manter páginas, campanhas, ofertas e conteúdo alinhados ao novo posicionamento da Clínica Kids e Family.
 
 ## Brand Thesis
 
-A marca deve representar uma relação mais tranquila, preventiva e contínua com a saúde oral. Essa relação começa muitas vezes na primeira experiência da criança e ganha valor quando acompanha as diferentes necessidades da família.
+A Kids e Family deve representar uma medicina dentária que mantém foco na saúde oral e considera o contexto da pessoa quando o caso exige. A abordagem sistémica procura conectar avaliação, profissionais e próximos passos sem transformar qualquer sintoma num problema dentário.
 
-A odontopediatria é a principal âncora de confiança. A saúde integrada é a lógica que conecta prevenção, crescimento, ortodontia, cuidado adulto e reabilitação. A comunicação deve tornar essa conexão visível sem prometer o que a operação ainda não comprovou.
+A odontopediatria demonstra o valor de começar cedo, observar desenvolvimento e construir confiança. ATM e dor orofacial demonstram o valor de organizar sintomas complexos e função. A família representa continuidade: uma relação pode acompanhar diferentes fases sem perder o contexto.
 
 ## Core Audience Signal
 
-**“Eu cuido antes da urgência e escolho uma referência em quem a minha família pode confiar.”**
+**“Quero compreender e cuidar com critério, não apenas reagir ao problema.”**
 
 Sinais complementares:
 
-- Posso começar ou recomeçar sem culpa.
+- Quero uma visão mais completa, mas com rigor e limites.
+- Não quero coordenar sozinho profissionais e recomendações.
+- Cuido cedo e sem culpa quando se trata da criança.
 - Quero compreender antes de decidir.
-- Valorizo continuidade, não apenas conveniência.
-- Quero uma experiência segura para a criança e clara para quem cuida.
+- Valorizo continuidade para mim e para a minha família.
 
 ## Core Beliefs
 
-1. Cuidar cedo pode mudar a relação de uma pessoa com a saúde oral.
-2. Confiança nasce de acolhimento, clareza e continuidade.
-3. Saúde integrada significa coordenação visível, não apenas muitos serviços.
-4. A família merece uma referência para diferentes fases da vida.
-5. Prevenção deve orientar e facilitar ação, nunca culpabilizar.
+1. A boca faz parte da pessoa, mas não explica tudo.
+2. Integração é coordenação com propósito, não quantidade de especialidades.
+3. Cuidar cedo pode mudar a trajetória da saúde oral.
+4. Compreender vem antes de decidir.
+5. Continuidade transforma episódios em cuidado.
 
 ## Messaging Platform
 
-### Cuidado que cresce com a família
+### Cuidar da boca. Compreender o todo.
 
-A plataforma conecta a primeira consulta infantil à continuidade familiar. Ela permite comunicar odontopediatria, prevenção, ortodontia e cuidado adulto como partes de uma mesma relação, sem transformar a marca em uma lista de tratamentos.
+A plataforma combina o núcleo dentário com a visão sistémica. Deve ser sempre explicada por situações, processos e limites concretos.
 
-**Promessa de comunicação:** acolher o primeiro contato, ajudar a compreender o cuidado e conectar diferentes necessidades com continuidade.
+**Linha complementar de continuidade:** Cuidado que cresce com a família.
 
-Esta é a direção recomendada pelo workflow e ainda depende de validação da liderança, da equipa e de pacientes.
+**Promessa de comunicação:** observar o contexto, explicar prioridades, coordenar áreas relevantes e tornar o próximo passo claro.
 
 ## Primary Descriptor
 
-**Clínica multidisciplinar de saúde integrada, com especial força em odontopediatria e cuidado oral para todas as fases da família.**
+**Clínica de medicina dentária com abordagem sistémica e equipa multidisciplinar, para crianças, adultos e famílias.**
 
 Versão curta:
 
-**Saúde oral integrada para crianças, adultos e famílias.**
+**Medicina dentária com uma visão mais completa da pessoa.**
+
+Estas formulações são drafts sujeitos a validação clínica, linguística e regulatória.
 
 ## Recommended Endlines
 
-1. **Cuidado que cresce com a família.**
-2. **Da primeira consulta a cada nova fase.**
-3. **A família muda. O cuidado continua.**
+1. **Cuidar da boca. Compreender o todo.**
+2. **Cuidado que cresce com a família.**
+3. **Foco na saúde oral. Atenção à pessoa.**
 
-Selecionar uma única assinatura após validação e teste. As demais podem permanecer como alternativas, não como assinaturas simultâneas.
+A primeira lidera a diferenciação; a segunda sustenta infância e continuidade; a terceira é a alternativa institucional mais literal.
 
 ## Strongest Value Lines
 
-- Odontopediatria com acolhimento, prevenção e orientação para responsáveis.
-- Acompanhamento da saúde oral desde a infância até a vida adulta.
-- Uma equipa multidisciplinar para conectar diferentes necessidades da família.
-- Planos e próximos passos explicados com clareza.
-- Cuidado sem julgamento para quem está começando ou recomeçando.
-- Confiança construída consulta após consulta.
+- Medicina dentária com avaliação contextual e próximos passos claros.
+- Odontopediatria para prevenção, desenvolvimento e confiança desde cedo.
+- Avaliação de ATM e dor orofacial com atenção a sintomas e função.
+- Coordenação entre áreas quando clinicamente relevante.
+- Encaminhamentos com contexto e continuidade.
+- Cuidado para crianças, adultos e famílias ao longo das fases da vida.
 
 ## Campaign Implications
 
 ### Institucional
 
-Mostrar a jornada da família e a continuidade entre fases. A clínica deve aparecer como guia, não como heroína ou promessa de perfeição.
+Apresentar a tensão entre problema isolado e amplitude descoordenada. Explicar como a abordagem sistémica mantém foco dentário e integra apenas o que é relevante.
 
 ### Odontopediatria
 
-Trabalhar primeira consulta, acolhimento, prevenção, dúvidas dos responsáveis e relação sem medo. Evitar usar culpa como gatilho.
+Trabalhar primeira consulta, prevenção, desenvolvimento, hábitos, respiração e confiança sem sugerir causalidades automáticas.
 
-### Saúde integrada
+### ATM e dor orofacial
 
-Explicar coordenação por situações concretas: contexto compartilhado, prioridades, transições, encaminhamentos e próximos passos.
+Trabalhar sinais, impacto funcional, limites da autointerpretação e necessidade de avaliação dirigida.
 
-### Cuidado adulto
+### Família e continuidade
 
-Apresentar ortodontia, alinhadores, implantes, facetas e roncopatia dentro da necessidade e da relação de confiança, evitando campanhas desconectadas do território familiar.
+Mostrar como o cuidado iniciado cedo ou numa necessidade específica pode continuar entre fases e pessoas, sem parecer venda cruzada.
 
 ### Conteúdo
 
-Priorizar perguntas reais, decisões por fase da vida e orientação prática. Usar linguagem acessível, tecnicamente responsável e adaptada ao português de Portugal.
+Priorizar perguntas reais, relações clínicas responsáveis, critérios de encaminhamento e explicações de como a coordenação acontece.
 
 ### Aquisição local
 
-Fazer SEO local, avaliações e indicação ativa confirmarem a mesma proposta. Visibilidade deve ampliar reputação, não substituí-la.
+Fazer páginas, SEO, avaliações, lead magnets e indicação confirmarem as duas portas de entrada e a mesma proposta institucional.
 
 ## Messaging Guardrails
 
-- Não liderar com uma lista de tratamentos.
-- Não dizer “saúde integrada” sem mostrar como a integração acontece.
-- Não prometer ausência de medo, dor ou problemas clínicos.
-- Não usar culpa, urgência artificial ou insegurança estética como pressão.
-- Não alegar excelência, liderança regional ou resultados sem evidência verificável.
-- Não reduzir toda a clínica ao universo infantil; usar a odontopediatria como porta de entrada para a família.
-- Não fazer cada serviço parecer uma marca ou promessa separada.
-- Não transformar o cuidado em discurso sentimental sem explicação e prova.
-- Adaptar terminologia ao português de Portugal antes de publicação.
-- Revisar publicidade, testemunhos, imagens clínicas e alegações segundo as regras profissionais aplicáveis.
+- Não apresentar medicina dentária sistémica como especialidade reconhecida.
+- Não afirmar que todo problema de saúde começa na boca ou será tratado pela clínica.
+- Não confundir correlação, hipótese e causalidade.
+- Não usar “integrada” ou “multidisciplinar” sem mostrar coordenação real.
+- Não liderar com uma lista extensa de serviços.
+- Não reduzir a marca apenas ao universo infantil; manter a odontopediatria como entrada e prova.
+- Não perder criança e família ao comunicar sintomas complexos.
+- Não usar culpa, medo, urgência artificial ou promessa de resultado.
+- Submeter afirmações clínicas e descritores a revisão profissional antes de publicação.
 
 ## Relationships
 
@@ -137,9 +139,7 @@ Fazer SEO local, avaliações e indicação ativa confirmarem a mesma proposta. 
 
 ## Open Questions
 
-- A liderança aprova a tese “Cuidado que cresce com a família”?
-- Qual endline deve seguir para teste?
-- O descritor representa corretamente a amplitude clínica e a prática de saúde integrada?
-- Quais provas podem ser publicadas para sustentar odontopediatria, integração e continuidade?
-- Qual será o nome oficial e a assinatura verbal da marca?
-- Quem fará a revisão linguística em português de Portugal e a revisão regulatória?
+- A liderança aprova a plataforma e o descritor?
+- Que formulação será usada no site e que linhas ficam reservadas para campanhas?
+- Quais processos e provas podem ser mostrados publicamente?
+- Quem fará a revisão clínica, linguística e regulatória final?

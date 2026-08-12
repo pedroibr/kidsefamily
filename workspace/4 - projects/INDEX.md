@@ -6,7 +6,7 @@ status: active
 owner: workspace
 tags: [projects, index]
 created: 2026-07-26
-updated: 2026-07-26
+updated: 2026-08-11
 ---
 
 # Projects
@@ -21,7 +21,8 @@ Use this workspace for temporary initiatives with a defined scope, outcome, owne
 - [Funnel A](funnel_a/INDEX.md)
 - [Process Project](process_project/INDEX.md)
 - [Project X](project_x/INDEX.md)
-- [Website](website/INDEX.md)
+- [Clínica KF Website Plan](clinica-kf/SITE_PLAN.md)
+- [Website 2026 — Current Website References](Website%202026/Current%20Website/README.md)
 
 ## Related Context
 

@@ -1,0 +1,16 @@
+---
+import SiteLayout from '../layouts/SiteLayout.astro';
+const specialists = [
+  ['CM', 'Dra. Cristiane Martins', 'Odontopediatria · Respira e Cresce', 'Fundadora e coordenadora do olhar integrado da clínica.'],
+  ['AM', 'Dra. Ana Margarida', 'Pediatria', 'Cuidar das crianças atenta ao seu desenvolvimento.'],
+  ['MD', 'Equipa de medicina dentária', 'Prevenção · Tratamento · Reabilitação', 'Cuidado oral para crianças, adultos e famílias.'],
+  ['PS', 'Equipa de sono e respiração', 'Sono · Respiração · Pneumologia', 'Avaliar sinais que atravessam a boca, o corpo e o descanso.'],
+  ['FI', 'Equipa de fisioterapia', 'Fisioterapia integrativa · Postura', 'A função e o movimento também fazem parte do cuidado.'],
+  ['AP', 'Equipa de apoio', 'Receção · Assistência · Acompanhamento', 'O acolhimento que torna cada visita mais simples.'],
+];
+---
+<SiteLayout title="Equipa" description="Conheça a equipa multidisciplinar da Clínica Cristiane Martins, em Oliveira de Azeméis." active="team">
+  <section class="page-intro"><div class="wrap"><a class="page-intro__back" href="/">← Início</a><p class="eyebrow">As pessoas por trás do cuidado</p><h1>Uma equipa que conversa.</h1><p class="lede">A clínica reúne diferentes áreas para que cada pessoa tenha uma orientação coordenada, com proximidade e clareza.</p></div></section>
+  <section class="section"><div class="wrap team-intro"><div><p class="eyebrow">A nossa forma de trabalhar</p><h2>O cuidado integrado começa na relação.</h2></div><div class="team-intro__body"><p>Não acreditamos que uma família deva ter de juntar sozinha todas as peças do seu cuidado. O nosso trabalho começa por escutar bem e perceber quando uma situação pede mais do que uma área.</p><p>A equipa é formada por profissionais com diferentes competências e por uma estrutura de apoio que acompanha a experiência do primeiro contacto ao seguimento.</p></div></div></section>
+  <section class="section section--deep"><div class="wrap"><div class="section-heading"><div><p class="eyebrow">Conheça a equipa</p><h2>Áreas diferentes. Uma mesma responsabilidade.</h2></div></div><div class="people-grid">{specialists.map((person) => <article class="person reveal"><div class="person__initials" aria-hidden="true">{person[0]}</div><h3>{person[1]}</h3><p class="person__role">{person[2]}</p><p>{person[3]}</p></article>)}</div></div></section>
+</SiteLayout>

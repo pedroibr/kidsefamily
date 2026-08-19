@@ -6,12 +6,12 @@ status: draft
 owner: Clínica Kids e Family
 tags: [business-architecture, lead-magnets, acquisition]
 created: 2026-08-04
-updated: 2026-08-11
+updated: 2026-08-18
 ---
 
 # Lead Magnets
 
-> “Avaliação Respiração Oral Infantil” já existe e foi confirmada pelo utilizador e pelo site público [Respiração Oral](https://respiracaooral.pt/). “Mapa de Sinais de Dor e Função Mandibular” foi aprovado como conceito canônico a desenvolver. Em conjunto, representam as duas entradas prioritárias — odontopediatria e ATM/dor orofacial — e traduzem a abordagem sistémica como organização de sinais e próximos passos, nunca como diagnóstico automático. Critérios clínicos, perguntas, pontuação, recomendações e implementação pública devem permanecer sob revisão profissional.
+> “Avaliação Respiração Oral Infantil” já existe e foi confirmada pelo utilizador e pelo site público [Respiração Oral](https://respiracaooral.pt/). “Mapa de Sinais de Dor e Função Mandibular” foi aprovado como conceito canônico a desenvolver. “Primeira Consulta de Odontopediatria” foi acrescentada como recurso de preparação e qualificação para responsáveis que procuram a primeira avaliação da criança. Em conjunto, estes ativos apoiam as duas entradas prioritárias — odontopediatria e ATM/dor orofacial — e traduzem a abordagem sistémica como organização de sinais, preparação e próximos passos, nunca como diagnóstico automático. Critérios clínicos, perguntas, recomendações e implementação pública devem permanecer sob revisão profissional.
 
 ## Item: Avaliação Respiração Oral Infantil
 
@@ -34,6 +34,28 @@ updated: 2026-08-11
 | `offerValueProposition` | Ajudar os responsáveis a reconhecer e organizar sinais relacionados à respiração oral da criança e compreender se devem procurar uma avaliação especializada. |
 | `offerCustomName` | Avaliação Respiração Oral Infantil |
 | `bridgeToOffer` | O resultado reduz a incerteza sobre sinais de respiração oral e como eles podem relacionar-se com o desenvolvimento oral da criança, conduzindo ao agendamento do Checkup Respira e Cresce 360º como porta de entrada para avaliação odontopediátrica. |
+
+## Item: Primeira Consulta de Odontopediatria
+
+| Field | Value |
+| --- | --- |
+| `businessAssets` | Clínica Kids e Family |
+| `profiles` | Responsáveis na Primeira Consulta, Famílias em Crescimento |
+| `journeys` | Buscando iniciar o cuidado oral da criança com confiança |
+| `offers` | Odontopediatria |
+| `leadMagnetType` | readiness |
+| `leadMagnetScope` | preparationStep |
+| `deliveryMechanism` | page |
+| `offerFormat` | shortGuideLandingPage |
+| `offerAttention` | oneToMany |
+| `offerEffort` | DIY (DoItYourself) |
+| `offerHowToGetIt` | byPage (accessPage > scheduleAppointment) |
+| `offerCore` | Página curta que explica o que é a primeira consulta de odontopediatria, como preparar a criança e o responsável, o que normalmente acontece e quais benefícios uma avaliação inicial pode trazer. É um recurso de orientação e preparação, não uma consulta, diagnóstico ou promessa de resultado. |
+| `offerValueEquation` | dreamOutcome=chegar à primeira consulta com mais segurança, expectativas realistas e perguntas úteis; perceivedLikelihood=explicação simples do processo, preparação prática, benefícios claros e limites clínicos explícitos; timeDelay=orientação imediata na página antes do contacto; effortSacrifice=ler uma página curta, refletir sobre a situação da criança e decidir se faz sentido marcar. |
+| `offerStack` | coreComponents=explicação da primeira consulta, preparação da criança, preparação do responsável, o que esperar, benefícios da avaliação, perguntas úteis, próximos passos e CTA de marcação; bonuses=noneConfirmed. |
+| `offerValueProposition` | Ajudar os responsáveis a transformar a primeira consulta de odontopediatria numa experiência mais previsível, acolhedora e útil para começar o cuidado oral da criança. |
+| `offerCustomName` | Primeira Consulta de Odontopediatria |
+| `bridgeToOffer` | A página reduz a ansiedade e a incerteza de quem procura a primeira avaliação e conduz naturalmente ao agendamento da oferta de Odontopediatria, sem substituir a consulta nem incentivar autodiagnóstico. |
 
 ## Item: Mapa de Sinais de Dor e Função Mandibular
 

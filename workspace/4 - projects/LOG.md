@@ -6,10 +6,14 @@ status: active
 owner: workspace
 tags: [projects, log]
 created: 2026-07-26
-updated: 2026-08-11
+updated: 2026-08-18
 ---
 
 # Projects Log
+
+## 2026-08-18
+
+- Formalized Website 2026 as the active website project and added an SEO area with the first intent-led sitemap.
 
 ## 2026-08-11
 

@@ -1,11 +1,14 @@
 # Projects Memory
 
 ## Active Projects and Work
+- 2026-08-18: Website 2026 now contains an SEO sitemap that organizes seven main service families, subservices, blog clusters, and campaign landing pages by intent and page goal.
 - 2026-08-11: The Clínica KF WordPress staging site uses the ACF-managed `especialidades` custom post type with ten published specialty shells and a three-term care-area taxonomy; page ID 164 is the editable `/especialidades/` hub, both menus point to it, and the obsolete page shells are in the trash.
 - 2026-06-07: This folder is the default home for direct project contexts.
 - 2026-08-05: `clinica-kf` is synchronized with `leomachadopt/clinica-kf`; the refreshed homepage and internal page structure are deployed privately on Sites at https://clinica-kf-website.nosteros-0869.chatgpt.site.
 
 ## Decisions
+- 2026-08-18: Keep `/especialidades/` as the WordPress hub page; use the `especialidades` CPT for both main-service and subservice commercial pages, and use `post` for supporting editorial clusters.
+- 2026-08-18: Treat commercial hierarchy as an editorial and internal-link relationship rather than requiring nested specialty URLs in the first SEO cycle.
 - 2026-08-11: Use page ID 164 as the editable `/especialidades/` hub and keep the CPT archive disabled while preserving `/especialidades/[slug]/` for individual records; use the native excerpt as the short description and `area_cuidado` for the three editorial groupings.
 - 2026-08-11: Keep Main Menu ID 38 with the three care-group divisions and use classic menu ID 49, `Especialidades`, when the grouped specialty tree is needed as a standalone menu.
 - 2026-08-11: Use classic menu ID 50, `Footer Menu`, for the four footer links: Início, Sobre, Blog, and Contacto.

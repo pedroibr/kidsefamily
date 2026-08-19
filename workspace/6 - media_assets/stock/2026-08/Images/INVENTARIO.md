@@ -1,0 +1,52 @@
+---
+type: Inventory
+title: Inventário de imagens de stock — Clínica Kids e Family
+description: Lote inicial de imagens Pexels para exploração do website, com rastreabilidade de origem e notas de validação.
+status: draft
+owner: workspace
+tags: [stock, images, website, pexels, clinica-kids-family]
+created: 2026-08-18
+updated: 2026-08-18
+---
+
+# Inventário de imagens de stock
+
+## Escopo e estado
+
+Lote de 15 imagens descarregadas em 2026-08-18 para exploração do website da Clínica Kids e Family. O conjunto seleccionado é integralmente horizontal para permitir cortes posteriores para formatos verticais. Foram guardados os originais JPEG em `originais/` e versões WebP optimizadas em `webp/`; não foi feito upload nem publicação em WordPress.
+
+Fonte principal: [Pexels](https://www.pexels.com/). A [Pexels License](https://www.pexels.com/license/) permite utilização gratuita e edição, sem exigir atribuição, mas a utilização comercial continua sujeita a validação de pessoas identificáveis, marcas/logótipos, propriedade e contexto de uso. O estado `validar` é deliberado: este inventário não substitui confirmação de releases, direitos de terceiros ou revisão clínica/regulatória.
+
+Data de download: **2026-08-18** para todos os 15 itens abaixo.
+
+## Lote seleccionado
+
+| # | Área / uso sugerido | Original | WebP | Autor | Dimensões | Origem (página Pexels) | Licença | Estado / nota |
+|---:|---|---|---|---|---:|---|---|---|
+| 1 | Odontopediatria / hero de consulta infantil | [pediatria-consulta-infantil-8224633.jpg](originais/pediatria-consulta-infantil-8224633.jpg) | [WebP](webp/pediatria-consulta-infantil-8224633.webp) | Lakhinandan Borah | 6000×4000, horizontal | [Página de origem](https://www.pexels.com/photo/photo-of-a-child-in-dental-clinic-8224633/) · [descarga directa](https://images.pexels.com/photos/8224633/pexels-photo-8224633.jpeg) | Pexels License | **Validar** — criança e profissional identificáveis; confirmar releases e enquadramento antes de publicar. |
+| 2 | Consulta infantil / prevenção | [pediatria-consulta-19775897.jpg](originais/pediatria-consulta-19775897.jpg) | [WebP](webp/pediatria-consulta-19775897.webp) | Ông Ngọc Dư | 7008×4672, horizontal | [Página de origem](https://www.pexels.com/photo/child-at-the-dentists-19775897/) · [descarga directa](https://images.pexels.com/photos/19775897/pexels-photo-19775897.jpeg) | Pexels License | **Validar** — criança e profissional identificáveis; não associar a alegações de resultado clínico. |
+| 3 | Odontopediatria / família / confiança | [pediatria-familia-19854753.jpg](originais/pediatria-familia-19854753.jpg) | [WebP](webp/pediatria-familia-19854753.webp) | Ông Ngọc Dư | 7008×4672, horizontal | [Página de origem](https://www.pexels.com/photo/women-and-dentist-over-child-19854753/) · [descarga directa](https://images.pexels.com/photos/19854753/pexels-photo-19854753.jpeg) | Pexels License | **Validar** — criança, acompanhante e equipa identificáveis; confirmar releases e ausência de marcas visíveis. |
+| 4 | Respiração / sono / acolhimento | [respiracao-sono-6541151.jpg](originais/respiracao-sono-6541151.jpg) | [WebP](webp/respiracao-sono-6541151.webp) | Polina | 4592×3064, horizontal | [Página de origem](https://www.pexels.com/photo/a-woman-sleeping-6541151/) · [descarga directa](https://images.pexels.com/photos/6541151/pexels-photo-6541151.jpeg) | Pexels License | **Validar** — pessoa identificável; usar apenas como ambiente de descanso, sem sugerir diagnóstico, apneia ou resultado terapêutico. |
+| 5 | ATM / dor orofacial / oclusão | [atm-dor-orofacial-oclusao-6627594.jpg](originais/atm-dor-orofacial-oclusao-6627594.jpg) | [WebP](webp/atm-dor-orofacial-oclusao-6627594.webp) | www.kaboompics.com | 5763×3842, horizontal | [Página de origem](https://www.pexels.com/photo/close-up-of-a-jaw-model-6627594/) · [descarga directa](https://images.pexels.com/photos/6627594/pexels-photo-6627594.jpeg) | Pexels License | **Rever** — modelo sem pessoas ou logótipos aparentes; usar como ilustração de oclusão/anatomia, não como alegação clínica. |
+| 6 | ATM / anatomia / consulta técnica | [atm-modelo-instrumentos-4269364.jpg](originais/atm-modelo-instrumentos-4269364.jpg) | [WebP](webp/atm-modelo-instrumentos-4269364.webp) | Cedric Fauntleroy | 8245×5497, horizontal | [Página de origem](https://www.pexels.com/photo/close-up-shot-of-dental-tools-4269364/) · [descarga directa](https://images.pexels.com/photos/4269364/pexels-photo-4269364.jpeg) | Pexels License | **Rever** — modelo e instrumentos; verificar se nenhum texto de apoio ou elemento de terceiros fica legível no corte final. |
+| 7 | Ortodontia / alinhadores transparentes | [ortodontia-alinhadores-28407748.jpg](originais/ortodontia-alinhadores-28407748.jpg) | [WebP](webp/ortodontia-alinhadores-28407748.webp) | Laura Beauty Designer (Brasil) | 6240×4160, horizontal | [Página de origem](https://www.pexels.com/photo/invisalign-28407748/) · [descarga directa](https://images.pexels.com/photos/28407748/pexels-photo-28407748.jpeg) | Pexels License | **Rever** — mãos e alinhadores, sem rosto identificável; remover ou validar qualquer referência de marca antes de usar. |
+| 8 | Medicina dentária geral / prevenção / família | [prevencao-familia-escovagem-8307421.jpg](originais/prevencao-familia-escovagem-8307421.jpg) | [WebP](webp/prevencao-familia-escovagem-8307421.webp) | Mikhail Nilov | 6000×3376, horizontal | [Página de origem](https://www.pexels.com/photo/people-brushing-their-teeth-8307421/) · [descarga directa](https://images.pexels.com/photos/8307421/pexels-photo-8307421.jpeg) | Pexels License | **Validar** — avô e neto identificáveis; confirmar releases e não apresentar a imagem como família/paciente da clínica. |
+| 9 | Medicina dentária geral / instrumentos | [medicina-dentaria-instrumentos-4269356.jpg](originais/medicina-dentaria-instrumentos-4269356.jpg) | [WebP](webp/medicina-dentaria-instrumentos-4269356.webp) | Cedric Fauntleroy | 6000×4000, horizontal | [Página de origem](https://www.pexels.com/photo/close-up-shot-of-dental-tools-4269356/) · [descarga directa](https://images.pexels.com/photos/4269356/pexels-photo-4269356.jpeg) | Pexels License | **Rever** — instrumentos sem pessoas; inspeccionar texto/cartão e marcas antes de publicação. |
+| 10 | Estética / restauração / educação visual | [estetica-restauracao-modelo-5794073.jpg](originais/estetica-restauracao-modelo-5794073.jpg) | [WebP](webp/estetica-restauracao-modelo-5794073.webp) | emirkhan bal | 5472×3080, horizontal | [Página de origem](https://www.pexels.com/photo/a-dental-model-on-a-white-surface-5794073/) · [descarga directa](https://images.pexels.com/photos/5794073/pexels-photo-5794073.jpeg) | Pexels License | **Rever** — modelo dentário sem pessoas; usar como apoio visual, sem prometer transformação estética. |
+| 11 | Implantologia / reabilitação | [implantologia-modelo-6502343.jpg](originais/implantologia-modelo-6502343.jpg) | [WebP](webp/implantologia-modelo-6502343.webp) | cottonbro studio | 6186×4124, horizontal | [Página de origem](https://www.pexels.com/photo/close-up-shot-of-dental-implant-model-6502343/) · [descarga directa](https://images.pexels.com/photos/6502343/pexels-photo-6502343.jpeg) | Pexels License | **Rever** — modelo de implante sem pessoas; não apresentar como caso real ou promessa de resultado. |
+| 12 | Implantologia / reabilitação / laboratório | [reabilitacao-implantologia-modelo-4687905.jpg](originais/reabilitacao-implantologia-modelo-4687905.jpg) | [WebP](webp/reabilitacao-implantologia-modelo-4687905.webp) | Jonathan Borba | 5472×3648, horizontal | [Página de origem](https://www.pexels.com/photo/dental-implants-with-screw-on-table-in-clinic-4687905/) · [descarga directa](https://images.pexels.com/photos/4687905/pexels-photo-4687905.jpeg) | Pexels License | **Rever** — modelo e componentes; confirmar se o contexto não sugere um procedimento específico não confirmado pela clínica. |
+| 13 | Ambiente / acolhimento / sala de espera | [ambiente-sala-espera-8459996.jpg](originais/ambiente-sala-espera-8459996.jpg) | [WebP](webp/ambiente-sala-espera-8459996.webp) | Los Muertos Crew | 5707×3805, horizontal | [Página de origem](https://www.pexels.com/photo/waiting-room-in-a-hospital-8459996/) · [descarga directa](https://images.pexels.com/photos/8459996/pexels-photo-8459996.jpeg) | Pexels License | **Rever** — interior sem pessoas; confirmar que o espaço não é reconhecível como outra clínica e não contém marcas. |
+| 14 | Ambiente / gabinete / confiança | [ambiente-clinica-3845723.jpg](originais/ambiente-clinica-3845723.jpg) | [WebP](webp/ambiente-clinica-3845723.webp) | Anna Shvets | 6000×4000, horizontal | [Página de origem](https://www.pexels.com/photo/dental-clinic-3845723/) · [descarga directa](https://images.pexels.com/photos/3845723/pexels-photo-3845723.jpeg) | Pexels License | **Validar** — profissional visível e ambiente de clínica de terceiros; confirmar releases e que não há logótipos antes de usar. |
+| 15 | Família / acolhimento / continuidade | [acolhimento-familia-11369232.jpg](originais/acolhimento-familia-11369232.jpg) | [WebP](webp/acolhimento-familia-11369232.webp) | Anna Shvets | 5869×3913, horizontal | [Página de origem](https://www.pexels.com/photo/young-parents-with-baby-11369232/) · [descarga directa](https://images.pexels.com/photos/11369232/pexels-photo-11369232.jpeg) | Pexels License | **Validar** — família identificável; confirmar model releases e evitar apresentar a família como paciente ou testemunho da clínica. |
+
+## Critérios de utilização
+
+- Confirmar internamente a licença e os direitos de terceiros no momento da publicação; a Pexels não garante releases para cada imagem.
+- Não usar pessoas fotografadas como se fossem profissionais, pacientes, testemunhos ou representantes da Clínica Kids e Family.
+- Não associar imagens de sono, dor, modelos ou instrumentos a diagnóstico, eficácia, tratamento garantido ou resultado clínico.
+- Inspeccionar o corte final para excluir logótipos, marcas, texto legível e elementos que identifiquem outra clínica.
+- Usar os JPEG em `originais/` como arquivo de referência e os WebP em `webp/` para testes de performance; nenhuma versão foi carregada para WordPress.
+
+## Candidatos retirados do lote final
+
+Seis ficheiros descarregados durante a triagem foram movidos de forma recuperável para `descartados-revisao/`: três verticais, um gabinete vertical, uma repetição/alternativa de modelo e a alternativa quase quadrada de prevenção. Não fazem parte dos 15 itens inventariados.

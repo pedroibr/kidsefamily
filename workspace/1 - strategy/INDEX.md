@@ -6,7 +6,7 @@ status: active
 owner: workspace
 tags: [strategy, index]
 created: 2026-07-26
-updated: 2026-07-27
+updated: 2026-08-04
 ---
 
 # Strategy

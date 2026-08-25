@@ -6,7 +6,7 @@ status: draft
 owner: Clínica Cristiane Martins
 tags: [marketing, priorities, growth]
 created: 2026-07-27
-updated: 2026-07-27
+updated: 2026-08-24
 ---
 
 # Prioridades Iniciais de Marketing
@@ -24,7 +24,7 @@ Serviços, profissionais, escopo clínico, capacidade e prioridade comercial ain
 **Cuidado integrado da família, com a saúde oral como porta de entrada — não como limite.** A clínica pode acolher uma necessidade específica ou a primeira consulta da criança e orientar a continuidade do cuidado de cada família com clareza.
 
 - Demonstrar integração por percursos, coordenação e provas permitidas, não por uma lista de especialidades.
-- Não apresentar “saúde sistémica” como promessa ampla ou resultado garantido; qualquer relação clínica deve ser revista e corresponder ao âmbito efetivamente prestado.
+- Não apresentar “saúde integrada” como promessa ampla ou resultado garantido; qualquer relação clínica deve ser revista e corresponder ao âmbito efetivamente prestado.
 - Evitar culpa, urgência artificial, diagnósticos em anúncio e promessas de resultados, dor ou medo.
 - Usar a odontopediatria como porta de confiança, sem limitar a identidade da clínica ao público infantil.
 

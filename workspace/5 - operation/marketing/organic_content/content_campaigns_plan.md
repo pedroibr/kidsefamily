@@ -6,7 +6,7 @@ status: draft
 owner: Clínica Cristiane Martins
 tags: [marketing, content, instagram, facebook, reputation]
 created: 2026-07-27
-updated: 2026-07-27
+updated: 2026-08-24
 ---
 
 # Plano-Base de Campanhas de Conteúdo
@@ -29,7 +29,7 @@ updated: 2026-07-27
 
 ## Princípio editorial
 
-**Cuidado integrado da família, com a saúde oral como porta de entrada — não como limite.** O conteúdo deve mostrar como a clínica acolhe e orienta as diferentes fases e necessidades, sem transformar “saúde sistémica” em promessa ampla, causalidade garantida ou afirmação fora do escopo clínico confirmado.
+**Cuidado integrado da família, com a saúde oral como porta de entrada — não como limite.** O conteúdo deve mostrar como a clínica acolhe e orienta as diferentes fases e necessidades, sem transformar “saúde integrada” em promessa ampla, causalidade garantida ou afirmação fora do escopo clínico confirmado.
 
 Odontopediatria é uma âncora de confiança e prevenção, mas o conteúdo não deve apresentar a clínica apenas como infantil nem como uma lista de procedimentos.
 

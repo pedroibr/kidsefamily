@@ -6,7 +6,7 @@ status: active
 owner: workspace
 tags: [strategy, market-signals, index]
 created: 2026-07-27
-updated: 2026-07-28
+updated: 2026-08-01
 ---
 
 # Market Signals
@@ -23,7 +23,9 @@ Usar este contexto para definir, pesquisar e sintetizar sinais externos que poss
 
 Não usar estes documentos como contexto ativo, exceto quando solicitado explicitamente.
 
-- [Monitoring Signals — versão anterior ao alinhamento de conteúdo](Archived/monitoring_signals_2026-07-28_pre-content-alignment.md)
+- [Monitoring Signals V1](Archived/V1%20monitoring_signals.md)
+- `OLD 2 monitoring_signals.md` — versão de teste expandida.
+- Relatórios `OLD` — testes semanais arquivados.
 
 ## Planned Documents
 

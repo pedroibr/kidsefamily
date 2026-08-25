@@ -3,7 +3,7 @@ type: Strategy
 title: True Competitors
 aliases:
   - True Competitors
-description: Mapeia o campo competitivo real da Clínica Cristiane Martins, incluindo concorrentes diretos, alternativas indiretas, inércia e critérios de escolha.
+description: Mapeia o campo competitivo real da Clínica Kids e Family, incluindo modelos de cuidado, alternativas indiretas, inércia e critérios de escolha.
 status: draft
 owner: workspace
 tags:
@@ -12,75 +12,77 @@ tags:
   - dentistry
   - portugal
 created: 2026-07-26
-updated: 2026-07-26
+updated: 2026-08-24
 ---
 
 # True Competitors
 
 ## Purpose
 
-Definir contra quais alternativas a Clínica Cristiane Martins realmente compete quando uma família ou um adulto decide iniciar, manter, adiar ou abandonar cuidados de saúde oral na região de Oliveira de Azeméis.
+Definir contra quais alternativas a Clínica Kids e Family compete quando crianças, famílias e adultos procuram cuidado dentário, tentam compreender sintomas ou decidem adiar uma avaliação.
 
 ## Customer Jobs
 
-- Proteger a saúde oral da criança desde cedo, prevenindo problemas e criando uma relação positiva com o médico dentista.
-- Resolver dor, urgências ou problemas funcionais com segurança e previsibilidade.
-- Concentrar o cuidado oral da família em uma equipa confiável, reduzindo trocas de prestador e fragmentação clínica.
-- Acompanhar crescimento, desenvolvimento e necessidade de ortodontia ao longo do tempo.
-- Recuperar função, estética e confiança por meio de reabilitação, implantes, facetas ou alinhadores.
-- Investigar e tratar, quando indicado, questões relacionadas com roncopatia em articulação com outras áreas da saúde.
-- Entender o tratamento, o custo e a prioridade clínica antes de assumir um compromisso financeiro.
+- Começar cedo o cuidado oral da criança e acompanhar crescimento, hábitos e desenvolvimento.
+- Resolver dor, urgência, desconforto ou perda de função com um plano compreensível.
+- Entender quando sinais de boca, mandíbula, respiração, sono ou crescimento precisam de uma leitura coordenada.
+- Concentrar o cuidado dentário da família sem perder profundidade clínica.
+- Recuperar saúde, função, estética e confiança ao longo da vida.
+- Saber quem coordena o caso, quais são as prioridades e quando é necessário encaminhar.
 
 ## Emotional Needs
 
-- Sentir confiança na competência e na honestidade da equipa.
-- Perceber que a criança será acolhida sem medo, pressão ou experiências traumáticas.
-- Reduzir culpa ou ansiedade por ter adiado prevenção ou tratamento.
-- Ter segurança de continuidade: saber quem acompanha o caso e o que acontece depois.
-- Sentir que a família é conhecida como um todo, não tratada como uma sequência de procedimentos isolados.
-- Preservar autoestima e tranquilidade em decisões de maior investimento.
+- Sentir que a pessoa é compreendida, não reduzida a um dente ou procedimento.
+- Confiar que relações clínicas relevantes serão investigadas sem explicações simplistas.
+- Perceber que a criança será acolhida e acompanhada sem culpa ou pressão.
+- Evitar reconstruir o contexto e a confiança a cada especialidade ou nova fase.
+- Tomar decisões informadas, proporcionais e tecnicamente responsáveis.
 
 ## Purchase Contexts
 
-- Primeira consulta da criança ou início de prevenção nos primeiros anos de vida.
-- Dor, trauma, urgência ou identificação de um problema já instalado.
-- Recomendação de familiares, amigos, escola, pediatra ou outro profissional de saúde.
-- Mudança para Oliveira de Azeméis ou concelhos próximos sem médico dentista de confiança.
-- Transição entre odontopediatria, acompanhamento do crescimento e ortodontia.
-- Busca por uma solução estética, funcional ou reabilitadora em adultos.
-- Comparação de orçamentos para implantes, facetas, ortodontia ou alinhadores.
-- Identificação de ronco, sono não reparador ou necessidade de avaliação interdisciplinar.
-- Decisão de voltar ao cuidado regular depois de um período sem consultas.
+- Primeira consulta, prevenção ou sinais de crescimento e respiração na criança.
+- Dor orofacial, ruídos, limitação ou desconforto relacionado com ATM e função mandibular.
+- Necessidade de ortodontia, alinhamento, reabilitação, implantes, restauração ou estética.
+- Sintomas que parecem atravessar mais de uma área da saúde.
+- Procura por uma nova referência familiar depois de mudança, indicação ou perda de confiança.
+- Retorno ao cuidado depois de um período sem acompanhamento.
 
 ## Alternative Map
 
-| Alternativa | Job que resolve | Razão de escolha | Limitação estratégica |
+| Alternativa | O que resolve bem | Razão de escolha | Limitação estratégica típica |
 |---|---|---|---|
-| Clínicas generalistas locais de proximidade | Rotina, urgência e tratamentos comuns | Conveniência, hábito e preço | Podem não oferecer uma jornada pediátrica e familiar claramente integrada |
-| Clínicas familiares ou multidisciplinares consolidadas | Cuidado longitudinal da família | Reputação, confiança e amplitude clínica | Disputam diretamente vínculo, indicação e retenção familiar |
-| Clínicas especializadas em procedimentos | Ortodontia, alinhadores, implantologia, estética ou sono | Autoridade percebida em uma necessidade específica | Frequentemente entram apenas em uma etapa e não organizam toda a jornada familiar |
-| Cadeias, franquias e operadores promocionais | Tratamentos comparáveis e financiáveis | Visibilidade, preço, campanhas e facilidades de pagamento | Tendem a competir por transação e podem reduzir o valor percebido do acompanhamento |
-| SNS, cheque-dentista e prestadores aderentes | Acesso subsidiado ou de menor desembolso | Custo e elegibilidade | Cobertura, continuidade e disponibilidade variam; não substituem toda a jornada privada |
-| Adiar, cuidar apenas em casa ou procurar ajuda só na urgência | Evitar custo, medo ou complexidade imediata | Ausência de dor, baixa percepção de necessidade e restrição financeira | Aumenta risco clínico e custo futuro, mas é uma alternativa muito comum |
-| Clínicas de referência fora da região | Casos complexos ou marcas percebidas como superiores | Especialização, prestígio ou recomendação profissional | Exigem deslocamento e tornam continuidade menos conveniente |
+| Consultório ou clínica dentária tradicional | Rotina, urgência e procedimentos dentários objetivos | Proximidade, simplicidade, hábito e preço | Pode organizar o cuidado por queixa ou procedimento e fragmentar casos que exigem relações entre áreas |
+| Policlínica ou clínica multidisciplinar generalista | Acesso a várias áreas da saúde no mesmo local | Amplitude, conveniência e sensação de solução completa | A presença de vários profissionais não garante um plano comum, liderança clínica ou uma proposta reconhecível |
+| Especialista isolado | Profundidade numa necessidade específica | Autoridade percebida e encaminhamento | Resolve uma etapa, mas pode não coordenar a jornada anterior ou posterior |
+| Cadeia ou operador promocional | Tratamentos comparáveis e financiáveis | Visibilidade, preço e facilidade comercial | Favorece comparação transacional e pode reduzir continuidade e contexto |
+| Adiar, autocuidar ou procurar apenas na urgência | Evitar custo, medo ou complexidade imediata | Ausência de dor, baixa perceção de necessidade e restrição financeira | Mantém o padrão reativo e pode tornar decisões futuras mais complexas |
+| SNS, cheque-dentista e prestadores aderentes | Acesso subsidiado ou menor desembolso | Custo e elegibilidade | Cobertura, disponibilidade e continuidade variam |
+
+## Category Comparison
+
+| Dimensão | Medicina dentária tradicional | Policlínica generalista | Espaço da medicina dentária integrada |
+|---|---|---|---|
+| Centro | Dente, boca ou procedimento | Diversas áreas com igual presença | Medicina dentária como núcleo do caso |
+| Amplitude | Foco claro, integração variável | Grande amplitude, foco potencialmente difuso | Integração seletiva apenas quando clinicamente relevante |
+| Organização | Consulta e tratamento | Especialidades ou departamentos | Jornada, plano comum e próximos passos |
+| Coordenação | Encaminhamento quando necessário | Pode depender do paciente ou de cada profissional | Contexto partilhado, liderança clínica e encaminhamento contextualizado |
+| Risco | Reduzir a pessoa ao problema instalado | Reunir muitas áreas sem verdadeira integração | Prometer uma visão ampla sem processos, prova ou limites |
 
 ## Shortlist of True Competitors
 
-1. **Clínicas familiares ou multidisciplinares consolidadas:** são o concorrente mais direto porque disputam o mesmo ativo central — a confiança da família ao longo do tempo.
-2. **Clínicas generalistas locais de proximidade:** capturam rotina e urgência pela conveniência, especialmente quando a diferença entre propostas não está clara.
-3. **Adiar ou procurar apenas na urgência:** é uma alternativa estrutural, alimentada por baixa percepção de necessidade, medo e sensibilidade financeira.
-4. **Cadeias e operadores promocionais:** pressionam preço e atenção, principalmente em tratamentos comparáveis ou de ticket mais alto.
-5. **Especialistas em ortodontia, implantologia, estética ou sono:** podem apropriar-se das etapas de maior valor quando a clínica não deixa clara sua competência ou coordenação.
-6. **SNS, cheque-dentista e prestadores aderentes:** influenciam entrada e custo, sobretudo no cuidado infantil e preventivo.
+1. **Consultórios e clínicas dentárias tradicionais:** possuem foco e clareza, mas tornam-se substitutos fortes quando a integração da Kids e Family não é visível.
+2. **Policlínicas e clínicas multidisciplinares generalistas:** oferecem amplitude, mas deixam espaço para uma proposta com núcleo dentário e coordenação real.
+3. **Adiar ou procurar apenas na urgência:** continua a ser o concorrente comportamental mais frequente.
+4. **Especialistas isolados:** capturam casos pediátricos, ATM, ortodontia, reabilitação ou sono quando a competência da clínica não está clara.
+5. **Cadeias e operadores promocionais:** pressionam atenção e preço em tratamentos facilmente comparáveis.
 
 ## Strategic Implications
 
-- A clínica não deve competir como uma lista extensa de tratamentos. O território estratégico mais defensável é o cuidado integrado da saúde oral da família, com odontopediatria como porta de entrada e prova de especialização.
-- A principal disputa é por confiança, continuidade e indicação, não apenas por tráfego ou preço. A experiência clínica precisa gerar recomendação ativa e retenção intrafamiliar.
-- A comunicação deve tornar visível o custo clínico e emocional de adiar prevenção sem recorrer a alarmismo.
-- Proximidade continua relevante, mas a área de influência regional pode crescer quando há uma razão clara para deslocamento: experiência infantil, coordenação multidisciplinar e continuidade familiar.
-- Procedimentos de maior ticket devem aparecer como extensões qualificadas de uma relação já confiável, e não como promessas desconectadas do posicionamento central.
-- Presença digital, conteúdo e prova social devem funcionar como confirmação da reputação, facilitando a escolha de quem já recebeu indicação ou está comparando alternativas.
+- A oportunidade não é ser “mais completa”, mas ocupar o espaço entre foco sem integração e amplitude sem coordenação.
+- A medicina dentária deve permanecer no centro; áreas complementares entram quando acrescentam clareza, adequação ou continuidade ao caso.
+- Odontopediatria e ATM/dor orofacial funcionam como duas portas de entrada que demonstram a abordagem em problemas concretos.
+- Criança e família continuam centrais como benefício de começar cedo e manter continuidade, não como a única diferença de categoria.
+- O termo “medicina dentária integrada” deve ser explicado como abordagem clínica e organizacional, não como título de especialidade nem como promessa de tratar todo o organismo.
 
 ## Relationships
 
@@ -97,8 +99,7 @@ Definir contra quais alternativas a Clínica Cristiane Martins realmente compete
 
 ## Open Questions
 
-- Quais clínicas ou profissionais são mais citados pelos pacientes durante comparação ou transferência?
-- Por que pacientes atuais escolheram a clínica e por que permanecem?
-- Em quais tratamentos a clínica perde pacientes para especialistas externos?
-- Qual é o papel atual de cheque-dentista, encaminhamentos médicos e parcerias locais na aquisição?
-- Quais objeções aparecem com maior frequência: preço, medo, deslocamento, tempo ou dúvida sobre necessidade?
+- Como a clínica coordena hoje casos que atravessam duas ou mais áreas?
+- Quem assume a liderança clínica em cada tipo de jornada?
+- Quais exemplos reais demonstram uma diferença em relação ao consultório tradicional e à policlínica?
+- Quais termos a equipa usa para explicar esta abordagem aos pacientes?

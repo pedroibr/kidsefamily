@@ -3,7 +3,7 @@ type: Strategy
 title: Brand Beliefs
 aliases:
   - Brand Beliefs
-description: Define o sistema de crenças que traduz medicina dentária sistémica, cuidado precoce e continuidade em princípios de comunicação.
+description: Define o sistema de crenças que traduz medicina dentária integrada, cuidado precoce e continuidade em princípios de comunicação.
 status: draft
 owner: workspace
 tags:
@@ -12,14 +12,14 @@ tags:
   - messaging
   - dentistry
 created: 2026-07-27
-updated: 2026-08-11
+updated: 2026-08-24
 ---
 
 # Brand Beliefs
 
 ## Purpose
 
-Definir crenças que orientem a comunicação da Clínica Kids e Family e impeçam que “sistémica”, “integrada” ou “multidisciplinar” se tornem adjetivos vazios.
+Definir crenças que orientem a comunicação da Clínica Kids e Family e impeçam que “integrada”, “coordenada” ou “multidisciplinar” se tornem adjetivos vazios.
 
 ## Value Offering
 
@@ -69,7 +69,7 @@ A relação ganha valor quando acompanha evolução, resposta e novas fases da p
 ## Messaging Implications
 
 - Começar por situações e sinais reconhecíveis, não por nomes abstratos de abordagem.
-- Explicar sempre o que “sistémica” muda na avaliação e na coordenação.
+- Explicar sempre o que “integrada” muda na avaliação e na coordenação.
 - Mostrar quando as áreas se conectam e também quando não se conectam.
 - Manter criança e família presentes como origem e continuidade do cuidado.
 - Usar odontopediatria e ATM para demonstrar a tese em problemas concretos.

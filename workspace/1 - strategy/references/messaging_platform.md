@@ -4,7 +4,7 @@ title: Messaging Platform
 aliases:
   - Brand Messaging Platform
   - Messaging Platform
-description: Consolida estratégia, razão, crenças e sinais de audiência numa plataforma de comunicação para medicina dentária sistémica.
+description: Consolida estratégia, razão, crenças e sinais de audiência numa plataforma de comunicação para medicina dentária integrada.
 status: draft
 owner: workspace
 tags:
@@ -13,14 +13,14 @@ tags:
   - messaging
   - dentistry
 created: 2026-07-27
-updated: 2026-08-11
+updated: 2026-08-24
 ---
 
 # Messaging Platform
 
 ## Purpose
 
-Traduzir a abordagem sistémica da Kids e Family em linguagem clara para páginas, campanhas, ofertas e conteúdo, preservando criança, família e continuidade.
+Traduzir a abordagem integrada da Kids e Family em linguagem clara para páginas, campanhas, ofertas e conteúdo, preservando criança, família e continuidade.
 
 ## Strategic Inputs
 
@@ -82,7 +82,7 @@ Preserva a força emocional da infância e da continuidade.
 
 **Força:** acolhedora, memorável e adequada à expansão familiar.
 
-**Risco:** sozinha, não comunica a principal diferença sistémica.
+**Risco:** sozinha, não comunica a principal diferença integrada.
 
 ### Direction 3: Sinais conectados. Próximos passos claros.
 
@@ -120,7 +120,7 @@ Queremos tornar cada próximo passo mais claro. Começar cedo quando possível. 
 
 ## Descriptor
 
-**Clínica de medicina dentária com abordagem sistémica e equipa multidisciplinar, para crianças, adultos e famílias.**
+**Clínica de medicina dentária com abordagem integrada e equipa multidisciplinar, para crianças, adultos e famílias.**
 
 Versão curta:
 

@@ -5,7 +5,7 @@
 
 ## Decisions
 - 2026-08-04: Route Business Architect/Context Builder documentation — business info, audiences, journeys, offers, pillars, and lead magnets — to `workspace/2 - context`; reserve `workspace/1 - strategy` for strategy and brand reports.
-- 2026-08-11: Use medicina dentária sistémica as the proposed differentiating approach, with dentistry as the clinical core, odontopediatrics and TMJ/orofacial pain as priority entry routes, and family oral health as the continuity benefit; public wording still requires leadership, clinical, and regulatory validation.
+- 2026-08-24: Use medicina dentária integrada as the differentiating approach, with dentistry as the clinical core, odontopediatrics and TMJ/orofacial pain as priority entry routes, and family oral health as the continuity benefit; this supersedes the former working term.
 
 ## Scheduled Tasks
 - None recorded yet.

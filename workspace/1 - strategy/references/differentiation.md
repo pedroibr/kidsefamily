@@ -12,14 +12,14 @@ tags:
   - dentistry
   - portugal
 created: 2026-07-26
-updated: 2026-08-11
+updated: 2026-08-24
 ---
 
 # Differentiation
 
 ## Purpose
 
-Transformar a abordagem de medicina dentária sistémica em diferenças concretas para o paciente, preservando a força da odontopediatria, a continuidade familiar e os limites clínicos.
+Transformar a abordagem de medicina dentária integrada em diferenças concretas para o paciente, preservando a força da odontopediatria, a continuidade familiar e os limites clínicos.
 
 ## Factual Differences
 
@@ -27,7 +27,7 @@ Os pontos abaixo combinam briefing, arquitetura de ofertas e alinhamentos do pro
 
 | Diferença informada | Em relação a quê | Base atual | O que precisa de prova |
 |---|---|---|---|
-| Medicina dentária como núcleo com leitura sistémica | Consultórios orientados por episódio e policlínicas generalistas | A clínica articula medicina dentária, odontopediatria, ATM, função, respiração, sono e áreas complementares | Protocolo de avaliação, critérios de relação clínica, limites e exemplos de encaminhamento |
+| Medicina dentária como núcleo com leitura integrada | Consultórios orientados por episódio e policlínicas generalistas | A clínica articula medicina dentária, odontopediatria, ATM, função, respiração, sono e áreas complementares | Protocolo de avaliação, critérios de relação clínica, limites e exemplos de encaminhamento |
 | Integração seletiva e coordenada | Coexistência de profissionais sem plano comum | O posicionamento pretendido é conectar áreas quando isso melhora a compreensão ou o plano | Responsável pelo caso, partilha de contexto, reuniões, registos e transições |
 | Odontopediatria como força desde o início da vida | Clínicas em que o cuidado infantil é acessório | A odontopediatria é uma das principais competências e portas de entrada | Formação, experiência, protocolos, volume, resultados e reconhecimento |
 | ATM e dor orofacial como porta funcional | Clínicas que comunicam apenas procedimentos dentários comuns | A oferta e o lead magnet de ATM já estão estruturados no contexto | Competência, percurso de avaliação, capacidade e rede de encaminhamento |
@@ -51,11 +51,11 @@ O valor da equipa multidisciplinar aparece em contexto partilhado, prioridades, 
 
 ### Duas portas de entrada que tornam a tese concreta
 
-A odontopediatria demonstra o valor de começar cedo e acompanhar o desenvolvimento. ATM e dor orofacial demonstram o valor de investigar sintomas complexos e recuperar função. Juntas, evitam que “sistémica” permaneça abstrata.
+A odontopediatria demonstra o valor de começar cedo e acompanhar o desenvolvimento. ATM e dor orofacial demonstram o valor de investigar sintomas complexos e recuperar função. Juntas, evitam que “integrada” permaneça abstrata.
 
 ### Continuidade que cresce com a família
 
-A visão sistémica começa em cada pessoa, enquanto a continuidade familiar amplia o benefício ao longo das fases da vida.
+A visão integrada começa em cada pessoa, enquanto a continuidade familiar amplia o benefício ao longo das fases da vida.
 
 ## Value Mining
 
@@ -94,7 +94,7 @@ As alegações 1 a 3 são direções de posicionamento. Devem ser traduzidas em 
 
 ## Strategic Implications
 
-- “Medicina dentária sistémica” passa a liderar a diferenciação; “saúde oral da família” passa a expressar benefício e continuidade.
+- “Medicina dentária integrada” passa a liderar a diferenciação; “saúde oral da família” passa a expressar benefício e continuidade.
 - Odontopediatria e ATM/dor orofacial devem receber prioridade como entradas de aquisição e demonstrações da abordagem.
 - O site e o conteúdo devem explicar o método por situações, decisões e coordenação, não por alegações genéricas sobre saúde geral.
 - A clínica precisa codificar avaliação, liderança do caso, critérios de integração, encaminhamento e acompanhamento.
@@ -116,7 +116,7 @@ As alegações 1 a 3 são direções de posicionamento. Devem ser traduzidas em 
 
 ## Open Questions
 
-- Quais componentes da avaliação sistémica já existem e quais ainda precisam de ser codificados?
+- Quais componentes da avaliação integrada já existem e quais ainda precisam de ser codificados?
 - Que relações clínicas a equipa está preparada para comunicar com evidência?
 - Que casos demonstram coordenação sem expor dados de pacientes?
-- Cristiane e Leonardo aprovam “medicina dentária sistémica” como descritor da abordagem?
+- Cristiane e Leonardo aprovam “medicina dentária integrada” como descritor da abordagem?

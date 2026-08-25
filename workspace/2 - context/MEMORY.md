@@ -8,9 +8,9 @@
 - 2026-08-04: Business Architect documents for Clínica Kids e Family now live here: business info, journeys, profiles, offers, pillars, and lead magnets; documented lead magnets are “Avaliação Respiração Oral Infantil” and the approved concept “Mapa de Sinais de Dor e Função Mandibular”.
 
 ## Decisions
-- 2026-08-12: The meeting reaffirmed “Medicina Dentária Sistémica” as the working strategic direction, with dentistry as the core and the three website journeys as the organizing structure; public use remains subject to clinical, leadership, and regulatory validation.
+- 2026-08-24: “Medicina Dentária Integrada” is the canonical positioning term, with dentistry as the core and the three website journeys as the organizing structure; it supersedes the former working term.
 - 2026-08-11: Separate pediatric breathing, pediatric orthodontics/development, functional orthodontics, and adult orthodontics/alignment as distinct offer and page-entry concepts when audience, problem, journey, and value proposition differ; aligners remain a treatment modality unless validated as an independent acquisition offer.
-- 2026-08-11: Context treats systemic dental medicine as a cross-cutting approach, dentistry as the core, pediatric dentistry and TMJ/orofacial pain as priority entry routes, and family continuity as the longitudinal benefit.
+- 2026-08-24: Context treats integrated dental medicine as a cross-cutting approach, dentistry as the core, pediatric dentistry and TMJ/orofacial pain as priority entry routes, and family continuity as the longitudinal benefit.
 - 2026-08-04: Treat Business Architect and Context Builder outputs as durable business context; keep strategy and brand reports in the Strategy workspace.
 - 2026-08-04: Journey records use `journeyDescription` for the transformation, pain points resolved, solution, and benefits; `broadStepINPUT` and `leadMagnetType` are not part of the standard journey document.
 - 2026-08-04: Offer records use a compact Value Equation and controlled delivery taxonomy; unconfirmed bonuses, guarantees, scarcity, and urgency must remain `noneConfirmed` and suggestions require explicit validation.

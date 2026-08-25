@@ -26,7 +26,7 @@ Guardar como referência técnica um padrão de Home com listagem de projetos, t
 - É uma referência técnica, não uma página aprovada nem conteúdo da Clínica Kids e Family.
 - Não copiar URLs, imagens, IDs, classes específicas, textos ou dados do site de origem.
 - Confirmar se GenerateBlocks Pro, tabs, carousel, query loop e os respectivos campos estão disponíveis antes da implementação.
-- Para testemunhos, usar apenas relatos autorizados; os exemplos atuais em `pages/testimonials/testimonials.md` continuam não publicáveis.
+- Para testemunhos, usar apenas relatos autorizados; os exemplos atuais em `../post-types/testimonials/testimonials.md` continuam não publicáveis.
 
 ## Source Markup
 
@@ -309,4 +309,3 @@ Guardar como referência técnica um padrão de Home com listagem de projetos, t
 <!-- /wp:generateblocks/element --></div>
 <!-- /wp:generateblocks/element -->
 ```
-

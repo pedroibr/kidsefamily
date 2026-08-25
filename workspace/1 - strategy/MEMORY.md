@@ -1,7 +1,7 @@
 # Strategy Memory
 
 ## Active Projects and Work
-- 2026-08-11: Strategy and brand documents were realigned around the competitive gap between traditional dental clinics and generalist polyclinics, with systemic dental medicine as the proposed approach.
+- 2026-08-24: Strategy and brand documents use integrated dental medicine as the proposed space between traditional dental clinics and generalist polyclinics, preserving dentistry as the clinical core.
 - 2026-08-04: A first Business Architect architecture was drafted from seven offers: business info, four journeys, four profiles, and structured offers; lead magnets were intentionally deferred.
 - 2026-07-27: O setup de sinais estratégicos foi concluído com um radar de nove categorias; fontes nominais, responsáveis, dados internos e hipóteses centrais ainda precisam de validação.
 - 2026-07-27: The brand workflow was completed from Brand Why through beliefs, audience signals, messaging platform, and a condensed Brand Report.
@@ -10,7 +10,7 @@
 - 2026-06-07: This area is reserved for durable strategic context rather than active delivery work.
 
 ## Decisions
-- 2026-08-11: Medicina dentária sistémica leads differentiation; odontopediatrics and TMJ/orofacial pain are the two proposed entry routes; family oral health remains the longitudinal benefit rather than the primary category.
+- 2026-08-24: Medicina dentária integrada leads differentiation; odontopediatrics and TMJ/orofacial pain are the two proposed entry routes; family oral health remains the longitudinal benefit rather than the primary category.
 - 2026-08-04: Use odontopediatria as the inferred entry offer, continuity through general care and orthodontics, differentiation through integrated symptom journeys, and reabilitation/aesthetics as extensions pending validation.
 - 2026-08-04: Business Info is intentionally limited to business name, business description, communication voice, exclusions, numeric writing grade, locale code, and client ID; audience, goals, and offers remain separate architecture boards.
 

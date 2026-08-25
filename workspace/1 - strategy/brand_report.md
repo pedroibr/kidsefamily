@@ -4,7 +4,7 @@ title: Brand Report
 aliases:
   - Brand Report
   - Brand Messaging Report
-description: Condensa a tese sistémica, as crenças, os sinais de audiência e a plataforma em decisões práticas para a marca Kids e Family.
+description: Condensa a tese integrada, as crenças, os sinais de audiência e a plataforma em decisões práticas para a marca Kids e Family.
 status: draft
 owner: workspace
 tags:
@@ -13,7 +13,7 @@ tags:
   - messaging
   - report
 created: 2026-07-27
-updated: 2026-08-11
+updated: 2026-08-24
 ---
 
 # Brand Report
@@ -24,7 +24,7 @@ Oferecer uma referência rápida para manter páginas, campanhas, ofertas e cont
 
 ## Brand Thesis
 
-A Kids e Family deve representar uma medicina dentária que mantém foco na saúde oral e considera o contexto da pessoa quando o caso exige. A abordagem sistémica procura conectar avaliação, profissionais e próximos passos sem transformar qualquer sintoma num problema dentário.
+A Kids e Family deve representar uma medicina dentária que mantém foco na saúde oral e considera o contexto da pessoa quando o caso exige. A abordagem integrada procura conectar avaliação, profissionais e próximos passos sem transformar qualquer sintoma num problema dentário.
 
 A odontopediatria demonstra o valor de começar cedo, observar desenvolvimento e construir confiança. ATM e dor orofacial demonstram o valor de organizar sintomas complexos e função. A família representa continuidade: uma relação pode acompanhar diferentes fases sem perder o contexto.
 
@@ -52,7 +52,7 @@ Sinais complementares:
 
 ### Cuidar da boca. Compreender o todo.
 
-A plataforma combina o núcleo dentário com a visão sistémica. Deve ser sempre explicada por situações, processos e limites concretos.
+A plataforma combina o núcleo dentário com a visão integrada. Deve ser sempre explicada por situações, processos e limites concretos.
 
 **Linha complementar de continuidade:** Cuidado que cresce com a família.
 
@@ -60,7 +60,7 @@ A plataforma combina o núcleo dentário com a visão sistémica. Deve ser sempr
 
 ## Primary Descriptor
 
-**Clínica de medicina dentária com abordagem sistémica e equipa multidisciplinar, para crianças, adultos e famílias.**
+**Clínica de medicina dentária com abordagem integrada e equipa multidisciplinar, para crianças, adultos e famílias.**
 
 Versão curta:
 
@@ -89,7 +89,7 @@ A primeira lidera a diferenciação; a segunda sustenta infância e continuidade
 
 ### Institucional
 
-Apresentar a tensão entre problema isolado e amplitude descoordenada. Explicar como a abordagem sistémica mantém foco dentário e integra apenas o que é relevante.
+Apresentar a tensão entre problema isolado e amplitude descoordenada. Explicar como a abordagem integrada mantém foco dentário e integra apenas o que é relevante.
 
 ### Odontopediatria
 
@@ -113,7 +113,7 @@ Fazer páginas, SEO, avaliações, lead magnets e indicação confirmarem as dua
 
 ## Messaging Guardrails
 
-- Não apresentar medicina dentária sistémica como especialidade reconhecida.
+- Não apresentar medicina dentária integrada como especialidade reconhecida.
 - Não afirmar que todo problema de saúde começa na boca ou será tratado pela clínica.
 - Não confundir correlação, hipótese e causalidade.
 - Não usar “integrada” ou “multidisciplinar” sem mostrar coordenação real.

@@ -6,7 +6,7 @@ status: draft
 owner: Clínica Kids e Family
 tags: [business-architecture, journeys, demand-states]
 created: 2026-08-04
-updated: 2026-08-11
+updated: 2026-08-24
 ---
 
 # Journeys
@@ -29,7 +29,7 @@ updated: 2026-08-11
 | --- | --- |
 | `businessAssets` | Clínica Kids e Family |
 | `profiles` | Famílias em Crescimento, Pacientes com Sintomas Complexos |
-| `mechanismINPUT` | Abordagem sistémica que parte da medicina dentária e considera respiração, crescimento craniofacial, hábitos e função oral quando existe relevância clínica, com coordenação e encaminhamento quando necessários. |
+| `mechanismINPUT` | Abordagem integrada que parte da medicina dentária e considera respiração, crescimento craniofacial, hábitos e função oral quando existe relevância clínica, com coordenação e encaminhamento quando necessários. |
 | `multiStepINPUT` | Notar sinais ou dúvidas → procurar orientação confiável → realizar leitura integrada → entender hipóteses e limites → definir plano ou encaminhamento → acompanhar a evolução. |
 | `journeyDescription` | Sinais dispersos de crescimento, respiração ou função passam a ser organizados numa leitura dentária mais contextual, sem assumir que possuem uma causa única. A família reduz a confusão, entende limites e consegue decidir entre acompanhamento, tratamento ou encaminhamento. |
 

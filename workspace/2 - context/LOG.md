@@ -6,7 +6,7 @@ status: active
 owner: workspace
 tags: [context, log]
 created: 2026-07-26
-updated: 2026-08-18
+updated: 2026-08-24
 ---
 
 # Context Log
@@ -48,3 +48,7 @@ updated: 2026-08-18
 - Archived the meeting notes and recording from the 12 August strategy session in the shared `CM Meetings` folder.
 - Recorded the working positioning alignment, pending validation of public language, and the open review of offers, lead magnets, pillars, and context documents.
 - Excluded the separate Chat Transcript artifact from the shared meeting folder because it contained credential-like content; credential rotation remains an open security follow-up.
+
+## 2026-08-24
+
+- Updated Business Info, Journeys, Pillars and Lead Magnets to use medicina dentária integrada as the canonical term, preserving dentistry as the core and the existing clinical limits.

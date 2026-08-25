@@ -6,12 +6,12 @@ status: draft
 owner: Clínica Kids e Family
 tags: [business-architecture, pillars, content-strategy]
 created: 2026-08-04
-updated: 2026-08-11
+updated: 2026-08-24
 ---
 
 # Pillars
 
-> Estes pilares foram derivados do contexto da clínica, das audiências, das jornadas e das dez ofertas atuais. A medicina dentária sistémica funciona como lente transversal: parte da saúde oral, conecta áreas somente quando clinicamente relevante e explicita limites e encaminhamentos. Os pilares não impõem volume igual nem substituem revisão clínica de conteúdos públicos.
+> Estes pilares foram derivados do contexto da clínica, das audiências, das jornadas e das dez ofertas atuais. A medicina dentária integrada funciona como lente transversal: parte da saúde oral, conecta áreas somente quando clinicamente relevante e explicita limites e encaminhamentos. Os pilares não impõem volume igual nem substituem revisão clínica de conteúdos públicos.
 
 ## Item: Saúde Oral Infantil e Crescimento
 
@@ -73,7 +73,7 @@ updated: 2026-08-11
 | `coreTopics` | perda e desgaste dentário, função mastigatória, implantes e alternativas reabilitadoras, restaurações, facetas, planeamento por etapas, expectativas estéticas, naturalidade, recuperação e manutenção |
 | `offerBridge` | O conteúdo ajuda o adulto a compreender possibilidades e critérios de decisão e conduz a uma avaliação geral, reabilitadora ou estética para comparar opções e construir um plano individual. |
 
-## Item: Medicina Dentária Sistémica, Prevenção e Continuidade
+## Item: Medicina Dentária Integrada, Prevenção e Continuidade
 
 | Field | Value |
 | --- | --- |
@@ -81,6 +81,6 @@ updated: 2026-08-11
 | `profiles` | Famílias em Crescimento, Responsáveis na Primeira Consulta, Pacientes com Sintomas Complexos, Adultos em Reabilitação |
 | `journeys` | Buscando iniciar o cuidado oral da criança com confiança, Tentando compreender sinais de crescimento, respiração ou função oral, Tentando compreender sinais de sono, respiração ou roncopatia, Procurando resolver dor, desconforto ou perda de função, Planejando alinhar, reabilitar ou manter a saúde oral ao longo da vida |
 | `offers` | Odontopediatria, Respiração oral infantil, Ortodontia infantil e desenvolvimento, DTM e dor orofacial relacionada à ATM, Ortodontia funcional, Sono, respiração e roncopatia, Medicina dentária geral e cuidado adulto, Implantologia e reabilitação oral, Estética dentária e restauração, Ortodontia e alinhadores transparentes para adultos |
-| `pillarDescription` | Explicar a abordagem de medicina dentária sistémica como um cuidado focado na saúde oral que considera a pessoa, integra áreas quando relevante e acompanha evolução ao longo do tempo. Reforçar a passagem de episódios fragmentados para prevenção, coordenação e continuidade familiar. |
+| `pillarDescription` | Explicar a abordagem de medicina dentária integrada como um cuidado focado na saúde oral que considera a pessoa, integra áreas quando relevante e acompanha evolução ao longo do tempo. Reforçar a passagem de episódios fragmentados para prevenção, coordenação e continuidade familiar. |
 | `coreTopics` | saúde oral no contexto da pessoa, diferença entre integração e quantidade de especialidades, avaliação contextual, liderança e coordenação do caso, prevenção ao longo da vida, continuidade entre infância e vida adulta, limites clínicos, correlação versus causalidade, quando tratar ou encaminhar |
 | `offerBridge` | O conteúdo diferencia a forma de cuidar da clínica e cria pontes para as duas entradas prioritárias — Odontopediatria e ATM/dor orofacial — além de sustentar continuidade nas demais ofertas conforme a necessidade individual. |

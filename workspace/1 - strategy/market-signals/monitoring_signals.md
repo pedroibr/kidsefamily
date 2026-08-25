@@ -15,7 +15,7 @@ tags:
   - dentistry
   - portugal
 created: 2026-07-27
-updated: 2026-08-11
+updated: 2026-08-24
 ---
 
 # Monitoring Signals
@@ -29,30 +29,30 @@ O radar deve ajudar a distinguir sinais com consequência estratégica de notíc
 ## Business Context
 
 - Clínica Kids e Family, localizada em Oliveira de Azeméis, Portugal, com área de influência regional.
-- Clínica de medicina dentária com abordagem sistémica e equipa multidisciplinar; odontopediatria e ATM/dor orofacial são as duas entradas estratégicas propostas.
+- Clínica de medicina dentária com abordagem integrada e equipa multidisciplinar; odontopediatria e ATM/dor orofacial são as duas entradas estratégicas propostas.
 - Âmbito preliminar inclui medicina dentária geral, implantes, facetas, roncopatia, ortodontia e alinhadores transparentes; importância, procura, capacidade e rentabilidade ainda precisam de validação.
 - Mercado regional concorrido, sensível a preço e fortemente orientado por confiança, recomendação, proximidade e reputação.
 - Crescimento proposto pela combinação das duas entradas prioritárias, prevenção, recorrência, expansão intrafamiliar e continuidade para necessidades especializadas.
 - Baixa maturidade de marketing e ausência de uma linha de base consolidada para origem, conversão, recorrência, composição familiar e mix de serviços.
-- Definição pública de medicina dentária sistémica, mensagem, provas e conformidade regulatória permanecem pendentes de validação.
+- Definição pública de medicina dentária integrada, mensagem, provas e conformidade regulatória permanecem pendentes de validação.
 
 ## Strategic Thesis
 
 A hipótese central é ocupar o espaço entre a medicina dentária tradicional, focada mas potencialmente episódica, e a policlínica generalista, ampla mas potencialmente descoordenada. A Kids e Family deve manter a medicina dentária como núcleo e integrar outras áreas apenas quando clinicamente relevante.
 
-O território recomendado é **medicina dentária com abordagem sistémica**. Odontopediatria e ATM/dor orofacial são as duas portas de entrada; **saúde oral da família** e **Cuidado que cresce com a família** expressam o benefício de continuidade. A formulação pública, a prática operacional e as provas ainda precisam de validação.
+O território recomendado é **medicina dentária com abordagem integrada**. Odontopediatria e ATM/dor orofacial são as duas portas de entrada; **saúde oral da família** e **Cuidado que cresce com a família** expressam o benefício de continuidade. A formulação pública, a prática operacional e as provas ainda precisam de validação.
 
 ## Strategic Decisions This Radar Should Inform
 
-- Confirmar, ajustar ou rejeitar “medicina dentária sistémica” como abordagem diferenciadora e descritor público.
+- Confirmar, ajustar ou rejeitar “medicina dentária integrada” como abordagem diferenciadora e descritor público.
 - Definir o papel de odontopediatria e ATM/dor orofacial na aquisição, reputação e continuidade.
-- Testar se o mercado compreende a diferença entre abordagem sistémica, medicina dentária tradicional e policlínica generalista.
+- Testar se o mercado compreende a diferença entre abordagem integrada, medicina dentária tradicional e policlínica generalista.
 - Priorizar públicos, concelhos, necessidades e momentos de procura.
 - Decidir quais serviços devem ser núcleo, continuidade ou extensão da oferta.
 - Dimensionar investimento em SEO local, avaliações, conteúdo, indicação e campanhas.
 - Melhorar primeira consulta, prevenção, recall, transições e encaminhamentos.
 - Selecionar tecnologias e modelos de atendimento que reforcem clareza e coordenação.
-- Construir provas defensáveis para abordagem sistémica, coordenação, odontopediatria, ATM, continuidade e resultados.
+- Construir provas defensáveis para abordagem integrada, coordenação, odontopediatria, ATM, continuidade e resultados.
 - Identificar parcerias regionais e fontes de encaminhamento coerentes com a tese.
 - Antecipar riscos regulatórios, reputacionais, económicos e competitivos.
 
@@ -76,7 +76,7 @@ O território recomendado é **medicina dentária com abordagem sistémica**. Od
 ### 2. Portas de entrada: odontopediatria e ATM/dor orofacial
 
 - What to monitor: perguntas, barreiras e intenção de procura para primeira consulta infantil, desenvolvimento, respiração oral, dor orofacial, ruídos, limitação e função mandibular; acompanhar também evidência, experiência e critérios de encaminhamento.
-- Why it matters: odontopediatria e ATM/dor orofacial são as duas entradas que tornam a abordagem sistémica concreta para necessidades diferentes.
+- Why it matters: odontopediatria e ATM/dor orofacial são as duas entradas que tornam a abordagem integrada concreta para necessidades diferentes.
 - Strategic decisions affected: posicionamento, prioridade de aquisição, experiência inicial, conteúdo, lead magnets, capacidade, parcerias e provas.
 - Example queries:
   - `quando levar bebé ao dentista Portugal`
@@ -165,14 +165,14 @@ O território recomendado é **medicina dentária com abordagem sistémica**. Od
 - Priority: medium
 - Weekly research depth: light
 
-### 8. Medicina dentária sistémica, experiência e tecnologia de cuidado
+### 8. Medicina dentária integrada, experiência e tecnologia de cuidado
 
-- What to monitor: evidência, linguagem, riscos e modelos aplicáveis que ajudem a definir abordagem sistémica, coordenação interdisciplinar, partilha de contexto, triagem, comunicação de planos, experiência pediátrica, ATM, acompanhamento, segurança ou eficiência.
-- Why it matters: “medicina dentária sistémica” só diferencia quando possui limites e produz coordenação observável; tecnologia só é estratégica se melhorar clareza, continuidade, segurança ou eficiência.
+- What to monitor: evidência, linguagem, riscos e modelos aplicáveis que ajudem a definir abordagem integrada, coordenação interdisciplinar, partilha de contexto, triagem, comunicação de planos, experiência pediátrica, ATM, acompanhamento, segurança ou eficiência.
+- Why it matters: “medicina dentária integrada” só diferencia quando possui limites e produz coordenação observável; tecnologia só é estratégica se melhorar clareza, continuidade, segurança ou eficiência.
 - Strategic decisions affected: proposta de integração, stack, protocolos, formação, experiência, parcerias clínicas, consentimento e investimento operacional.
 - Example queries:
   - `integrated oral health dental care coordination evidence`
-  - `systemic dentistry terminology evidence regulation Portugal`
+  - `integrated dentistry terminology evidence regulation Portugal`
   - `dental treatment plan communication patient adherence evidence`
   - `reduzir tempo administrativo clínica dentária ferramenta Portugal`
   - `coordenação odontopediatria ortodontia terapia da fala sono`
@@ -271,7 +271,7 @@ Para entrar como sinal principal, o item deve responder a pelo menos uma pergunt
 
 ## Open Questions
 
-- A liderança aprova “medicina dentária sistémica” como abordagem diferenciadora e “Cuidado que cresce com a família” como linha de continuidade?
+- A liderança aprova “medicina dentária integrada” como abordagem diferenciadora e “Cuidado que cresce com a família” como linha de continuidade?
 - Qual área geográfica deve definir o mercado monitorado?
 - Quais serviços, públicos e concelhos têm prioridade comercial no próximo trimestre?
 - Que dados internos estão disponíveis para origem, conversão, recall, faltas, composição familiar, mix, capacidade e margem?

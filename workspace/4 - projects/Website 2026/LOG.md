@@ -6,7 +6,7 @@ status: active
 owner: Pedro Raimundo
 tags: [project, website, log]
 created: 2026-08-18
-updated: 2026-08-18
+updated: 2026-08-24
 ---
 
 # Website 2026 Log
@@ -34,3 +34,39 @@ updated: 2026-08-18
 - Actualizada a classe global `gbp-button--secondary`: mesma geometria do primário, fundo transparente, borda/texto `contrast`, radius `24px` e inversão para fundo escuro no hover/focus.
 - Refinada a secção comparativa da Home na página WordPress `id 13`: cada card passou de um parágrafo para três itens curtos; a comparação mantém tom respeitoso e a abordagem sistémica explicita os seus benefícios.
 - Reestruturada a secção “Como o cuidado avança” na Home `id 13`: passos em coluna vertical com dois divisores e container vazio à direita reservado para imagem.
+
+## 2026-08-19
+
+- Guardada a Home GenerateBlocks mais recente enviada pelo utilizador em `references/home-generateblocks-reference-2026-08-19.md`, mantendo o markup original como referência técnica.
+- Estruturada e publicada a página Sobre `id 78` no WordPress com sete secções GenerateBlocks V1, classes globais existentes, dois blocos de crença e um contentor reservado sem imagem.
+- Atualizado `pages/institutional/sobre.md` para `productionStatus: inProgress`, tagline em PT-PT e nota de validação da equipa/media.
+- Corrigida a grelha da secção de metodologia da página Sobre `id 78`: passos em coluna vertical com dois separadores e contentor reservado à direita; em ecrãs pequenos, passa para uma coluna.
+- Reduzido o documento `sobre.md` para quatro secções, removendo os blocos de processo, benefícios da experiência e a segunda frase de crença; a nova versão aguarda publicação após validação.
+- Sincronizada a página Sobre `id 78` com a versão reduzida do documento: hero institucional, abordagem, uma frase de crença e equipa; removidos os três blocos repetidos.
+- Criada a primeira versão da página Contacto `id 79` em GenerateBlocks: hero com CTA WhatsApp, passos verticais de orientação e espaço reservado para o mapa; dados práticos permanecem pendentes de confirmação.
+- Padronizada a secção de passos da página Contacto `id 79` como três cards com borda lado a lado no desktop e uma coluna no mobile; o restante da página e os ajustes recentes do utilizador foram preservados.
+- Estilizado o mapa da página Contacto `id 79`: embed responsivo em largura total com borda, raio e sombra; adicionados cartão de morada e botão `Abrir no Maps`.
+- Ajustada a altura do embed do mapa para eliminar a faixa branca inferior e garantir o preenchimento visual do container.
+- Convertido o cartão de morada de HTML para blocos nativos GenerateBlocks, com conteúdo à esquerda, CTA à direita e empilhamento mobile.
+- Criados os primeiros documentos de páginas de serviço: `odontopediatria.md`, `respiracao-oral-infantil.md` e `dtm-dor-orofacial.md`, com estrutura SEO, conteúdo comercial, FAQs, limites clínicos e ligações internas.
+
+## 2026-08-24
+
+- Substituída a terminologia canónica de posicionamento por “medicina dentária integrada” nas fontes de página e referências editoriais ativas; referências brutas de GenerateBlocks continuam preservadas como snapshots históricos.
+- Arquivado o sitemap V1 e ativado um sitemap V2 mais simples, com sete páginas principais e apenas três subserviços na primeira versão.
+- Sincronizada a Home publicada no WordPress, substituindo a terminologia anterior por “medicina dentária integrada” sem alterar a estrutura GenerateBlocks.
+- Atualizadas as referências de posicionamento nos rascunhos derivados do blog; usos clínicos legítimos como “doenças sistémicas” foram preservados porque não nomeiam a abordagem da marca.
+- Arquivado o sitemap V2 e ativado o sitemap V3, que estabelece templates, macro-seções, inventário de páginas e a fronteira entre páginas estruturais e recursos/post types.
+- Criado `workflow.md` para documentar as quatro fases de produção e movido o Design MD para `style-guide/design.md`.
+- Removida a skill instalada no Codex; as instruções de workflow foram transformadas em documentação local na pasta `skills/`, para futura incorporação ao plugin.
+- Reestruturado o projeto em `sitemap/`, `wireframes/`, `style-guide/`, `post-types/`, `references/` e `skills/`; SEO e histórico ficam em `sitemap/SEO/`.
+- Renomeada a pasta `cms/` para `post-types/`; a camada pode receber novos tipos de post quando o projeto exigir.
+- Removida a pasta vazia `wireframes/shared/`; blocos e contratos reutilizáveis ficam nas referências das skills.
+- Achatada a área SEO para `sitemap/SEO.md` e criada `sitemap/archive/` para versões históricas e duplicados.
+- Movidos os catálogos de tipos e layouts para `skills/references/`, com contrato separado para `sectionType` e `layoutId`.
+- Padronizada a árvore de layout como `sectionBlock → innerContainer → contentGrid/contentStack → units`, incluindo propriedades, blocos obrigatórios, opcionais e comportamento responsive.
+- Cancelada a especificação técnica extensa de layouts; o wireframe voltou ao formato simples com tipo, tagline, título, conteúdo, display e CTA, além de uma referência visual opcional.
+- Adicionada a primeira ficha de sessão visual a partir de quatro prints, com estrutura, propriedades configuráveis e variações de hero/intro.
+- Reorganizadas as skills locais em pastas próprias com `SKILL.md`; duplicados e versões antigas foram movidos para `skills/archive/`.
+- Movidas as referências de tipos e layouts para `skills/sitemap/references/`; o Wireframe passa a consultar essas referências sem duplicá-las.
+- Adicionados dez layouts-base ao Sitemap como ponto de partida para o brainstorm de sessões.

@@ -3,7 +3,7 @@ type: Audience
 title: Audience Signals
 aliases:
   - Audience Signals
-description: Mapeia situações, arquétipos e sinais de identidade alinhados à medicina dentária sistémica da Clínica Kids e Family.
+description: Mapeia situações, arquétipos e sinais de identidade alinhados à medicina dentária integrada da Clínica Kids e Family.
 status: draft
 owner: workspace
 tags:
@@ -12,7 +12,7 @@ tags:
   - audience
   - messaging
 created: 2026-07-27
-updated: 2026-08-11
+updated: 2026-08-24
 ---
 
 # Audience Signals

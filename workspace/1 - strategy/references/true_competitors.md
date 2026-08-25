@@ -12,7 +12,7 @@ tags:
   - dentistry
   - portugal
 created: 2026-07-26
-updated: 2026-08-11
+updated: 2026-08-24
 ---
 
 # True Competitors
@@ -60,7 +60,7 @@ Definir contra quais alternativas a Clínica Kids e Family compete quando crian�
 
 ## Category Comparison
 
-| Dimensão | Medicina dentária tradicional | Policlínica generalista | Espaço da medicina dentária sistémica |
+| Dimensão | Medicina dentária tradicional | Policlínica generalista | Espaço da medicina dentária integrada |
 |---|---|---|---|
 | Centro | Dente, boca ou procedimento | Diversas áreas com igual presença | Medicina dentária como núcleo do caso |
 | Amplitude | Foco claro, integração variável | Grande amplitude, foco potencialmente difuso | Integração seletiva apenas quando clinicamente relevante |
@@ -82,7 +82,7 @@ Definir contra quais alternativas a Clínica Kids e Family compete quando crian�
 - A medicina dentária deve permanecer no centro; áreas complementares entram quando acrescentam clareza, adequação ou continuidade ao caso.
 - Odontopediatria e ATM/dor orofacial funcionam como duas portas de entrada que demonstram a abordagem em problemas concretos.
 - Criança e família continuam centrais como benefício de começar cedo e manter continuidade, não como a única diferença de categoria.
-- O termo “medicina dentária sistémica” deve ser explicado como abordagem clínica e organizacional, não como título de especialidade nem como promessa de tratar todo o organismo.
+- O termo “medicina dentária integrada” deve ser explicado como abordagem clínica e organizacional, não como título de especialidade nem como promessa de tratar todo o organismo.
 
 ## Relationships
 

@@ -6,7 +6,7 @@ status: active
 owner: workspace
 tags: [strategy, market-research, deep-research, dentistry, portugal]
 created: 2026-07-26
-updated: 2026-08-11
+updated: 2026-08-24
 ---
 
 # Deep Market Research Prompt
@@ -15,7 +15,7 @@ updated: 2026-08-11
 
 - `businessOwner`: Cristiane Martins — inferred from the client and working business name.
 - `businessName`: Clínica Kids e Family — confirmed official business name.
-- `businessContext`: Dental clinic with a systemic approach and multidisciplinary team; pediatric dentistry and TMJ/orofacial pain are the proposed entry areas — current strategic direction.
+- `businessContext`: Dental clinic with a integrated approach and multidisciplinary team; pediatric dentistry and TMJ/orofacial pain are the proposed entry areas — current strategic direction.
 - `businessSize`: Missing.
 - `businessStage`: Established operation with operational maturity and limited marketing maturity — inferred.
 - `businessLocation`: Oliveira de Azeméis, Portugal — known.
@@ -33,7 +33,7 @@ Find market tendencies, demand potential, industry and/or region growth drivers 
 
 businessOwner: Cristiane Martins
 businessName: Clínica Kids e Family
-businessContext: Clínica de medicina dentária com abordagem sistémica e equipa multidisciplinar. Mantém a medicina dentária como núcleo, considera relações clinicamente relevantes com função, crescimento, respiração, sono e saúde geral e prioriza odontopediatria e ATM/dor orofacial como entradas.
+businessContext: Clínica de medicina dentária com abordagem integrada e equipa multidisciplinar. Mantém a medicina dentária como núcleo, considera relações clinicamente relevantes com função, crescimento, respiração, sono e saúde geral e prioriza odontopediatria e ATM/dor orofacial como entradas.
 businessSize: Not provided
 businessStage: Clínica estabelecida, com maturidade operacional e baixa maturidade de marketing
 businessLocation: Oliveira de Azeméis, Portugal
@@ -48,7 +48,7 @@ outputLanguage: pt_PT
 - Dimensionar a empresa por equipa, número de gabinetes, volume de pacientes ou faturação.
 - Confirmar o escopo clínico exato dos cuidados de saúde integrada e roncopatia.
 - Validar a procura, a capacidade e as provas de odontopediatria e ATM/dor orofacial como entradas prioritárias.
-- Validar a compreensão e a defensabilidade do posicionamento de medicina dentária sistémica.
+- Validar a compreensão e a defensabilidade do posicionamento de medicina dentária integrada.
 
 ## Relationships
 

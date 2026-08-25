@@ -6,7 +6,7 @@ status: active
 owner: workspace
 tags: [strategy, log]
 created: 2026-07-26
-updated: 2026-08-11
+updated: 2026-08-24
 ---
 
 # Strategy Log
@@ -41,3 +41,7 @@ updated: 2026-08-11
 - Updated True Competitors, Differentiation, SWOT, Strategy Narrative, and Strategy Report for systemic dental medicine, dual acquisition through pediatric dentistry and TMJ/orofacial pain, and family continuity.
 - Updated Brand Why, Brand Beliefs, Audience Signals, Messaging Platform, and Brand Report to make the systemic approach the primary difference while preserving the family benefit.
 - Aligned the active monitoring radar and research references to the confirmed business name and current strategic thesis.
+
+## 2026-08-24
+
+- Replaced the active positioning term with medicina dentária integrada across strategy, differentiation, brand messaging and monitoring documents while preserving the same clinical core, coordination logic and guardrails.

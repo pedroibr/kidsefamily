@@ -3,7 +3,7 @@ type: Strategy
 title: Strategy Narrative
 aliases:
   - Strategy Narrative
-description: Transforma concorrência, diferenciação e SWOT na narrativa de medicina dentária sistémica da Clínica Kids e Family.
+description: Transforma concorrência, diferenciação e SWOT na narrativa de medicina dentária integrada da Clínica Kids e Family.
 status: draft
 owner: workspace
 tags:
@@ -12,14 +12,14 @@ tags:
   - positioning
   - dentistry
 created: 2026-07-26
-updated: 2026-08-11
+updated: 2026-08-24
 ---
 
 # Strategy Narrative
 
 ## Purpose
 
-Explicar o espaço que a Clínica Kids e Family pretende ocupar, como a medicina dentária sistémica organiza a diferença e por que criança, família e continuidade continuam centrais.
+Explicar o espaço que a Clínica Kids e Family pretende ocupar, como a medicina dentária integrada organiza a diferença e por que criança, família e continuidade continuam centrais.
 
 ## Background
 
@@ -47,7 +47,7 @@ Neste espaço, a medicina dentária permanece no centro. A leitura amplia-se ape
 
 **Alternativa que substitui:** o cuidado dentário episódico e fragmentado, bem como a amplitude multidisciplinar sem um plano comum.
 
-**Categoria a ocupar:** clínica de medicina dentária com abordagem sistémica.
+**Categoria a ocupar:** clínica de medicina dentária com abordagem integrada.
 
 **Promessa defensável:** compreender a necessidade dentária no contexto da pessoa, coordenar as áreas relevantes e construir um próximo passo claro.
 
@@ -65,11 +65,11 @@ ATM e dor orofacial formam a segunda porta de entrada. A pessoa frequentemente c
 
 A família é a continuidade natural dessa forma de cuidar. Uma boa relação iniciada com a criança pode acompanhar irmãos, responsáveis e adultos, mas a expansão não deve parecer uma venda cruzada. Ela decorre da confiança, do contexto e da capacidade de manter o cuidado coerente ao longo das fases.
 
-Assim, “medicina dentária sistémica” define a abordagem e a diferença. “Saúde oral da família” define o benefício de continuidade. Odontopediatria e ATM demonstram a tese em jornadas concretas.
+Assim, “medicina dentária integrada” define a abordagem e a diferença. “Saúde oral da família” define o benefício de continuidade. Odontopediatria e ATM demonstram a tese em jornadas concretas.
 
 ## Strategy Summary Sentence
 
-A Clínica Kids e Family deve ocupar o espaço entre o consultório dentário tradicional e a policlínica generalista com uma abordagem de medicina dentária sistémica: focada na saúde oral, coordenada quando o caso exige uma visão mais completa e capaz de começar na infância e acompanhar a família ao longo da vida.
+A Clínica Kids e Family deve ocupar o espaço entre o consultório dentário tradicional e a policlínica generalista com uma abordagem de medicina dentária integrada: focada na saúde oral, coordenada quando o caso exige uma visão mais completa e capaz de começar na infância e acompanhar a família ao longo da vida.
 
 ## Strategy Story
 
@@ -91,7 +91,7 @@ O herói é a pessoa ou família que deixa de navegar por problemas isolados e p
 
 ## Delivery Logic
 
-1. **Codificar a abordagem sistémica:** escopo, critérios, limites, linguagem e liderança clínica.
+1. **Codificar a abordagem integrada:** escopo, critérios, limites, linguagem e liderança clínica.
 2. **Priorizar as duas portas de entrada:** odontopediatria e ATM/dor orofacial.
 3. **Desenhar coordenação visível:** avaliação, plano, encaminhamento, retorno e acompanhamento.
 4. **Construir provas:** credenciais, protocolos, casos autorizados, avaliações e indicadores.
@@ -115,7 +115,7 @@ O herói é a pessoa ou família que deixa de navegar por problemas isolados e p
 
 ## Open Questions
 
-- Cristiane e Leonardo aprovam esta definição de medicina dentária sistémica?
+- Cristiane e Leonardo aprovam esta definição de medicina dentária integrada?
 - Que componentes já existem na operação e quais são uma ambição a implementar?
 - Que provas sustentam as duas portas de entrada?
 - Qual formulação pública passa por revisão clínica, linguística e regulatória?

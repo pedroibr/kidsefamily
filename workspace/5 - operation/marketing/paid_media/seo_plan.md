@@ -6,7 +6,7 @@ status: draft
 owner: Clínica Cristiane Martins
 tags: [marketing, seo, local-seo, content]
 created: 2026-07-27
-updated: 2026-07-27
+updated: 2026-08-24
 ---
 
 # Plano Inicial de SEO Local
@@ -21,7 +21,7 @@ Fazer a clínica ser encontrada por necessidades e dúvidas reais, sem fragmenta
 
 Criar uma página institucional de **cuidado integrado da família**, na qual a saúde oral é a porta de entrada para acompanhamento nas diferentes fases da vida. A página deve explicar como começa o atendimento, quais serviços estão efetivamente disponíveis, como a clínica orienta próximos passos e quais provas permitidas sustentam a proposta.
 
-Não apresentar “saúde sistémica” como promessa ampla, causa/efeito garantido ou substituto de avaliação clínica. A integração deve aparecer em percursos e coordenação concretos que a clínica possa comprovar.
+Não apresentar “saúde integrada” como promessa ampla, causa/efeito garantido ou substituto de avaliação clínica. A integração deve aparecer em percursos e coordenação concretos que a clínica possa comprovar.
 
 ## Clusters por serviço, intenção e localidade
 

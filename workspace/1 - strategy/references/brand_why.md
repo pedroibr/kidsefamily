@@ -3,7 +3,7 @@ type: Strategy
 title: Brand Why
 aliases:
   - Brand Why
-description: Traduz a estratégia de medicina dentária sistémica da Clínica Kids e Family em benefício humano, mudança de categoria e razão de marca.
+description: Traduz a estratégia de medicina dentária integrada da Clínica Kids e Family em benefício humano, mudança de categoria e razão de marca.
 status: draft
 owner: workspace
 tags:
@@ -12,14 +12,14 @@ tags:
   - messaging
   - dentistry
 created: 2026-07-27
-updated: 2026-08-11
+updated: 2026-08-24
 ---
 
 # Brand Why
 
 ## Purpose
 
-Explicar por que uma abordagem de medicina dentária sistémica importa para crianças, famílias e adultos e como essa diferença deve orientar a marca.
+Explicar por que uma abordagem de medicina dentária integrada importa para crianças, famílias e adultos e como essa diferença deve orientar a marca.
 
 ## Customer Benefit Why
 
@@ -31,9 +31,9 @@ Quando essa relação começa cedo, a criança e os responsáveis constroem mais
 
 ## Category Change Why
 
-A comunicação dentária costuma oscilar entre dois modelos. Um apresenta procedimentos e resolve episódios; o outro apresenta muitas especialidades e promete amplitude. A Kids e Family pode propor uma terceira leitura: medicina dentária como núcleo, com abordagem sistémica e coordenação multidisciplinar quando o caso exige.
+A comunicação dentária costuma oscilar entre dois modelos. Um apresenta procedimentos e resolve episódios; o outro apresenta muitas especialidades e promete amplitude. A Kids e Family pode propor uma terceira leitura: medicina dentária como núcleo, com abordagem integrada e coordenação multidisciplinar quando o caso exige.
 
-A mudança de categoria não está no termo. Está em tornar visíveis avaliação, contexto partilhado, liderança do caso, critérios de encaminhamento e acompanhamento. “Sistémica” só será uma diferença de marca se corresponder a uma diferença de experiência.
+A mudança de categoria não está no termo. Está em tornar visíveis avaliação, contexto partilhado, liderança do caso, critérios de encaminhamento e acompanhamento. “Integrada” só será uma diferença de marca se corresponder a uma diferença de experiência.
 
 ## Social or Cultural Relevance
 
@@ -48,7 +48,7 @@ A marca pode defender uma cultura de cuidado mais preventiva, conectada e respon
 - A odontopediatria demonstra o valor de começar cedo e acompanhar desenvolvimento.
 - ATM e dor orofacial demonstram o valor de organizar sintomas e função.
 - Família é a continuidade natural da confiança, não uma promessa comercial forçada.
-- Limites claros aumentam a credibilidade da abordagem sistémica.
+- Limites claros aumentam a credibilidade da abordagem integrada.
 
 ## Final Why Statement
 

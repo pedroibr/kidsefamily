@@ -1,23 +1,19 @@
 ---
 type: Log
 title: Goals Log
-description: Historical log for goals workspace changes.
+description: Registo cronológico das alterações no workspace de objetivos.
 status: active
-owner: workspace
+owner: Clínica Kids e Family
 tags: [goals, log]
-created: 2026-07-26
-updated: 2026-07-29
+created: 2026-09-09
+updated: 2026-09-09
 ---
 
 # Goals Log
 
-## 2026-07-29
+## 2026-09-09
 
-- Added `References` with the commercial proposal link.
-- Added the draft kickoff framework for campaign loops, core metrics, data definitions, access requests, implementation phases, and validation questions.
-- Added the seven provisional service categories discussed in strategy to the kickoff framework.
-- Updated the goals index and memory with the new measurement context.
-
-## 2026-07-26
-
-- Added index and log files to align with the protocol.
+- Inicializado o workspace de Goals com a estrutura Goal Architect para `2026/Q3`.
+- Movidos os ficheiros anteriores para `archived/`, preservando prioridades, framework de kickoff, proposta e memória histórica.
+- Criadas as pastas planas `campaign-mandates/` e `campaign-feedback/` no ciclo ativo.
+- Concluído o diagnóstico de estágio em `2026/Q3/stage-diagnosis.md`; a maturidade de aquisição permanece desconhecida por falta de baseline e evidência operacional.

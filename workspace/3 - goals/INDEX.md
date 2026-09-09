@@ -1,32 +1,29 @@
 ---
 type: Index
 title: Goals Workspace
-description: Map of business goals, KPIs, and planning logic.
+description: Mapa dos ciclos, objetivos, métricas e mandatos de campanha da Clínica Kids e Family.
 status: active
-owner: workspace
-tags: [goals, index]
-created: 2026-07-26
-updated: 2026-07-29
+owner: Clínica Kids e Family
+tags: [goals, index, planning]
+created: 2026-09-09
+updated: 2026-09-09
 ---
 
 # Goals
 
-## Purpose
+## Active cycle
 
-Use this workspace for desired outcomes, KPIs, targets, and links to the projects and operations that support them.
+- [2026](2026/INDEX.md)
+- [2026 Q3 — ciclo provisório](2026/Q3/INDEX.md)
 
-## Key Documents
+O ciclo `2026-Q3` foi derivado da data atual e permanece provisório até validação do período, baseline, responsáveis e metas.
 
-- [Rules](AGENTS.md)
-- [Memory](MEMORY.md)
-- [Prioridades Iniciais de Marketing](priorities.md)
-- [Kickoff — Loops de Campanha e Métricas da Clínica](References/kickoff-loops-campanhas-e-metricas.md)
+## Preserved history
 
-## References
+- [Archived Goals files](archived/INDEX.md)
 
-- [Proposta Comercial](References/proposta-comercial.md)
+## Related workspaces
 
-## Related Context
-
+- [Strategy Workspace](../1%20-%20strategy/INDEX.md)
+- [Context Workspace](../2%20-%20context/INDEX.md)
 - [Projects Workspace](../4%20-%20projects/INDEX.md)
-- [Operation Workspace](../5%20-%20operation/INDEX.md)

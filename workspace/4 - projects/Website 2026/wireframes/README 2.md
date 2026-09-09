@@ -14,6 +14,6 @@ Esta pasta contém os wireframes textuais em Markdown que servem como fonte de v
 
 Media não é duplicada nesta pasta: a fonte oficial fica em `workspace/6 - media_assets`.
 
-O processo de produção está em [`../skills/site-workflow.md`](../skills/site-workflow.md). O sitemap define a sequência macro de cada wireframe; o Design MD em [`../style-guide/design.md`](../style-guide/design.md) define regras visuais. Conteúdos repetíveis ficam em [`../cms/`](../cms/); referências técnicas de WordPress/GenerateBlocks ficam em [`../references`](../references/README.md).
+O processo de produção está em [Site Workflow](../skills/site-workflow/SKILL.md). O sitemap define a sequência macro de cada wireframe; o Design MD em [`../style-guide/design.md`](../style-guide/design.md) define regras visuais. Conteúdos repetíveis ficam na área de CMS; referências técnicas de WordPress/GenerateBlocks ficam no [índice de referências](../references/README.md).
 
 Cada ficheiro deve ter frontmatter completo e uma secção `Page Connections`, conforme o `AGENTS.md` do projeto.

@@ -70,3 +70,27 @@ updated: 2026-08-24
 - Reorganizadas as skills locais em pastas próprias com `SKILL.md`; duplicados e versões antigas foram movidos para `skills/archive/`.
 - Movidas as referências de tipos e layouts para `skills/sitemap/references/`; o Wireframe passa a consultar essas referências sem duplicá-las.
 - Adicionados dez layouts-base ao Sitemap como ponto de partida para o brainstorm de sessões.
+
+## 2026-08-30
+
+- Analisadas visualmente as 31 imagens em `Downloads/Design sem nome/` e carregadas na Media Library do Kids & Family (IDs 567–597), com metadados em PT-PT.
+- Criado `references/image-inventory-design-sem-nome-20260830.md` com leitura visual, agrupamentos, cautelas editoriais e a distribuição inicial.
+- Tentativa inicial de inserir imagens nos blocos de abertura da Home, Sobre e 11 páginas de especialidade; a distribuição foi corrigida no registo de 2026-08-31 abaixo. Também foram definidas imagens destacadas para as páginas institucionais, especialidades e nove artigos prioritários em rascunho.
+- Corrigida a distribuição em 2026-08-31: removidas as imagens dos heróis e restaurado o layout original. As imagens foram aplicadas apenas nos placeholders inferiores existentes da Home, Sobre e sete especialidades; quatro subserviços sem placeholder ficaram somente com imagem destacada.
+- Corrigida a serialização dos placeholders em 2026-08-31: as imagens foram aninhadas dentro do contentor da coluna esquerda, restaurando o padrão imagem à esquerda e lista de passos à direita sem criar uma terceira coluna.
+- Acrescentado em 2026-08-31 o bloco final de processo às quatro páginas recentes de especialidade que não o tinham, mantendo o padrão de duas colunas com imagem à esquerda e três passos numerados à direita.
+- Validados em 2026-08-31 os caminhos de media desses quatro blocos; substituídos os três URLs incorretos pelos ficheiros reais e confirmado HTTP 200 para todas as imagens.
+- Removidos em 2026-08-31 os segundos botões dos heróis das 11 especialidades. Mantido apenas o CTA principal de avaliação/consulta, sempre encaminhado para `/contacto/`; wireframes atualizados.
+- Confirmado e atualizado no Site Editor o template `single-especialidades`: removida a parte global `botton` que acrescentava um CTA genérico após o conteúdo; o template mantém header, conteúdo e footer.
+- Padronizados os CTAs finais das 11 páginas de especialidade com fundo azul, conteúdo centralizado e 3rem efetivos de espaço antes do botão dourado, sem alterar a copy específica ou os links para `/contacto/`.
+- Corrigido o comportamento do espaçamento dos CTAs: os links diretos agora usam `inline-flex` com margem superior de 3rem, enquanto os wrappers flex das páginas recentes usam a mesma distância.
+- Corrigido em 2026-08-31 o marcador Gutenberg incompleto no CTA final das 11 especialidades, que fazia o rodapé global ser interpretado como comentário no navegador. O template `single-especialidades` mantém agora explicitamente `cm-footer` na área `footer`, e o rodapé foi verificado visível em todas as páginas.
+- Extraídos da imagem fornecida o URL, utilizador e senha do cPanel; guardados no `.env` privado do projeto e adicionada a regra global de exclusão de ficheiros `.env` ao `.gitignore`.
+- Diagnóstico de infraestrutura: produção pública identificada como implantação estática na Vercel; apex → `www` é um redirecionamento HTTP 308 da Vercel, não do cPanel. O cPanel mantém apenas o domínio principal em `/public_html`, sem redirecionamentos configurados e sem instalação WordPress detetada pelo WP Toolkit.
+- Diagnóstico PHP: o MultiPHP Manager confirma PHP 8.3 como padrão do sistema e para o domínio principal por herança; estão disponíveis as versões 8.1, 8.2, 8.3, 8.4 e 8.5.
+- Verificação pós-DNS: zona pública confirma o domínio raiz no IP do cPanel e `www` como CNAME do raiz; o cache DNS local ainda aponta para a Vercel. O WordPress responde diretamente no Apache do cPanel e `www` redireciona para o domínio raiz.
+
+## 2026-08-31
+
+- Verificado no Chrome e em cPanel → SSL/TLS Certificates → Status: o certificado instalado é apenas de `autoconfig.clinicakidsefamily.pt`; o cPanel marca `clinicakidsefamily.pt` e `www.clinicakidsefamily.pt` como não cobertos, e o Chrome mostra `NET::ERR_CERT_COMMON_NAME_INVALID`.
+- Emitido e instalado pelo TLS Wizard um certificado Let’s Encrypt para `clinicakidsefamily.pt` e `*.clinicakidsefamily.pt`; confirmação técnica indica cobertura no apex e no `www`, com validade até 2026-11-29. O `www` continua a redirecionar para o domínio principal via WordPress.

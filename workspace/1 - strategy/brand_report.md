@@ -125,11 +125,11 @@ Fazer páginas, SEO, avaliações, lead magnets e indicação confirmarem as dua
 
 ## Relationships
 
-- Uses [[Brand Why]].
-- Uses [[Brand Beliefs]].
-- Uses [[Audience Signals]].
-- Uses [[Messaging Platform]].
-- Uses [[Strategy Report]].
+- Uses [Brand Why](references/brand_why%20%281%29.md).
+- Uses [Brand Beliefs](references/brand_beliefs%20%281%29.md).
+- Uses [Audience Signals](references/audience_signals.md).
+- Uses [Messaging Platform](references/messaging_platform%20%281%29.md).
+- Uses [Strategy Report](strategy_report%20%281%29.md).
 
 ## Supporting Skills
 

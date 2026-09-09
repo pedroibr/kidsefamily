@@ -6,8 +6,8 @@ pageType: hub
 contentType: directory
 sitemapLevel: hub
 wpContentType: page
-status: new
-productionStatus: notStarted
+status: existing
+productionStatus: contentDraftOnSite
 priority: medium
 pageGoal: awareness
 primaryIntent: "encontrar orientação sobre dúvidas de saúde oral"
@@ -50,3 +50,9 @@ Servir como entrada para artigos, guias, FAQs, comparações e checklists. O hub
 
 - Indexação: indexar.
 - O hub deve ser uma listagem navegável; o conteúdo aprofundado pertence aos artigos.
+
+## Production Notes
+
+- Conteúdo introdutório publicado na página WordPress `Blog` (id 12; `/blog/`) usando o template normal de páginas.
+- A página de posts do WordPress permanece sem atribuição (`page_for_posts = 0`); `/blog/` é uma página estática normal e não usa o template especial `home`.
+- O Query Loop de artigos fica reservado para ser inserido no editor do site.

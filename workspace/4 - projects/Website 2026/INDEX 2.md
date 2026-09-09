@@ -22,7 +22,7 @@ Planejar e desenvolver o novo website da Clínica Kids e Family, conectando posi
 - [Templates](sitemap/templates.md)
 - [Skills do processo](skills/README.md)
 - [Wireframes](wireframes/README.md)
-- [CMS / Post Types](cms/README.md)
+- [CMS / Post Types](skills/README.md)
 - [Style Guide / Design MD](style-guide/INDEX.md)
 - [Implementation references](references/README.md)
 - [Project agent rules](AGENTS.md)

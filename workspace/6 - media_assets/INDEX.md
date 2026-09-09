@@ -42,3 +42,10 @@ Adicionado 2026-08-18 em `stock/2026-08/Images/`:
 - `originais/`: 15 JPEG de referência, todos horizontais.
 - `webp/`: 15 versões optimizadas para testes de website.
 - [Inventário de imagens](stock/2026-08/Images/INVENTARIO.md): autores, páginas de origem, licenças, dimensões, usos sugeridos e validações pendentes.
+
+### Clínica Kids & Family — imagens recebidas do projecto
+
+Adicionadas 2026-08-31 em `2026/08/clinica-kids-family/design-sem-nome/`:
+
+- 31 JPEG originais (`1.jpg`–`31.jpg`) recebidos para utilização no site, páginas de especialidade e artigos.
+- [Inventário editorial no projecto](../4%20-%20projects/Website%202026/references/image-inventory-design-sem-nome-20260830.md): leitura visual, IDs da biblioteca WordPress e distribuição inicial.

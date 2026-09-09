@@ -33,7 +33,6 @@ Apresentar a Implantologia e a reabilitação oral como processos de avaliação
 - **Title:** Reabilitar um sorriso começa por compreender o que precisa de ser recuperado
 - **Description:** A implantologia pode fazer parte de um plano de reabilitação quando existe indicação clínica. Avaliamos a saúde oral, a função, os objetivos e as alternativas antes de decidir o caminho adequado.
 - **Primary CTA:** Marcar avaliação
-- **Secondary CTA:** Falar sobre reabilitação
 
 ### Section 2 — Para quem pode fazer sentido
 

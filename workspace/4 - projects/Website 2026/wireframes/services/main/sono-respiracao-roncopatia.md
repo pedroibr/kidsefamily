@@ -33,7 +33,6 @@ Explicar como a clínica pode observar sinais orais e funcionais relacionados co
 - **Title:** Quando respirar e dormir também fazem parte da saúde oral
 - **Description:** Alguns sinais de respiração, sono e função podem relacionar-se com o desenvolvimento oral e merecem ser compreendidos no contexto certo. A avaliação começa pela história da pessoa e define o próximo passo com critério.
 - **Primary CTA:** Falar sobre os sinais
-- **Secondary CTA:** Marcar avaliação
 
 ### Section 2 — Sinais que justificam orientação
 

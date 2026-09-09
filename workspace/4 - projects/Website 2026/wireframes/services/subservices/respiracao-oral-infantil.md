@@ -7,7 +7,7 @@ contentType: audienceServicePage
 sitemapLevel: subservice
 wpContentType: especialidades
 status: existing
-productionStatus: inProgress
+productionStatus: published
 priority: high
 pageGoal: consideration
 primaryIntent: "compreender sinais de respiração oral na criança e saber qual avaliação pode fazer sentido"
@@ -32,7 +32,6 @@ Explicar, de forma responsável, como a respiração oral pode aparecer no conte
 - **Title:** Respiração oral infantil: compreender os sinais e o próximo passo
 - **Content:** Alguns sinais de respiração, sono, hábitos ou desenvolvimento podem justificar uma avaliação. Começamos pela história da criança, observamos o contexto oral e explicamos quando faz sentido acompanhar, tratar ou encaminhar.
 - **Primary CTA:** Falar sobre a situação da criança
-- **Secondary CTA:** Conhecer Odontopediatria
 
 ### Section 2 — Sinais que podem merecer atenção
 
@@ -115,7 +114,7 @@ Explicar, de forma responsável, como a respiração oral pode aparecer no conte
 | Destino | Tipo de ligação | Motivo | CTA ou âncora |
 | --- | --- | --- | --- |
 | `/especialidades/odontopediatria/` | `parent` | Recolocar a página no percurso principal de cuidado infantil | Ver Odontopediatria |
-| `/especialidades/ortodontia-infantil-e-desenvolvimento/` | `related` | Encaminhar dúvidas de crescimento, mordida e alinhamento | Ver ortodontia infantil |
+| `/especialidades/ortodontia-infantil-desenvolvimento/` | `related` | Encaminhar dúvidas de crescimento, mordida e alinhamento | Ver ortodontia infantil |
 | `/especialidades/sono-respiracao-roncopatia/` | `crossLink` | Relacionar a página com a área de sono e respiração sem duplicar a URL | Ver sono e respiração |
 | `/contacto/` | `conversion` | Facilitar a conversa e a marcação | Falar connosco |
 | `/lead-magnets/avaliacao-respiracao-oral-infantil/` | `planned` | Oferecer o autoassessment quando estiver validado | Fazer a avaliação orientativa |
@@ -136,4 +135,3 @@ Explicar, de forma responsável, como a respiração oral pode aparecer no conte
 - Validar com a equipa clínica sinais, termos, limites da avaliação, áreas de encaminhamento e descrição real do percurso.
 - O autoassessment é um lead magnet separado e não faz parte desta página.
 - Assets: preferir imagem neutra de criança/família em contexto de cuidado, sem representar sintoma clínico específico.
-

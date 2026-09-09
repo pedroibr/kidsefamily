@@ -86,10 +86,10 @@ Definir contra quais alternativas a Cl√≠nica Kids e Family compete quando crian√
 
 ## Relationships
 
-- Uses [[Deep Research Report]].
-- Informs [[Differentiation]].
-- Informs [[Strategy Narrative]].
-- Informs [[Strategy Report]].
+- Uses [Deep Research Report](deep-research-report.md).
+- Informs [Differentiation](differentiation%20%281%29.md).
+- Informs [Strategy Narrative](strategy_narrative.md).
+- Informs [Strategy Report](../strategy_report%20%281%29.md).
 
 ## Supporting Skills
 

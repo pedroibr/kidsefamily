@@ -1,0 +1,32 @@
+{
+  "bridgeVersion": "3.6",
+  "kind": "google-docs-trusted-read-receipt",
+  "status": "complete",
+  "target": {
+    "documentId": "1izpApx71bvKrXB8NF0SZ2EUAdRc0zhkGa25a8F1rztU",
+    "title": "Acordo - Cristiane Martins - Operação de Crescimento Digital",
+    "revisionId": "AIroW37iDbBa1PEBaBVpk3LusQc5bxTaOcqRtzRnhc9FM_S62TnaA8PWUrsrl-twkfVX6d4vPDpJIfhGbqKSNV_efTazuKNB5LI_1dL0Vw",
+    "documentUrl": "https://docs.google.com/document/d/1izpApx71bvKrXB8NF0SZ2EUAdRc0zhkGa25a8F1rztU",
+    "selectedTabId": "t.0"
+  },
+  "dropdownMetadata": {
+    "status": "unavailable",
+    "resolvedTool": null,
+    "authoritative": false,
+    "count": 0
+  },
+  "controlAwareness": {
+    "hasProtectedControls": false,
+    "authoritativeDropdownCount": 0,
+    "opaqueControlCount": 0,
+    "affectedParagraphCount": 0,
+    "nativeElementCounts": {
+      "dateElement": 1,
+      "inlineObjectElement": 6
+    },
+    "preservationRequired": false,
+    "recommendedBehavior": "No protected controls were detected in the scanned scope."
+  },
+  "warnings": [],
+  "error": null
+}

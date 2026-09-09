@@ -58,11 +58,11 @@ Esta formulação é uma direção de marca e depende de validação da lideran�
 
 ## Relationships
 
-- Uses [[Strategy Report]].
-- Uses [[Strategy Narrative]].
-- Uses [[Differentiation]].
-- Informs [[Brand Beliefs]].
-- Informs [[Messaging Platform]].
+- Uses [Strategy Report](../strategy_report%20%281%29.md).
+- Uses [Strategy Narrative](strategy_narrative.md).
+- Uses [Differentiation](differentiation%20%281%29.md).
+- Informs [Brand Beliefs](brand_beliefs%20%281%29.md).
+- Informs [Messaging Platform](messaging_platform%20%281%29.md).
 
 ## Supporting Skills
 

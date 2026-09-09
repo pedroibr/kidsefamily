@@ -33,7 +33,6 @@ Apresentar estética e restauração como partes de um cuidado integrado, em que
 - **Title:** Um sorriso cuidado começa por estar bem, não apenas por parecer bem
 - **Description:** Avaliamos saúde oral, função, estrutura e objetivos antes de falar sobre estética. Quando existe indicação, procuramos soluções proporcionais, naturais e coerentes com a pessoa.
 - **Primary CTA:** Marcar avaliação
-- **Secondary CTA:** Falar sobre o meu sorriso
 
 ### Section 2 — Benefícios de uma abordagem integrada
 

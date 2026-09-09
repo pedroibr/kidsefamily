@@ -13,9 +13,9 @@ updated: 2026-08-24
 
 ## Key Documents
 
-- [Sitemap ativo V3 — arquitetura](sitemap.md)
-- [Sitemap V2 — arquivado](archive/sitemap-v2.md)
-- [Sitemap V1 — arquivado](archive/sitemap-v1.md)
+- [Sitemap ativo V3 — arquitetura](../../sitemap.md)
+- [Sitemap V2 — arquivado](../sitemap-v2.md)
+- [Sitemap V1 — arquivado](../sitemap-v1.md)
 
 ## Scope
 

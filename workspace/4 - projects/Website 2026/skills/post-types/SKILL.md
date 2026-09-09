@@ -37,4 +37,4 @@ Manter tipos de post que podem gerar vários conteúdos e ser distribuídos nas 
 
 ## Saída
 
-Adicionar ou atualizar documentos em [`../post-types/`](../post-types/) e declarar conexões no item e nas páginas que o utilizam.
+Adicionar ou atualizar documentos no [índice de post types](../../post-types/INDEX.md) e declarar conexões no item e nas páginas que o utilizam.

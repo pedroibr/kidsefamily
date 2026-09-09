@@ -1,6 +1,30 @@
 # Website 2026 Memory
 
 ## Active Projects and Work
+- 2026-09-01: A página WordPress `Sections Template` (page 774) passa a funcionar como laboratório visual da biblioteca; a primeira instância `hero-split` foi montada com conteúdo genérico e permanece sem guardar enquanto aguarda validação.
+- 2026-08-31: Emitido e instalado pelo TLS Wizard um certificado Let’s Encrypt para `clinicakidsefamily.pt` e `*.clinicakidsefamily.pt`; o certificado servido pelo apex e por `www` agora cobre ambos e é válido até 2026-11-29.
+- 2026-08-31: Verificação no Chrome e no cPanel SSL/TLS Status confirmou que `clinicakidsefamily.pt` e `www.clinicakidsefamily.pt` ainda não estão cobertos pelo certificado instalado; apenas `autoconfig.clinicakidsefamily.pt` tem AutoSSL válido. O Chrome apresenta `NET::ERR_CERT_COMMON_NAME_INVALID`.
+- 2026-08-30: Após a troca do DNS, os servidores autoritativos e resolvedores públicos já retornam o cPanel (`169.197.87.180`) para o domínio raiz e `www` como CNAME do raiz. O cache DNS local do macOS ainda mantinha a Vercel; o WordPress responde diretamente no cPanel, com `www` a redirecionar para o domínio raiz por configuração do próprio WordPress.
+- 2026-08-30: O cPanel disponibiliza PHP 8.1–8.5; o domínio `clinicakidsefamily.pt` está atualmente em PHP 8.3 (`ea-php83`) por herança da versão padrão do sistema.
+- 2026-08-30: O domínio público `clinicakidsefamily.pt` é servido por uma implantação estática na Vercel: o apex redireciona por HTTP 308 para `www`, e `www` responde diretamente pela Vercel. O WordPress atual está no staging `kidsefamily.instawp.site`; o cPanel não tem instalação WordPress detetada e o `public_html` visível contém apenas `app.clinicakidsefamily.pt/php.ini`.
+- 2026-08-30: Os dados de acesso ao cPanel da hospedagem foram extraídos da imagem fornecida e guardados no ficheiro privado `.env` deste projeto; o ficheiro está excluído do Git.
+- 2026-08-30: As imagens da Media Library foram distribuídas como imagens destacadas nas páginas institucionais (Blog, Início, Sobre, Contacto e Especialidades), nas 11 especialidades e nos nove artigos prioritários em rascunho. A distribuição evita repetição dentro de cada grupo; o artigo publicado ID 490 e a página demo ID 216 não foram alterados.
+- 2026-08-31: Corrigida a distribuição visual: removidas as imagens adicionadas indevidamente ao hero; Home, Sobre e as especialidades usam os contentores reservados. Os quatro subserviços que não tinham esse bloco receberam depois o mesmo padrão de duas colunas.
+- 2026-08-31: Corrigida também a estrutura dos placeholders preenchidos: as imagens agora estão aninhadas dentro do contentor de duas colunas, evitando que apareçam como uma terceira coluna ou deixem o bloco bege vazio ao lado.
+- 2026-08-31: Padronizado o bloco final de processo nas quatro páginas de especialidade que não o tinham (Respiração oral infantil, Ortodontia infantil e desenvolvimento, Ortodontia funcional e Alinhadores adultos), com imagem à esquerda, três passos numerados à direita e copy específica por serviço.
+- 2026-08-31: Validados os URLs das imagens nos quatro blocos novos; corrigidos os caminhos que apontavam para ficheiros inexistentes. As quatro imagens agora retornam corretamente da Media Library.
+- 2026-08-31: Removidos os segundos CTAs dos heróis das 11 especialidades; cada página mantém apenas o CTA principal para `/contacto/`, e os wireframes foram alinhados com essa regra.
+- 2026-08-30: Foram analisadas e carregadas 31 imagens da pasta `Downloads/Design sem nome/` na Media Library do Kids & Family (IDs 567–597), com títulos, alt text, descrições e usos editoriais sugeridos. O inventário está em `references/image-inventory-design-sem-nome-20260830.md`; a primeira distribuição está registada no próprio inventário.
+- 2026-08-30: Os quatro subserviços que estavam sem corpo no WordPress receberam conteúdo completo em GenerateBlocks e foram publicados como primeira versão: Ortodontia infantil e desenvolvimento, Ortodontia funcional, Ortodontia e alinhadores transparentes para adultos e Respiração oral infantil. O copy está em `wireframes/services/subservices/` e aguarda revisão clínica/editorial.
+- 2026-08-30: Foram removidos dos quatro subserviços os separadores literais `\\n\\n` que apareciam no front-end; a estrutura agora usa quebras de linha reais e mantém um H1, FAQs em acordeão e CTAs funcionais por página.
+- 2026-08-26: Foram carregadas 11 imagens de stock na biblioteca do WordPress e definidas como imagens destacadas das 11 especialidades publicadas, com texto alternativo em português.
+- 2026-08-26: A pasta recebida `Downloads/Derivados/` foi copiada para `post-types/blog/references/Derivados/` como referência editorial; contém 103 textos de artigo em Markdown e não foi publicada.
+- 2026-08-26: Foi criada uma seleção provisória dos 10 artigos mais alinhados com medicina dentária integrada, infância, respiração/sono, função e ATM em `post-types/blog/references/selected-10-v1.md`; a seleção ainda requer revisão clínica e editorial.
+- 2026-08-26: O primeiro artigo da seleção (“A criança é um sistema: porque não olho só para os dentes”) foi carregado no WordPress como rascunho `post` ID 490 para revisão clínica e editorial; as notas internas de produção foram removidas do corpo público.
+- 2026-08-30: Os dez artigos prioritários foram convertidos em documentos Markdown canónicos na raiz de `post-types/blog/`, todos como rascunhos PT-PT e com exatamente uma ligação interna para a especialidade mais relevante; apenas o primeiro também está carregado no WordPress (post ID 490).
+- 2026-08-31: Os nove artigos restantes foram criados no WordPress como rascunhos (`post` IDs 527–535), com conteúdo Gutenberg e uma ligação interna de especialidade cada; o artigo 490 foi sincronizado com o Markdown canónico e permaneceu publicado.
+- 2026-08-31: Os dez artigos prioritários foram publicados no WordPress; os posts 527–535 passaram de rascunho a `publish` e o post 490 permaneceu publicado.
+- 2026-08-25: Os hubs Blog (page 12) e Especialidades (page 164) receberam conteúdo introdutório no template normal de páginas; o template deixou de incluir o CTA global `botton`, mantendo header, topo, conteúdo e footer.
 - 2026-08-24: A main page de Estética dentária e restauração foi atualizada no WordPress (`especialidades` id 126; `/especialidades/estetica-dentaria-restauracao/`) com o modelo das restantes especialidades e copy inicial sobre restauração, estética, função, FAQ e CTA.
 - 2026-08-24: A main page existente de Implantologia e reabilitação oral foi atualizada no WordPress (`especialidades` id 125; `/especialidades/implantologia-reabilitacao/`) com o modelo partilhado, copy de planeamento e alternativas, gatilho azul e FAQ em acordeão; falta revisão clínica.
 - 2026-08-24: A main page existente de Medicina dentária geral e cuidado adulto foi atualizada no WordPress (`especialidades` id 124; `/especialidades/medicina-dentaria-adulto/`) com o modelo partilhado, copy de prevenção e continuidade, gatilho azul e FAQ em acordeão; falta revisão clínica.
@@ -15,6 +39,11 @@
 - 2026-08-24: O processo oficial foi separado em quatro fases: Sitemap, Wireframe em Markdown, Style Guide/Design MD e implementação visual; o detalhe está em `skills/site-workflow/SKILL.md`.
 
 ## Decisions
+- 2026-09-01: Retomar a biblioteca técnica em `references/` como um catálogo declarativo de `Pages`, `Sections` e `Components`, documentando famílias a partir de prints aprovados; cada família deve listar todos os parâmetros suportados, usar vazio como ausência para `tagline`, `headline` e `description`, limitar media a tipo/estrutura sem `source` ou `alt`, e mapear valores para blocos, componentes e classes estruturais do GenerateBlocks. Esta decisão substitui o cancelamento do catálogo técnico registado em 2026-08-24.
+- 2026-08-25: A secção de serviços do hub `/especialidades/` usa tabs GenerateBlocks Pro com três áreas de cuidado e Query Loops do CPT `especialidades`; a Home mantém o conteúdo institucional e não concentra a listagem dinâmica.
+- 2026-08-25: As tabs de serviços foram removidas da Home e passaram para o hub `/especialidades/` (page 164); a Home fica mais enxuta e o hub concentra a exploração dinâmica das especialidades.
+- 2026-08-25: A Home (page 13) foi restaurada à revisão WordPress `426`, recuperando a ordem Hero → três caminhos → faixa azul de crença → comparação → metodologia; a revisão atual foi preservada pelo WordPress.
+- 2026-08-25: O hub `Blog` é uma página estática normal (`page` id 12); `page_for_posts` permanece vazio para que a página renderize o seu próprio conteúdo. O template especial `home` não deve ser personalizado para este hub.
 - 2026-08-18: Usar a página WordPress `/especialidades/` como hub; manter páginas comerciais individuais no CPT `especialidades` e artigos no tipo `post`.
 - 2026-08-18: Separar o nível editorial da página do tipo técnico do WordPress; serviços principais e subserviços podem compartilhar o CPT `especialidades` sem exigir URLs aninhadas.
 - 2026-08-18: Cada URL terá uma intenção primária e um destino comercial; páginas de campanha quase duplicadas deverão usar `noindex` ou canonical conforme implementação.
@@ -34,6 +63,9 @@
 - 2026-08-18: Corrigido o alinhamento global de `gbp-section__inner`: adicionados `width: 100%` e margens automáticas, preservando o limite de `1100px` para centralizar as secções em ecrãs largos.
 - 2026-08-18: `gbp-button--secondary` foi alinhado à geometria do primário, mas invertido: transparente por defeito, texto/borda em `contrast`, radius de `24px` e preenchimento escuro no hover/focus.
 - 2026-08-24: A secção comparativa da Home mantém três itens curtos por card e deve destacar benefícios concretos da abordagem integrada: contexto relevante, coordenação e próximo passo claro.
+- 2026-08-25: O template de artigo individual mantém o header/footer da Kids & Family e usa a geometria de conteúdo observada no single da Fernanda Polli: coluna de 640px, padding vertical de 2rem, imagem destacada 3:2 e conteúdo alinhado ao mesmo eixo.
+- 2026-08-26: O espaçamento dos artigos foi normalizado nos Global Styles: parágrafos com line-height 1.65, margem entre blocos, headings e listas; a regra aplica-se apenas a `body.single-post`.
+- 2026-08-25: O template normal `twentytwentyfive//page` inclui o template part `botton` antes do `cm-footer`, igualando o bottom CTA da Home nas páginas Sobre, Especialidades, Contacto e restantes páginas normais; o CTA continua global, não repetido nos wireframes.
 - 2026-08-24: O Design MD específico foi movido para `style-guide/design.md`; `references/` mantém apenas exports e referências técnicas do projeto.
 - 2026-08-24: Foi testada uma skill global para o workflow, mas ela foi removida a pedido; as instruções canónicas agora vivem em `skills/` dentro do projeto.
 - 2026-08-24: A skill instalada no Codex foi removida a pedido; as instruções passaram a ser documentação local em `skills/`, preparada para futura incorporação ao plugin.
@@ -50,6 +82,8 @@
 - 2026-08-19: A versão reduzida do `sobre.md` foi sincronizada com a página WordPress 78; a página publicada agora tem quatro secções e mantém apenas a equipa como bloco exclusivo de apresentação.
 - 2026-08-19: A página Contacto (WordPress page 79) recebeu a primeira versão GenerateBlocks com CTA para WhatsApp, três passos verticais e container reservado para o mapa; morada, horários e fluxo de resposta continuam por confirmar.
 - 2026-08-19: A secção “O que acontece depois” da página Contacto foi padronizada como três cards lado a lado no desktop e uma coluna no mobile, mantendo o conteúdo editado pelo utilizador.
+- 2026-08-31: O template `single-especialidades` foi confirmado no Site Editor e deixou de incluir a parte global `botton`; as páginas de especialidade passam a terminar no seu próprio CTA, seguido diretamente do rodapé.
+- 2026-08-31: Os CTAs finais das 11 especialidades foram padronizados em fundo azul, texto centralizado e botão primário dourado; o espaçamento efetivo entre texto e botão foi definido em 3rem, preservando a copy e os links de cada página.
 
 ## Scheduled Tasks
 - None recorded yet.

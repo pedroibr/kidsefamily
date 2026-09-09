@@ -31,17 +31,17 @@ Explique em poucas linhas a função desta página, o problema que resolve e o q
 
 ## Section Template
 
-Usar este formato simples em cada secção:
+Em cada secção, declarar o tipo editorial e copiar a configuração completa da família correspondente da [Sections Library — localização atual](../../../../../cristianemartins/workspace/4%20-%20projects/Website%202026/skills/wireframe/references/sections-library/README.md). Manter campos vazios para que opções de conteúdo possam ser adicionadas mais tarde.
 
-- **Section type:** `hero section`
-- **Layout:** `Lxx`, conforme o sitemap e a referência Section Layouts.
-- **Tagline:**
-- **Title:**
-- **Content:**
-- **Display:** explicar de forma curta como o conteúdo aparece.
-- **CTA:** opcional.
+```yaml
+sectionType: hero section
+layoutId:
+family: [nome-da-familia]
 
-`Section type` e `Layout` vêm da skill de Sitemap: [`../skills/sitemap/references/section-types.md`](../skills/sitemap/references/section-types.md) e [`../skills/sitemap/references/section-layouts.md`](../skills/sitemap/references/section-layouts.md).
+# Copiar abaixo a configuração completa da família.
+```
+
+`sectionType` e `layoutId` vêm da skill de Sitemap: [`../skills/sitemap/references/section-types.md`](../skills/sitemap/references/section-types.md) e [`../skills/sitemap/references/section-layouts.md`](../skills/sitemap/references/section-layouts.md). A família controla a estrutura e as opções; o wireframe não deve incluir CSS, markup Gutenberg, fontes de media, `alt` ou URLs.
 
 ## Page Connections
 

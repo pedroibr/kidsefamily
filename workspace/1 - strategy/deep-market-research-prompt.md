@@ -52,5 +52,5 @@ outputLanguage: pt_PT
 
 ## Relationships
 
-- Strategy workspace: [[INDEX]]
-- Current strategic state: [[MEMORY]]
+- Strategy workspace: [INDEX](INDEX.md)
+- Current strategic state: [MEMORY](MEMORY.md)

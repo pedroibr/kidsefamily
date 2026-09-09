@@ -1,0 +1,32 @@
+{
+  "bridgeVersion": "3.6",
+  "kind": "google-docs-trusted-read-receipt",
+  "status": "complete",
+  "target": {
+    "documentId": "1cHYLl80Q25Vp5HRGftxAHSO51hJdi8ug9tj7xkoHWbQ",
+    "title": "Acordo - Cristiane Martins - Autoridade e Expansão do Método Respira e Cresce",
+    "revisionId": "AIroW34hmhgwOclfHqh45bCejbHV9LgqcTBnU9ge32Me0Cnk2h3Lg7zGOCnnwq1yhROe0mr2OnDiuTOLTkkY2ZWaKyU8N6H5G7a29r7PFQ",
+    "documentUrl": "https://docs.google.com/document/d/1cHYLl80Q25Vp5HRGftxAHSO51hJdi8ug9tj7xkoHWbQ",
+    "selectedTabId": "t.0"
+  },
+  "dropdownMetadata": {
+    "status": "unavailable",
+    "resolvedTool": null,
+    "authoritative": false,
+    "count": 0
+  },
+  "controlAwareness": {
+    "hasProtectedControls": false,
+    "authoritativeDropdownCount": 0,
+    "opaqueControlCount": 0,
+    "affectedParagraphCount": 0,
+    "nativeElementCounts": {
+      "dateElement": 1,
+      "inlineObjectElement": 6
+    },
+    "preservationRequired": false,
+    "recommendedBehavior": "No protected controls were detected in the scanned scope."
+  },
+  "warnings": [],
+  "error": null
+}

@@ -18,8 +18,8 @@ Estabelecer páginas, tipos de página, templates, macro-seções, intenção pr
 ## Deve fazer
 
 - manter um inventário de URLs canónicas;
-- ligar cada página a um `templateId` de [`../sitemap/templates.md`](../sitemap/templates.md);
-- usar os arranjos de [`../sitemap/section-layouts.md`](../sitemap/section-layouts.md) sem confundir layout com função editorial;
+- ligar cada página a um `templateId` de [`../sitemap/templates.md`](../../sitemap/templates.md);
+- usar os arranjos de [`../sitemap/section-layouts.md`](../sitemap/references/section-layouts.md) sem confundir layout com função editorial;
 - definir `header`, `top`, `content`, `bottom` e `footer` quando aplicável;
 - dar a cada seção um `sectionType`, `layoutId`, breve prompt/briefing, conteúdo obrigatório e próximo passo;
 - manter o planejamento SEO junto da arquitetura em `../sitemap/SEO/`;
@@ -35,4 +35,4 @@ Estabelecer páginas, tipos de página, templates, macro-seções, intenção pr
 
 ## Saída
 
-Atualizar [`../sitemap/sitemap.md`](../sitemap/sitemap.md) e, quando necessário, [`../sitemap/templates.md`](../sitemap/templates.md) antes de criar ou alterar um wireframe.
+Atualizar [`../sitemap/sitemap.md`](../../sitemap/sitemap.md) e, quando necessário, [`../sitemap/templates.md`](../../sitemap/templates.md) antes de criar ou alterar um wireframe.

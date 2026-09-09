@@ -33,7 +33,6 @@ Apresentar a Ortodontia como um cuidado que considera alinhamento, mordida, cres
 - **Title:** Ortodontia para cuidar da forma como a boca funciona
 - **Description:** A ortodontia pode ajudar a organizar dentes e mordida em diferentes fases da vida. Começamos por compreender o crescimento, a função e os objetivos da pessoa antes de definir se, quando e como intervir.
 - **Primary CTA:** Marcar avaliação de ortodontia
-- **Secondary CTA:** Falar sobre a minha situação
 
 ### Section 2 — Para quem pode fazer sentido
 

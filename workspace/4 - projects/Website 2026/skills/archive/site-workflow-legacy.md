@@ -25,7 +25,7 @@ Cada fase pode informar a seguinte, mas nenhuma deve substituir a outra.
 
 **Pergunta:** que páginas existem e como são estruturadas?
 
-Arquivo principal: [`../sitemap/sitemap.md`](../sitemap/sitemap.md)
+Arquivo principal: [`../sitemap/sitemap.md`](../../sitemap/sitemap.md)
 
 O sitemap define:
 
@@ -59,7 +59,7 @@ O wireframe é conteúdo estruturado e direção de display. Não é export Gute
 
 **Pergunta:** quais são as regras visuais que tornam as páginas consistentes?
 
-Arquivo principal: [`../style-guide/design.md`](../style-guide/design.md)
+Arquivo principal: [`../style-guide/design.md`](../../style-guide/design.md)
 
 O Design MD deve registrar:
 

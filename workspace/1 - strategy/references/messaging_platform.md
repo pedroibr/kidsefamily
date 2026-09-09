@@ -187,12 +187,12 @@ O descritor deve passar por validação clínica, linguística e regulatória an
 
 ## Relationships
 
-- Uses [[Strategy Report]].
-- Uses [[Brand Why]].
-- Uses [[Brand Beliefs]].
-- Uses [[Audience Signals]].
-- Uses [[Strategy Narrative]].
-- Informs [[Brand Report]].
+- Uses [Strategy Report](../strategy_report%20%281%29.md).
+- Uses [Brand Why](brand_why%20%281%29.md).
+- Uses [Brand Beliefs](brand_beliefs%20%281%29.md).
+- Uses [Audience Signals](audience_signals.md).
+- Uses [Strategy Narrative](strategy_narrative.md).
+- Informs [Brand Report](../brand_report.md).
 
 ## Supporting Skills
 

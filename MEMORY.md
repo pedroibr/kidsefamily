@@ -1,6 +1,7 @@
 # Client Hub Memory: Clínica Kids e Family
 
 ## Active Projects and Work
+- 2026-08-26: The 26 August strategy meeting notes/transcript from Gemini were moved from `3 - Meet Recordings` to the shared `CM Meetings` folder; no separate recording was found.
 - 2026-08-24: A main page de Estética dentária e restauração foi atualizada no WordPress (`especialidades` id 126; `/especialidades/estetica-dentaria-restauracao/`) com o modelo das restantes especialidades e copy inicial sobre restauração, estética, função, FAQ e CTA.
 - 2026-08-24: Odontopediatria FAQ accordion spacing is controlled by the reusable `faq-item-compact` Global Class with 8px top/bottom padding, applied to all five accordion toggles.
 - 2026-08-24: The `single-especialidades` template now renders only the shared header, post content, and shared footer; its global title/excerpt shell and `botton` CTA part were removed. Odontopediatria FAQ content uses the GenerateBlocks Pro accordion recipe.

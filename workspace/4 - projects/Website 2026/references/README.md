@@ -13,6 +13,8 @@ Esta pasta guarda referências técnicas e visuais para a implementação do web
 
 ## References
 
+- [Sections Library — localização atual](../../../../../cristianemartins/workspace/4%20-%20projects/Website%202026/skills/wireframe/references/sections-library/README.md): biblioteca migrada em 2026-09-08 para a skill local de Wireframe do projeto Cristiane Martins.
+
 - [GenerateBlocks Home Page](home-generateblocks-reference.md): export de uma página Home usado para estudar a estrutura de blocos GenerateBlocks no WordPress.
 - [GenerateBlocks Home — referência 2026-08-19](home-generateblocks-reference-2026-08-19.md): versão mais recente da Home enviada pelo utilizador, com refinamentos de layout, listas e contentores reservados.
 - [GenerateBlocks Home — Services and Testimonials](home-services-testimonials-generateblocks-reference.md): export com tabs/listagem de serviços e carousel de testemunhos para consulta de padrões interativos.
@@ -22,3 +24,4 @@ Esta pasta guarda referências técnicas e visuais para a implementação do web
 - [Design MD](../style-guide/design.md): inventário da paleta, tipografia, layout, CSS global e classes GenerateBlocks actualmente existentes no site da Clínica Kids e Family.
 - [Website Section Types](../skills/sitemap/references/section-types.md): interpretação operacional do catálogo de tipos de secção e dos briefings editoriais guardados em `website-section-types.xlsx`; o processo de uso está em `../skills/`.
 - [Website Section Types — source workbook](website-section-types.xlsx): ficheiro original com os nomes e descrições dos tipos de secção; usar como referência, não como instrução rígida.
+- [Image inventory — Design sem nome](image-inventory-design-sem-nome-20260830.md): análise visual das 31 imagens carregadas na Media Library, com IDs, alt text e usos editoriais sugeridos.

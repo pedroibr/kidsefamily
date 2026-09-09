@@ -78,10 +78,10 @@ A relação ganha valor quando acompanha evolução, resposta e novas fases da p
 
 ## Relationships
 
-- Uses [[Brand Why]].
-- Uses [[Strategy Report]].
-- Uses [[Strategy Narrative]].
-- Informs [[Messaging Platform]].
+- Uses [Brand Why](brand_why%20%281%29.md).
+- Uses [Strategy Report](../strategy_report%20%281%29.md).
+- Uses [Strategy Narrative](strategy_narrative.md).
+- Informs [Messaging Platform](messaging_platform%20%281%29.md).
 
 ## Supporting Skills
 

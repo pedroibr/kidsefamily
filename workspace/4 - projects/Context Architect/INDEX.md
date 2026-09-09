@@ -20,7 +20,7 @@ Evoluir o plugin e os contratos do Context Builder para organizar business conte
 - [Project rules](AGENTS.md)
 - [Experiences contract](experiences/experiences-contract.md)
 - [Experience skill in plugin](../../../marketplaces/strategy/plugins/business-architect/skills/experience-architect/SKILL.md)
-- [Skill library mirror](../../skill_workflow_library/skills/business-architect/experience-architect/SKILL.md)
+- [Skill library mirror](../skill_workflow_library/skills/business-architect/experience-architect/SKILL.md)
 
 ## Related Context
 

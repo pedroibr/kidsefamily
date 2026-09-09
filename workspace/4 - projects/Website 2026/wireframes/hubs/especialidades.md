@@ -7,7 +7,7 @@ contentType: directory
 sitemapLevel: hub
 wpContentType: page
 status: existing
-productionStatus: notStarted
+productionStatus: contentDraftOnSite
 priority: high
 pageGoal: consideration
 primaryIntent: "encontrar o serviço adequado"
@@ -34,11 +34,12 @@ Organizar os sete serviços principais da Clínica Kids e Family e ajudar cada p
 
 ### Section 2 — Listagem de serviços
 
-- **Display:** grelha de serviços principais, organizada pelos três caminhos de cuidado.
+- **Display:** bloco `generateblocks-pro/tabs`, com menu vertical no desktop e scroll horizontal no mobile; cada tab mostra um Query Loop filtrado do CPT `especialidades`.
 - **Groups:** Infância e desenvolvimento; Dor, função e sono; Saúde oral e reabilitação estética.
 - **Main services:** Odontopediatria; ATM e dor orofacial; Ortodontia; Sono, respiração e roncopatia; Medicina dentária geral e cuidado adulto; Implantologia e reabilitação oral; Estética dentária e restauração.
 - **Active subservices:** Respiração oral infantil; Ortodontia infantil e desenvolvimento; Ortodontia e alinhadores transparentes para adultos.
-- **Listing rules:** cada card principal deve apontar para a página canónica do serviço. Subserviços aparecem apenas dentro do card ou da página-mãe pertinente; lead magnets não entram como especialidades.
+- **Item display:** título, excerpt curto e ligação “Conhecer especialidade”; imagens permanecem opcionais até as páginas receberem imagens destacadas.
+- **Listing rules:** cada item deve apontar para a página canónica do serviço. Subserviços aparecem apenas dentro do grupo ou da página-mãe pertinente; lead magnets não entram como especialidades.
 
 ## Page Connections
 
@@ -58,3 +59,8 @@ Organizar os sete serviços principais da Clínica Kids e Family e ajudar cada p
 
 - Indexação: indexar.
 - O hub deve encaminhar para páginas de serviço canónicas e evitar competir com artigos sobre sintomas ou dúvidas.
+
+## Production Notes
+
+- Conteúdo introdutório publicado na página WordPress `Especialidades` (id 164; `/especialidades/`) usando o template normal de páginas.
+- A listagem de serviços foi publicada como tabs GenerateBlocks Pro com Query Loops filtrados por IDs e ordem editorial.

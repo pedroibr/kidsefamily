@@ -17,10 +17,10 @@ Use this workspace for temporary initiatives with a defined scope, outcome, owne
 
 ## Child Folders
 
-- [Automation Project](automation_project/INDEX.md)
-- [Funnel A](funnel_a/INDEX.md)
+- [Automation Project](INDEX.md)
+- [Funnel A](INDEX.md)
 - [Process Project](process_project/INDEX.md)
-- [Project X](project_x/INDEX.md)
+- [Project X](INDEX.md)
 - [Clínica KF Website Plan](clinica-kf/SITE_PLAN.md)
 - [Website 2026](Website%202026/INDEX.md)
 

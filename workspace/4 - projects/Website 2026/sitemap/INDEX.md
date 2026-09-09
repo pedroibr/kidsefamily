@@ -18,4 +18,4 @@ updated: 2026-08-24
 - [Layouts estruturais de secções](../skills/sitemap/references/section-layouts.md)
 - [Sitemap Skill](../skills/sitemap/SKILL.md)
 
-Os templates definem as macro-seções possíveis e a forma como o shell global pode ser combinado. O Sitemap usa esses contratos, mas mantém apenas a árvore, os `sectionType` e os briefings de cada secção. Planeamentos SEO anteriores estão arquivados em [`archive/seo-legacy-20260824/`](archive/seo-legacy-20260824/).
+Os templates definem as macro-seções possíveis e a forma como o shell global pode ser combinado. O Sitemap usa esses contratos, mas mantém apenas a árvore, os `sectionType` e os briefings de cada secção. Planeamentos SEO anteriores estão arquivados em [SEO](archive/seo-legacy-20260824/SEO.md).

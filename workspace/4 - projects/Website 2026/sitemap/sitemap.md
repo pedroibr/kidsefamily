@@ -6,7 +6,7 @@ status: active
 owner: Pedro Raimundo
 tags: [website, sitemap, information-architecture, section-briefs]
 created: 2026-08-24
-updated: 2026-08-24
+updated: 2026-08-30
 ---
 
 # Website Sitemap — Arquitetura V4
@@ -147,9 +147,18 @@ Website
 │   │   ├── methodology section — mostrar como se decide o momento de intervir
 │   │   ├── faq section — responder dúvidas
 │   │   └── in page cta section — orientar para consulta
-│   └── Ortodontia e alinhadores para adultos /especialidades/ortodontia-alinhadores-adultos/ [service-sub]
+│   ├── Ortodontia funcional /especialidades/ortodontia-funcional/ [service-sub]
+│   │   ├── hero section — enquadrar a relação entre mordida, alinhamento e função
+│   │   ├── who is this for section — reconhecer dúvidas sobre conforto e função oral
+│   │   ├── trigger / belief-break section — mostrar que função não se resume a dentes direitos
+│   │   ├── main benefits section — explicar o valor de uma leitura funcional
+│   │   ├── methodology section — mostrar avaliação e próximos passos
+│   │   ├── faq section — esclarecer dúvidas e limites
+│   │   └── in page cta section — orientar para avaliação
+│   └── Ortodontia e alinhadores para adultos /especialidades/ortodontia-alinhadores/ [service-sub]
 │       ├── hero section — apresentar alinhamento para adultos
 │       ├── who is this for section — reconhecer objetivos e contexto
+│       ├── trigger / belief-break section — contextualizar a escolha de alinhadores
 │       ├── why choose us section — explicar acompanhamento e integração clínica
 │       ├── methodology section — mostrar avaliação e plano
 │       ├── faq section — esclarecer dúvidas

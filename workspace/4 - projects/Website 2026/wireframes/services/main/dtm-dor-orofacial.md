@@ -33,7 +33,6 @@ Explicar a área de DTM e dor orofacial relacionada com a ATM para pessoas que s
 - **Title:** Quando a mandíbula dói, o primeiro passo é compreender o que está a acontecer
 - **Content:** Dor na face ou na mandíbula, estalidos, dificuldade em abrir a boca e alterações na função podem ter contextos diferentes. A avaliação começa por ouvir a história, observar o que está dentro do âmbito clínico e organizar o próximo passo.
 - **Primary CTA:** Marcar avaliação de ATM
-- **Secondary CTA:** Falar sobre os sintomas
 
 ### Section 2 — Situações que podem levar à avaliação
 

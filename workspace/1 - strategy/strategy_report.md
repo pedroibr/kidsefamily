@@ -135,13 +135,13 @@ Registar origem, conversão, recorrência, procura por entrada, transições int
 
 ## Relationships
 
-- Uses [[Deep Research Report]].
-- Uses [[True Competitors]].
-- Uses [[Differentiation]].
-- Uses [[SWOT Analysis]].
-- Uses [[Strategy Narrative]].
-- Informs [[Brand Why]].
-- Informs [[Messaging Platform]].
+- Uses [Deep Research Report](references/deep-research-report.md).
+- Uses [True Competitors](references/true_competitors.md).
+- Uses [Differentiation](references/differentiation%20%281%29.md).
+- Uses [SWOT Analysis](references/swot_analysis%20%281%29.md).
+- Uses [Strategy Narrative](references/strategy_narrative.md).
+- Informs [Brand Why](references/brand_why%20%281%29.md).
+- Informs [Messaging Platform](references/messaging_platform%20%281%29.md).
 
 ## Supporting Skills
 

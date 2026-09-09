@@ -1,0 +1,32 @@
+{
+  "bridgeVersion": "3.6",
+  "kind": "google-docs-trusted-read-receipt",
+  "status": "complete",
+  "target": {
+    "documentId": "1z6oKxebjyO8baseSyxkentR1cLir1CGkQG9PAae6ou0",
+    "title": "Acordo - Leonardo Machado - Parceria Estratégica e Operacional",
+    "revisionId": "AIroW37BhUSyrvm26Sz43jsGMGPU4hokPOdJvluWeSdvAJy-j02dALAKJh-X7uxx5hNHI14ZwZ5CCZZDnqIdTHOOgNGAPUfdMY9zDoarLg",
+    "documentUrl": "https://docs.google.com/document/d/1z6oKxebjyO8baseSyxkentR1cLir1CGkQG9PAae6ou0",
+    "selectedTabId": "t.0"
+  },
+  "dropdownMetadata": {
+    "status": "unavailable",
+    "resolvedTool": null,
+    "authoritative": false,
+    "count": 0
+  },
+  "controlAwareness": {
+    "hasProtectedControls": false,
+    "authoritativeDropdownCount": 0,
+    "opaqueControlCount": 0,
+    "affectedParagraphCount": 0,
+    "nativeElementCounts": {
+      "dateElement": 1,
+      "inlineObjectElement": 8
+    },
+    "preservationRequired": false,
+    "recommendedBehavior": "No protected controls were detected in the scanned scope."
+  },
+  "warnings": [],
+  "error": null
+}

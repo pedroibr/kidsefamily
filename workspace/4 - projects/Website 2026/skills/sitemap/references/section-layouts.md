@@ -232,4 +232,4 @@ Use para um próximo passo claro no final ou entre blocos. Evitar repetir a mesm
 
 ## Histórico
 
-Os prints e fichas visuais usados como exemplos foram arquivados em [`../../archive/section-library-visual-examples-20260824/`](../../archive/section-library-visual-examples-20260824/). A especificação detalhada anterior está em [`../../archive/section-layouts-detailed-v1.md`](../../archive/section-layouts-detailed-v1.md). Nenhum desses materiais é necessário para criar novos layouts.
+Os prints e fichas visuais usados como exemplos começam em [Section 001](../../archive/section-library-visual-examples-20260824/section-001.md). A especificação detalhada anterior está em [`../../archive/section-layouts-detailed-v1.md`](../../archive/section-layouts-detailed-v1.md). Nenhum desses materiais é necessário para criar novos layouts.

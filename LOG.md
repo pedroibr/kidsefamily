@@ -28,3 +28,7 @@ updated: 2026-07-29
 - Restricted the root contact directory to communication and consultation specifically about this workspace and its projects.
 - Renamed the directory to `PROJECT_CONTACTS.md` and added Pedro Raimundo as the third project contact.
 - Invited Leonardo Machado and Cristiane Martins to the private GitHub repository with write access.
+
+## 2026-08-26
+
+- Moved the 26 August Gemini meeting notes/transcript into the shared `CM Meetings` Drive folder; no separate recording was present.

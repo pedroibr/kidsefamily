@@ -23,7 +23,7 @@ Usar este contexto para definir, pesquisar e sintetizar sinais externos que poss
 
 Não usar estes documentos como contexto ativo, exceto quando solicitado explicitamente.
 
-- [Monitoring Signals V1](Archived/V1%20monitoring_signals.md)
+- [Monitoring Signals](monitoring_signals.md)
 - `OLD 2 monitoring_signals.md` — versão de teste expandida.
 - Relatórios `OLD` — testes semanais arquivados.
 
@@ -36,6 +36,6 @@ Não usar estes documentos como contexto ativo, exceto quando solicitado explici
 
 ## Related Context
 
-- [Strategy Report](../strategy_report.md)
+- [Strategy Report](../strategy_report%20%281%29.md)
 - [Brand Report](../brand_report.md)
 - [Strategy Workspace](../INDEX.md)

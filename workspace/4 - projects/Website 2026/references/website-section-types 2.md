@@ -88,8 +88,9 @@ O briefing deve então ser adaptado a:
 
 ## Relação com outras referências
 
+- [Mapa de tipos editoriais para famílias — localização atual](../../../../../cristianemartins/workspace/4%20-%20projects/Website%202026/skills/wireframe/references/sections-library/section-layout-map.md): seleciona layouts compatíveis sem confundir intenção editorial com composição visual.
 - [Design MD](../style-guide/design.md): cores, tipografia, layout e classes GenerateBlocks a reutilizar na implementação.
-- Instruções locais: [`../skills/`](../skills/), com contratos de sitemap, wireframe, Design MD, CMS e implementação.
+- Instruções locais: [`../skills/`](../skills/INDEX.md), com contratos de sitemap, wireframe, Design MD, CMS e implementação.
 - [GenerateBlocks Home](home-generateblocks-reference.md): estrutura de blocos para secções institucionais.
 - [GenerateBlocks Home — Services and Testimonials](home-services-testimonials-generateblocks-reference.md): padrão de serviços/tabs e testemunhos.
 - [GenerateBlocks Simple Landing Page](simple-landing-page-generateblocks-reference.md): padrão de landing page curta e CTA.

@@ -1,6 +1,7 @@
 # Context Memory
 
 ## Active Projects and Work
+- 2026-08-26: The 26 August strategy meeting notes/transcript from Gemini were moved from `3 - Meet Recordings` to the shared `CM Meetings` folder; no separate recording was found.
 - 2026-08-12: The 12 August meeting notes and recording were moved to the shared `CM Meetings` folder; Cristiane and Leonardo still need to review the context library and confirm the public wording, offers, lead magnets, and pillars.
 - 2026-08-12: A draft meeting-summary email was created for Cristiane and Leonardo; it was not sent.
 - 2026-08-11: Offers now contain ten differentiated service entries aligned to the website's three discovery categories; clinical scope and naming still require review before public use.

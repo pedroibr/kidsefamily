@@ -11,6 +11,11 @@ updated: 2026-08-11
 
 # Media Assets Log
 
+## 2026-08-31
+
+- Copied the 31 original JPEGs from `Downloads/Design sem nome/` to `2026/08/clinica-kids-family/design-sem-nome/`, preserving filenames and file contents.
+- Linked the project image inventory so the visual analysis, WordPress media IDs (567–597), and initial placements remain traceable.
+
 ## 2026-08-18
 
 - Added 15 Pexels stock images for the Clínica Kids e Family website under `stock/2026-08/Images/`, preserving JPEG originals and creating WebP derivatives.

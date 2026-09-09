@@ -33,7 +33,6 @@ Apresentar a Medicina Dentária geral como a base do cuidado oral adulto: preven
 - **Title:** Um cuidado dentário adulto que começa antes da urgência
 - **Description:** Organizamos prevenção, revisão e tratamento a partir da história e das necessidades de cada pessoa. O objetivo é tornar o próximo passo mais claro e manter a saúde oral acompanhada ao longo do tempo.
 - **Primary CTA:** Marcar consulta
-- **Secondary CTA:** Falar sobre a minha necessidade
 
 ### Section 2 — Benefícios do acompanhamento continuado
 

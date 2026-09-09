@@ -1,0 +1,60 @@
+{
+  "bridgeVersion": "3.6",
+  "kind": "google-docs-trusted-read",
+  "status": "complete",
+  "outputDir": "/Users/pedroivoborgesraimundo/Library/CloudStorage/GoogleDrive-pedro@pedroraimundo.com/.shortcut-targets-by-id/1Op0pbfK-AipG4dTdl8AB_fOsvyCeJlGK/cowork/cristianemartins/bridge/trusted-read-new-agreement-final-2",
+  "target": {
+    "documentId": "1cHYLl80Q25Vp5HRGftxAHSO51hJdi8ug9tj7xkoHWbQ",
+    "title": "Acordo - Cristiane Martins - Autoridade e Expansão do Método Respira e Cresce",
+    "revisionId": "AIroW34hmhgwOclfHqh45bCejbHV9LgqcTBnU9ge32Me0Cnk2h3Lg7zGOCnnwq1yhROe0mr2OnDiuTOLTkkY2ZWaKyU8N6H5G7a29r7PFQ",
+    "documentUrl": "https://docs.google.com/document/d/1cHYLl80Q25Vp5HRGftxAHSO51hJdi8ug9tj7xkoHWbQ",
+    "selectedTabId": "t.0"
+  },
+  "dropdownMetadata": {
+    "status": "unavailable",
+    "resolvedTool": null,
+    "authoritative": false,
+    "count": 0
+  },
+  "controlAwareness": {
+    "hasProtectedControls": false,
+    "authoritativeDropdownCount": 0,
+    "opaqueControlCount": 0,
+    "affectedParagraphCount": 0,
+    "nativeElementCounts": {
+      "dateElement": 1,
+      "inlineObjectElement": 6
+    },
+    "preservationRequired": false,
+    "recommendedBehavior": "No protected controls were detected in the scanned scope."
+  },
+  "warnings": [],
+  "files": {
+    "document_result": {
+      "path": "/Users/pedroivoborgesraimundo/Library/CloudStorage/GoogleDrive-pedro@pedroraimundo.com/.shortcut-targets-by-id/1Op0pbfK-AipG4dTdl8AB_fOsvyCeJlGK/cowork/cristianemartins/bridge/trusted-read-new-agreement-final-2/document-result.json",
+      "bytes": 196363,
+      "sha256": "180ab24d12f62b411097cc10bf868619d7f0b152a24e06fa817b8b1e5d89f286"
+    },
+    "control_inventory": {
+      "path": "/Users/pedroivoborgesraimundo/Library/CloudStorage/GoogleDrive-pedro@pedroraimundo.com/.shortcut-targets-by-id/1Op0pbfK-AipG4dTdl8AB_fOsvyCeJlGK/cowork/cristianemartins/bridge/trusted-read-new-agreement-final-2/control-inventory.json",
+      "bytes": 5661,
+      "sha256": "833056c2099155f343c2e31b1a10234979dc66b8351c265f30cad270e5ca1229"
+    },
+    "document_outline": {
+      "path": "/Users/pedroivoborgesraimundo/Library/CloudStorage/GoogleDrive-pedro@pedroraimundo.com/.shortcut-targets-by-id/1Op0pbfK-AipG4dTdl8AB_fOsvyCeJlGK/cowork/cristianemartins/bridge/trusted-read-new-agreement-final-2/document-outline.json",
+      "bytes": 62469,
+      "sha256": "7a14e9b9fbe85e304d41dc1204cae973461279d0407e5a6a0f8c772bd7261f22"
+    },
+    "document_text": {
+      "path": "/Users/pedroivoborgesraimundo/Library/CloudStorage/GoogleDrive-pedro@pedroraimundo.com/.shortcut-targets-by-id/1Op0pbfK-AipG4dTdl8AB_fOsvyCeJlGK/cowork/cristianemartins/bridge/trusted-read-new-agreement-final-2/document-text.md",
+      "bytes": 18422,
+      "sha256": "3d21ac0f9cefc9e65546f45c203d06b28744d323bbef6a8965649435605e3b46"
+    },
+    "receipt": {
+      "path": "/Users/pedroivoborgesraimundo/Library/CloudStorage/GoogleDrive-pedro@pedroraimundo.com/.shortcut-targets-by-id/1Op0pbfK-AipG4dTdl8AB_fOsvyCeJlGK/cowork/cristianemartins/bridge/trusted-read-new-agreement-final-2/receipt.json",
+      "bytes": 1075,
+      "sha256": "46fec66c3fd98fa4eb1827f0e18d04c1e979e526078d4cf3e225ba2e8ca75b8a"
+    }
+  },
+  "error": null
+}

@@ -72,6 +72,13 @@
 - `workspace/6 - media_assets`: reusable assets and brand/media source files.
 - `workspace/7 - clients`: optional external account or client structures.
 
+## Links and Relationships
+- Use standard Markdown links for every internal relationship and `INDEX.md` navigation: `[Readable Name](relative/path/to/file.md)`.
+- Resolve each target path relative to the file containing the link; include the target filename and encode spaces as `%20`.
+- Point directly to a file. Use `file.md#section` when a relationship targets a specific section.
+- Use a readable label even when it differs from the filename.
+- Do not use Obsidian double-bracket Wikilinks or rely on frontmatter titles and aliases to resolve links.
+
 ## References
 - Read `workspace/AGENTS.md` for cross-workspace behavior.
 - Read `MEMORY.md` for current root context.

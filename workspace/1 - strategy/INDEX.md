@@ -20,7 +20,7 @@ Use this workspace for market positioning, strategic research, trends, drivers, 
 - [Rules](AGENTS.md)
 - [Memory](MEMORY.md)
 - [Deep Market Research Prompt](deep-market-research-prompt.md)
-- [Strategy Report](strategy_report.md)
+- [Strategy Report](strategy_report%20%281%29.md)
 - [Brand Report](brand_report.md)
 - [Market Signals](market-signals/INDEX.md)
 
@@ -28,16 +28,16 @@ Use this workspace for market positioning, strategic research, trends, drivers, 
 
 - [Deep Research Report](references/deep-research-report.md)
 - [True Competitors](references/true_competitors.md)
-- [Differentiation](references/differentiation.md)
-- [SWOT Analysis](references/swot_analysis.md)
+- [Differentiation](references/differentiation%20%281%29.md)
+- [SWOT Analysis](references/swot_analysis%20%281%29.md)
 - [Strategy Narrative](references/strategy_narrative.md)
 
 ## Brand Messaging References
 
-- [Brand Why](references/brand_why.md)
-- [Brand Beliefs](references/brand_beliefs.md)
+- [Brand Why](references/brand_why%20%281%29.md)
+- [Brand Beliefs](references/brand_beliefs%20%281%29.md)
 - [Audience Signals](references/audience_signals.md)
-- [Messaging Platform](references/messaging_platform.md)
+- [Messaging Platform](references/messaging_platform%20%281%29.md)
 
 ## Related Context
 

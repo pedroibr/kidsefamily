@@ -1,0 +1,60 @@
+{
+  "bridgeVersion": "3.6",
+  "kind": "google-docs-trusted-read",
+  "status": "complete",
+  "outputDir": "/Users/pedroivoborgesraimundo/Library/CloudStorage/GoogleDrive-pedro@pedroraimundo.com/.shortcut-targets-by-id/1Op0pbfK-AipG4dTdl8AB_fOsvyCeJlGK/cowork/cristianemartins/bridge/trusted-read-cristiane",
+  "target": {
+    "documentId": "1izpApx71bvKrXB8NF0SZ2EUAdRc0zhkGa25a8F1rztU",
+    "title": "Acordo - Cristiane Martins - Operação de Crescimento Digital",
+    "revisionId": "AIroW37iDbBa1PEBaBVpk3LusQc5bxTaOcqRtzRnhc9FM_S62TnaA8PWUrsrl-twkfVX6d4vPDpJIfhGbqKSNV_efTazuKNB5LI_1dL0Vw",
+    "documentUrl": "https://docs.google.com/document/d/1izpApx71bvKrXB8NF0SZ2EUAdRc0zhkGa25a8F1rztU",
+    "selectedTabId": "t.0"
+  },
+  "dropdownMetadata": {
+    "status": "unavailable",
+    "resolvedTool": null,
+    "authoritative": false,
+    "count": 0
+  },
+  "controlAwareness": {
+    "hasProtectedControls": false,
+    "authoritativeDropdownCount": 0,
+    "opaqueControlCount": 0,
+    "affectedParagraphCount": 0,
+    "nativeElementCounts": {
+      "dateElement": 1,
+      "inlineObjectElement": 6
+    },
+    "preservationRequired": false,
+    "recommendedBehavior": "No protected controls were detected in the scanned scope."
+  },
+  "warnings": [],
+  "files": {
+    "document_result": {
+      "path": "/Users/pedroivoborgesraimundo/Library/CloudStorage/GoogleDrive-pedro@pedroraimundo.com/.shortcut-targets-by-id/1Op0pbfK-AipG4dTdl8AB_fOsvyCeJlGK/cowork/cristianemartins/bridge/trusted-read-cristiane/document-result.json",
+      "bytes": 195343,
+      "sha256": "3c61a7fa7d2624246fa51f4f9213ddd5438ced7c6861caee5d9df579b0647ebe"
+    },
+    "control_inventory": {
+      "path": "/Users/pedroivoborgesraimundo/Library/CloudStorage/GoogleDrive-pedro@pedroraimundo.com/.shortcut-targets-by-id/1Op0pbfK-AipG4dTdl8AB_fOsvyCeJlGK/cowork/cristianemartins/bridge/trusted-read-cristiane/control-inventory.json",
+      "bytes": 5644,
+      "sha256": "a05f62ef2cd886c0c934bac1e58c3f3e73529602b5c4d269278f15c902e8e655"
+    },
+    "document_outline": {
+      "path": "/Users/pedroivoborgesraimundo/Library/CloudStorage/GoogleDrive-pedro@pedroraimundo.com/.shortcut-targets-by-id/1Op0pbfK-AipG4dTdl8AB_fOsvyCeJlGK/cowork/cristianemartins/bridge/trusted-read-cristiane/document-outline.json",
+      "bytes": 61867,
+      "sha256": "8da59d4d8e1c82a4108ef7aea41061d8de40ccdb759c3ed0e81a19d564a323c3"
+    },
+    "document_text": {
+      "path": "/Users/pedroivoborgesraimundo/Library/CloudStorage/GoogleDrive-pedro@pedroraimundo.com/.shortcut-targets-by-id/1Op0pbfK-AipG4dTdl8AB_fOsvyCeJlGK/cowork/cristianemartins/bridge/trusted-read-cristiane/document-text.md",
+      "bytes": 17820,
+      "sha256": "d3ed162bd42dddff9bd2552813bc563bc240b5fcd2e01c7decb56fde02eb9d16"
+    },
+    "receipt": {
+      "path": "/Users/pedroivoborgesraimundo/Library/CloudStorage/GoogleDrive-pedro@pedroraimundo.com/.shortcut-targets-by-id/1Op0pbfK-AipG4dTdl8AB_fOsvyCeJlGK/cowork/cristianemartins/bridge/trusted-read-cristiane/receipt.json",
+      "bytes": 1058,
+      "sha256": "150fe7e5d9270a221b0a46bfb98da7a5c2bb52b00bbc3f3b3631648e3e078f53"
+    }
+  },
+  "error": null
+}

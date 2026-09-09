@@ -83,11 +83,11 @@ Avaliar a capacidade de a Clínica Kids e Family ocupar o espaço entre medicina
 
 ## Relationships
 
-- Uses [[Deep Research Report]].
-- Uses [[True Competitors]].
-- Uses [[Differentiation]].
-- Informs [[Strategy Narrative]].
-- Informs [[Strategy Report]].
+- Uses [Deep Research Report](deep-research-report.md).
+- Uses [True Competitors](true_competitors.md).
+- Uses [Differentiation](differentiation%20%281%29.md).
+- Informs [Strategy Narrative](strategy_narrative.md).
+- Informs [Strategy Report](../strategy_report%20%281%29.md).
 
 ## Supporting Skills
 

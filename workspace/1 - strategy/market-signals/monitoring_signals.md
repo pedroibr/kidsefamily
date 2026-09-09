@@ -250,9 +250,9 @@ Para entrar como sinal principal, o item deve responder a pelo menos uma pergunt
 
 ## Relationships
 
-- [[../strategy_report]]
-- [[../brand_report]]
-- [[sources]]
+- [Strategy Report](../strategy_report%20%281%29.md)
+- [Brand Report](../brand_report.md)
+- sources
 
 ## Supporting Skills
 

@@ -52,3 +52,7 @@ updated: 2026-08-24
 ## 2026-08-24
 
 - Updated Business Info, Journeys, Pillars and Lead Magnets to use medicina dentária integrada as the canonical term, preserving dentistry as the core and the existing clinical limits.
+
+## 2026-08-26
+
+- Moved the 26 August Gemini meeting notes/transcript into the shared `CM Meetings` Drive folder; no separate recording was present.

@@ -1,0 +1,83 @@
+{
+  "name": "Respirador Oral | Formulário e Relatório",
+  "nodes": [
+    {
+      "parameters": {
+        "formTitle": "Avaliação de Respiração Oral Infantil",
+        "formDescription": "Responda às perguntas sobre o padrão respiratório e os hábitos da criança. Esta avaliação é orientativa e não substitui uma consulta presencial.",
+        "formFields": {
+          "values": [
+            { "fieldLabel": "Nome da criança", "fieldType": "text", "requiredField": true },
+            { "fieldLabel": "Qual a idade?", "fieldType": "dropdown", "fieldOptions": { "values": [{ "option": "0–2 anos" }, { "option": "3–5 anos" }, { "option": "6–10 anos" }, { "option": "11–14 anos" }, { "option": "Mais de 14 anos" }] }, "requiredField": true },
+            { "fieldLabel": "Qual é o seu nome?", "fieldType": "text", "requiredField": true },
+            { "fieldLabel": "Qual é o seu número de WhatsApp?", "fieldType": "text", "requiredField": true },
+            { "fieldLabel": "Observa a boca aberta em repouso (sem estar a falar ou a comer)?", "fieldType": "dropdown", "fieldOptions": { "values": [{ "option": "Nunca" }, { "option": "Raramente" }, { "option": "Às vezes" }, { "option": "Frequentemente" }, { "option": "Quase sempre" }] }, "requiredField": true },
+            { "fieldLabel": "Tem dificuldade em respirar pelo nariz mesmo quando não está constipado?", "fieldType": "dropdown", "fieldOptions": { "values": [{ "option": "Nunca" }, { "option": "Raramente" }, { "option": "Às vezes" }, { "option": "Frequentemente" }, { "option": "Quase sempre" }] }, "requiredField": true },
+            { "fieldLabel": "Ressona durante o sono?", "fieldType": "dropdown", "fieldOptions": { "values": [{ "option": "Nunca" }, { "option": "Raramente" }, { "option": "Às vezes" }, { "option": "Frequentemente" }, { "option": "Quase sempre" }] }, "requiredField": true },
+            { "fieldLabel": "Costuma babar na almofada durante a noite?", "fieldType": "dropdown", "fieldOptions": { "values": [{ "option": "Nunca" }, { "option": "Raramente" }, { "option": "Às vezes" }, { "option": "Frequentemente" }, { "option": "Quase sempre" }] }, "requiredField": true },
+            { "fieldLabel": "Os lábios ficam frequentemente secos ou gretados?", "fieldType": "dropdown", "fieldOptions": { "values": [{ "option": "Nunca" }, { "option": "Raramente" }, { "option": "Às vezes" }, { "option": "Frequentemente" }, { "option": "Quase sempre" }] }, "requiredField": true },
+            { "fieldLabel": "Desde pequeno(a), teve frequentemente nariz entupido, alergias respiratórias ou problemas de adenóides?", "fieldType": "dropdown", "fieldOptions": { "values": [{ "option": "Nunca" }, { "option": "Raramente" }, { "option": "Às vezes" }, { "option": "Frequentemente" }, { "option": "Quase sempre" }] }, "requiredField": true },
+            { "fieldLabel": "Como descreveria o sono da criança?", "fieldType": "dropdown", "fieldOptions": { "values": [{ "option": "Muito tranquilo" }, { "option": "Levemente agitado" }, { "option": "Acorda ocasionalmente" }, { "option": "Sono agitado" }, { "option": "Acorda várias vezes" }] }, "requiredField": true },
+            { "fieldLabel": "Já reparou se fala com a língua entre os dentes ou tem dificuldade em alguns sons?", "fieldType": "dropdown", "fieldOptions": { "values": [{ "option": "Nunca" }, { "option": "Raramente" }, { "option": "Às vezes" }, { "option": "Frequentemente" }, { "option": "Quase sempre" }] }, "requiredField": true },
+            { "fieldLabel": "Observa tendência para cabeça projetada para a frente ou ombros curvados?", "fieldType": "dropdown", "fieldOptions": { "values": [{ "option": "Nunca" }, { "option": "Raramente" }, { "option": "Às vezes" }, { "option": "Frequentemente" }, { "option": "Quase sempre" }] }, "requiredField": true },
+            { "fieldLabel": "Já lhe disseram que a criança tem mordida cruzada, aberta ou que os dentes não encaixam bem?", "fieldType": "dropdown", "fieldOptions": { "values": [{ "option": "Sim, já foi identificado" }, { "option": "Suspeito mas nunca avaliado" }, { "option": "Nunca reparei" }, { "option": "Não sei" }] }, "requiredField": true },
+            { "fieldLabel": "Os dentes estão muito apinhados ou muito espaçados?", "fieldType": "dropdown", "fieldOptions": { "values": [{ "option": "Não" }, { "option": "Leve" }, { "option": "Moderado" }, { "option": "Acentuado" }] }, "requiredField": true },
+            { "fieldLabel": "Usou chucha ou chupou no dedo por período prolongado (após os 3 anos)?", "fieldType": "dropdown", "fieldOptions": { "values": [{ "option": "Sim" }, { "option": "Não" }, { "option": "Não sei" }] }, "requiredField": true }
+          ]
+        },
+        "options": {}
+      },
+      "id": "6a2b5c7d-1e3f-4a5b-8c7d-9e0f1a2b3c4d",
+      "name": "Formulário | Respirador Oral",
+      "type": "n8n-nodes-base.formTrigger",
+      "typeVersion": 2.2,
+      "position": [240, 300],
+      "webhookId": "7b3c9d1e-2f4a-5b6c-8d9e-0f1a2b3c4d5e"
+    },
+    {
+      "parameters": {
+        "jsCode": "const input = $input.first().json;\nconst get = (label) => {\n  if (input[label] !== undefined) return input[label];\n  const key = Object.keys(input).find((k) => k.trim().toLowerCase() === label.trim().toLowerCase());\n  return key ? input[key] : '';\n};\nconst freq = (v) => ({'Nunca':0,'Raramente':1,'Às vezes':2,'Frequentemente':3,'Quase sempre':4}[String(v)] ?? 0);\nconst func = (v) => ({'Nunca':0,'Raramente':1,'Às vezes':1,'Frequentemente':2,'Quase sempre':2}[String(v)] ?? 0);\nconst sleepScore = (v) => ({'Muito tranquilo':0,'Levemente agitado':1,'Acorda ocasionalmente':1,'Sono agitado':2,'Acorda várias vezes':2}[String(v)] ?? 0);\nconst mordidaScore = (v) => ({'Sim, já foi identificado':2,'Suspeito mas nunca avaliado':1,'Nunca reparei':0,'Não sei':0}[String(v)] ?? 0);\nconst dentesScore = (v) => ({'Não':0,'Leve':1,'Moderado':2,'Acentuado':2}[String(v)] ?? 0);\nconst habitoScore = (v) => ({'Sim':2,'Não':0,'Não sei':0}[String(v)] ?? 0);\nconst labels = {\n  child: 'Nome da criança', age: 'Qual a idade?', responsible: 'Qual é o seu nome?', whatsapp: 'Qual é o seu número de WhatsApp?',\n  q5: 'Observa a boca aberta em repouso (sem estar a falar ou a comer)?', q6: 'Tem dificuldade em respirar pelo nariz mesmo quando não está constipado?', q7: 'Ressona durante o sono?', q8: 'Costuma babar na almofada durante a noite?', q9: 'Os lábios ficam frequentemente secos ou gretados?', q10: 'Desde pequeno(a), teve frequentemente nariz entupido, alergias respiratórias ou problemas de adenóides?', q11: 'Como descreveria o sono da criança?', q12: 'Já reparou se fala com a língua entre os dentes ou tem dificuldade em alguns sons?', q13: 'Observa tendência para cabeça projetada para a frente ou ombros curvados?', q14: 'Já lhe disseram que a criança tem mordida cruzada, aberta ou que os dentes não encaixam bem?', q15: 'Os dentes estão muito apinhados ou muito espaçados?', q16: 'Usou chucha ou chupou no dedo por período prolongado (após os 3 anos)?'\n};\nconst answers = Object.fromEntries(Object.entries(labels).map(([k,l]) => [k, get(l)]));\nconst scoreA = ['q5','q6','q7','q8','q9','q10'].reduce((s,k) => s + freq(answers[k]), 0);\nconst scoreB = sleepScore(answers.q11) + func(answers.q12) + func(answers.q13);\nconst scoreC = mordidaScore(answers.q14) + dentesScore(answers.q15) + habitoScore(answers.q16);\nconst totalScore = scoreA + scoreB + scoreC;\nconst riskLevel = totalScore <= 12 ? 'nasal' : totalScore <= 24 ? 'suspeito' : 'elevado';\nconst facts = `Boca aberta em repouso: ${answers.q5}\nDificuldade em respirar pelo nariz (fora constipações): ${answers.q6}\nRonco: ${answers.q7}\nBaba na almofada: ${answers.q8}\nLábios secos/gretados: ${answers.q9}\nHistórico de nariz entupido/alergias/adenóides: ${answers.q10}\nQualidade do sono: ${answers.q11}\nFala/língua entre dentes: ${answers.q12}\nPostura (cabeça/ombros): ${answers.q13}\nMordida/encaixe: ${answers.q14}\nAlinhamento dentário: ${answers.q15}\nHábitos orais prolongados (chucha/dedo após 3 anos): ${answers.q16}`;\nconst reportPrompt = `Escreva um relatório educativo e personalizado em português de Portugal com base exclusivamente no bloco factual abaixo. Não faça diagnóstico, não invente sintomas, não altere frequências e não omita sinais Frequentes ou Quase sempre. Explique os sinais em conjunto, respiração nasal versus oral, relação com desenvolvimento craniofacial, sono e dia a dia, relevância da idade, o que será avaliado em consulta e conclua com recomendação acolhedora de avaliação presencial. Use 800 a 1000 palavras. Não use: urgente, grave, severo, certeza, garantia, diagnóstico definitivo.\n\nBLOCO FACTUAL:\n${facts}\n\nClassificação interna: ${riskLevel}\nFaixa etária: ${answers.age}\nNome da criança: ${answers.child}`;\nreturn [{json:{...input, childName:answers.child, age:answers.age, responsibleName:answers.responsible, whatsapp:answers.whatsapp, scoreA, scoreB, scoreC, totalScore, riskLevel, facts_block_ptpt:facts, reportPrompt}}];"
+      },
+      "id": "8b3c6d1e-2f4a-5b6c-9d0e-1f2a3b4c5d6e",
+      "name": "Processar respostas | Score e bloco factual",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [520, 300]
+    },
+    {
+      "parameters": {
+        "promptType": "define",
+        "text": "={{ $json.reportPrompt }}",
+        "options": {
+          "systemMessage": "Você é a Dra. Ro, assistente clínica especializada em respiração oral infantil e desenvolvimento craniofacial. Responda sempre em português de Portugal. Escreva apenas orientação educativa, sem diagnóstico, prognóstico ou promessa terapêutica. O bloco factual recebido é a fonte de verdade e as frequências devem ser citadas exatamente como estão."
+        }
+      },
+      "id": "9c4d7e2f-3a5b-6c7d-0e1f-2a3b4c5d6e7f",
+      "name": "Agente | Gerar relatório educativo",
+      "type": "@n8n/n8n-nodes-langchain.agent",
+      "typeVersion": 1.7,
+      "position": [820, 300]
+    },
+    {
+      "parameters": {
+        "modelName": "openai/gpt-5.1",
+        "options": {}
+      },
+      "id": "ad5e8f3a-4b6c-7d0e-1f2a-3b4c5d6e7f80",
+      "name": "OpenRouter | GPT-5.1",
+      "type": "@n8n/n8n-nodes-langchain.lmChatOpenRouter",
+      "typeVersion": 1,
+      "position": [820, 540]
+    }
+  ],
+  "connections": {
+    "Formulário | Respirador Oral": { "main": [[{ "node": "Processar respostas | Score e bloco factual", "type": "main", "index": 0 }]] },
+    "Processar respostas | Score e bloco factual": { "main": [[{ "node": "Agente | Gerar relatório educativo", "type": "main", "index": 0 }]] },
+    "OpenRouter | GPT-5.1": { "ai_languageModel": [[{ "node": "Agente | Gerar relatório educativo", "type": "ai_languageModel", "index": 0 }]] }
+  },
+  "active": false,
+  "settings": {},
+  "versionId": "be6f1a2c-5d7e-8f90-1a2b-3c4d5e6f7081",
+  "meta": {},
+  "tags": []
+}

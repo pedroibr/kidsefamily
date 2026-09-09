@@ -30,7 +30,7 @@ Este é um duplicado histórico da versão V3. Consulte o [sitemap ativo](../sit
 | Style Guide | `../style-guide/design.md` | Cores, tipografia, grids, componentes, tokens e classes do projeto. |
 | Implementation | WordPress/GenerateBlocks | Página visual construída a partir do sitemap, wireframe e Design MD aprovados. |
 
-As instruções locais atuais estão em [`../../skills/`](../../skills/). O workbook editorial original está em [`../../references/website-section-types.xlsx`](../../references/website-section-types.xlsx).
+As instruções locais atuais estão em [`../../skills/`](../../skills/INDEX.md). O workbook editorial original está em [`../../references/website-section-types.xlsx`](../../references/website-section-types.xlsx).
 
 ## Global Template Shell
 
@@ -79,7 +79,7 @@ O sitemap usa `sectionType` para indicar a função da seção e `layoutId` para
 | `in page cta section` | Próximo passo específico da página | `centered-intro`, `cta-band` |
 | `map/contact section` | Morada, mapa e ação externa | `map-contact` |
 
-Os catálogos atuais de tipos e layouts estão em [`../../skills/sitemap/references/`](../../skills/sitemap/references/).
+Os catálogos atuais de tipos e layouts começam no [índice de referências de Sitemap](../../skills/sitemap/references/README.md).
 
 ## Page Inventory
 

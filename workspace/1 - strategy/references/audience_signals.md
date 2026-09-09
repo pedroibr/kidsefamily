@@ -109,9 +109,9 @@ Entender o que a escolha da Kids e Family pode representar para responsáveis, f
 
 ## Relationships
 
-- Uses [[Strategy Report]].
-- Uses [[Brand Why]].
-- Informs [[Messaging Platform]].
+- Uses [Strategy Report](../strategy_report%20%281%29.md).
+- Uses [Brand Why](brand_why%20%281%29.md).
+- Informs [Messaging Platform](messaging_platform%20%281%29.md).
 
 ## Supporting Skills
 

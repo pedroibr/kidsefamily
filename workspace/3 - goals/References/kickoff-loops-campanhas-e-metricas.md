@@ -301,5 +301,5 @@ Manter informação clínica sensível no sistema clínico apropriado. O ambient
 
 - Usa [Proposta Comercial](proposta-comercial.md).
 - Usa [Prioridades Iniciais de Marketing](../priorities.md).
-- Usa [Strategy Report](../../1%20-%20strategy/strategy_report.md).
+- Usa [Strategy Report](../../1%20-%20strategy/strategy_report%20%281%29.md).
 - Usa [Brand Report](../../1%20-%20strategy/brand_report.md).

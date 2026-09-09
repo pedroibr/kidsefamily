@@ -35,13 +35,35 @@ Apresentar a Clínica Kids e Family como uma clínica de medicina dentária com 
 - **Primary CTA:** Encontrar o cuidado adequado
 - **Secondary CTA:** Marcar consulta
 
-### Section 2 — O que é medicina dentária integrada
+### Section 2 — Três caminhos de cuidado
+
+- **Display:** bloco introdutório seguido de três cards estáticos de identificação e entrada no cuidado.
+- **Section type:** `product/service list section` — caminhos editoriais ligados às principais necessidades, sem substituir o hub de Especialidades.
+- **Tagline:** TRÊS CAMINHOS DE CUIDADO
+- **Title:** Encontre o caminho que mais se aproxima da sua necessidade
+- **Content:** As pessoas chegam à clínica em momentos diferentes. Estes três caminhos resumem as principais necessidades que acompanhamos e ajudam a encontrar a especialidade ou o próximo passo mais adequado.
+
+| Card | Title | Description |
+| --- | --- | --- |
+| 1 | Infância e desenvolvimento | Acompanhar bebés, crianças e adolescentes, desde a primeira consulta até ao crescimento, à respiração oral e ao alinhamento quando necessário. |
+| 2 | Dor, função e sono | Compreender dor, ruídos, limitações mandibulares e sinais relacionados com função, respiração ou sono, com avaliação e coordenação quando indicada. |
+| 3 | Saúde oral e reabilitação estética | Organizar prevenção, cuidado adulto, alinhamento, restauração e reabilitação estética para recuperar saúde, função e naturalidade ao longo da vida. |
+
+### Section 3 — Frase de crença
+
+- **Display:** faixa azul escura de largura total, com conteúdo alinhado à esquerda e uma ideia curta de posicionamento.
+- **Section type:** `about section` — quebra visual entre os caminhos de cuidado e a explicação da abordagem.
+- **Tagline:** UMA IDEIA QUE ORIENTA O CUIDADO
+- **Title:** Cuidar de forma integrada não é tratar tudo pela boca.
+- **Content:** É começar pela medicina dentária, compreender a pessoa e trabalhar em conjunto com outros profissionais quando isso for necessário.
+
+### Section 4 — O que é medicina dentária integrada
 
 - **Display:** introdução curta centrada, seguida de três cards comparativos em grelha; fechar com uma nota de limites e coordenação clínica.
 - **Section type:** `why choose us section` — adaptação comparativa para explicar a diferenciação da abordagem, sem transformar “medicina dentária integrada” numa nova especialidade.
 - **Tagline:** ENTRE O FOCO E A COORDENAÇÃO
 - **Title:** Uma abordagem que começa na boca e não perde a pessoa de vista
-- **Content:** Medicina dentária integrada é a forma como organizamos o cuidado: começamos pela saúde oral, procuramos perceber o contexto e ampliamos a leitura apenas quando existem relações clinicamente relevantes. Não é uma nova especialidade nem significa que tudo tenha origem na boca; significa explicar melhor o que observamos e coordenar o próximo passo quando o caso exige.
+- **Content:** Medicina dentária integrada é a forma como organizamos o cuidado: começamos pela saúde oral, procuramos perceber o contexto e ampliamos a leitura apenas quando existem relações clinicamente relevantes.
 
 | Card | Title | Items | Icon direction |
 | --- | --- | --- | --- |
@@ -50,27 +72,6 @@ Apresentar a Clínica Kids e Family como uma clínica de medicina dentária com 
 | 3 | Medicina dentária integrada | 1. Mantém a medicina dentária no centro.<br>2. Integra o contexto clinicamente relevante.<br>3. Explica e coordena o próximo passo. | Ícone de centro e ligações |
 
 - **Closing note:** Cuidar de forma integrada não é tratar tudo pela boca. É começar pela medicina dentária, compreender a pessoa e trabalhar em conjunto com outros profissionais quando isso for necessário.
-
-### Section 3 — Frase de crença
-
-- **Display:** faixa de cor escura ou cor de destaque, com texto centrado e imagem de fundo opcional.
-- **Section type:** `about section` — adaptação curta de posicionamento/valor para funcionar como quebra visual.
-- **Tagline:** UMA IDEIA QUE ORIENTA O CUIDADO
-- **Statement:** Não é preciso ter todas as respostas para começar a cuidar.
-
-### Section 4 — A proposta da clínica
-
-- **Display:** bloco de texto introdutório centrado, seguido de três cards que funcionam como caminhos simples de identificação e entrada no cuidado.
-- **Section type:** `product/service list section` — adaptação em formato de caminhos de cuidado ligados às ofertas.
-- **Tagline:** TRÊS CAMINHOS DE CUIDADO
-- **Title:** Encontre o caminho que mais se aproxima da sua necessidade
-- **Content:** As pessoas chegam à clínica em momentos diferentes. Estes três caminhos resumem as principais necessidades que acompanhamos e ajudam a encontrar a especialidade ou o próximo passo mais adequado.
-
-| Card | Title | Description | Icon direction |
-| --- | --- | --- | --- |
-| 1 | Infância e desenvolvimento | Acompanhar bebés, crianças e adolescentes, desde a primeira consulta até ao crescimento, à respiração oral e ao alinhamento quando necessário. **Ofertas relacionadas:** Odontopediatria, Respiração oral infantil e Ortodontia infantil. | Ícone simples de crescimento ou família |
-| 2 | Dor, função e sono | Compreender dor, ruídos, limitações mandibulares e sinais relacionados com função, respiração ou sono, com avaliação e coordenação quando indicada. **Ofertas relacionadas:** DTM e dor orofacial, Ortodontia funcional e Sono, respiração e roncopatia. | Ícone de articulação, respiração ou movimento |
-| 3 | Saúde oral e reabilitação estética | Organizar prevenção, cuidado adulto, alinhamento, restauração e reabilitação estética para recuperar saúde, função e naturalidade ao longo da vida. **Ofertas relacionadas:** Medicina dentária geral, Implantologia e reabilitação oral, Estética dentária e Ortodontia e alinhadores transparentes para adultos. | Ícone de percurso, sorriso ou continuidade |
 
 ### Section 5 — Como o cuidado avança
 
@@ -108,6 +109,7 @@ Apresentar a Clínica Kids e Family como uma clínica de medicina dentária com 
 - Conteúdo institucional V1 atualizado para refletir o posicionamento estratégico e de branding.
 - Primeira implementação GenerateBlocks aplicada na página WordPress `id 13` (Home publicada), com cinco secções; imagens e refinamentos visuais permanecem em revisão.
 - A secção comparativa foi refinada com três itens curtos por card, mantendo linguagem suave nos dois primeiros modelos e orientação para benefícios no card de medicina dentária integrada.
+- A secção dinâmica de serviços foi retirada da Home nesta versão e passou para o hub `Especialidades`; a Home mantém a narrativa institucional e os caminhos de cuidado em conteúdo editorial.
 - A secção “Como o cuidado avança” foi convertida para duas colunas, com passos verticais e dois divisores; o espaço visual da direita ficou reservado para uma imagem futura.
 - Removidas as secções “Portas de entrada prioritárias”, “Confiança e equipa”, “O que orienta a nossa forma de cuidar” e “CTA final”; o CTA de fundo pertence ao template do site.
 - Adicionada uma frase de crença para funcionar como quebra visual entre o conteúdo explicativo e os caminhos de cuidado.

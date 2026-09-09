@@ -102,11 +102,11 @@ As alegações 1 a 3 são direções de posicionamento. Devem ser traduzidas em 
 
 ## Relationships
 
-- Uses [[Deep Research Report]].
-- Uses [[True Competitors]].
-- Informs [[SWOT Analysis]].
-- Informs [[Strategy Narrative]].
-- Informs [[Strategy Report]].
+- Uses [Deep Research Report](deep-research-report.md).
+- Uses [True Competitors](true_competitors.md).
+- Informs [SWOT Analysis](swot_analysis%20%281%29.md).
+- Informs [Strategy Narrative](strategy_narrative.md).
+- Informs [Strategy Report](../strategy_report%20%281%29.md).
 
 ## Supporting Skills
 

@@ -1,0 +1,252 @@
+{
+  "version": 1,
+  "kind": "google-docs-trusted-read-context",
+  "target": {
+    "documentId": "1z6oKxebjyO8baseSyxkentR1cLir1CGkQG9PAae6ou0",
+    "title": "Acordo - Leonardo Machado - Parceria Estratégica e Operacional",
+    "revisionId": "AIroW37BhUSyrvm26Sz43jsGMGPU4hokPOdJvluWeSdvAJy-j02dALAKJh-X7uxx5hNHI14ZwZ5CCZZDnqIdTHOOgNGAPUfdMY9zDoarLg",
+    "documentUrl": "https://docs.google.com/document/d/1z6oKxebjyO8baseSyxkentR1cLir1CGkQG9PAae6ou0",
+    "selectedTabId": "t.0"
+  },
+  "dropdownMetadata": {
+    "status": "unavailable",
+    "resolvedTool": null,
+    "authoritative": false,
+    "count": 0
+  },
+  "derivedControlInventory": {
+    "hasProtectedControls": false,
+    "authoritativeDropdownCount": 0,
+    "opaqueControlCount": 0,
+    "nativeElementCounts": {
+      "dateElement": 1,
+      "inlineObjectElement": 8
+    },
+    "tabsScanned": [
+      "t.0"
+    ],
+    "controls": [],
+    "nativeElements": [
+      {
+        "type": "dateElement",
+        "startIndex": 322,
+        "endIndex": 323,
+        "tabId": "t.0",
+        "segmentId": null,
+        "container": {
+          "kind": "paragraph",
+          "path": "root.tabs[0].body.content[4]",
+          "tabId": "t.0",
+          "segmentId": null,
+          "startIndex": 283,
+          "endIndex": 324,
+          "namedStyleType": "NORMAL_TEXT",
+          "listId": null,
+          "nestingLevel": null,
+          "table": null
+        },
+        "properties": {
+          "timestamp": "2026-08-11T15:00:00Z",
+          "locale": "pt-BR",
+          "dateFormat": "DATE_FORMAT_ISO8601",
+          "timeFormat": "TIME_FORMAT_DISABLED",
+          "displayText": "11/08/2026"
+        }
+      },
+      {
+        "type": "inlineObjectElement",
+        "startIndex": 624,
+        "endIndex": 625,
+        "tabId": "t.0",
+        "segmentId": null,
+        "container": {
+          "kind": "paragraph",
+          "path": "root.tabs[0].body.content[14]",
+          "tabId": "t.0",
+          "segmentId": null,
+          "startIndex": 605,
+          "endIndex": 626,
+          "namedStyleType": "NORMAL_TEXT",
+          "listId": null,
+          "nestingLevel": null,
+          "table": null
+        },
+        "properties": {
+          "inlineObjectId": "kix.w4s5q3zgqdfa",
+          "textStyle": {
+            "italic": true
+          }
+        }
+      },
+      {
+        "type": "inlineObjectElement",
+        "startIndex": 636,
+        "endIndex": 637,
+        "tabId": "t.0",
+        "segmentId": null,
+        "container": {
+          "kind": "paragraph",
+          "path": "root.tabs[0].body.content[15]",
+          "tabId": "t.0",
+          "segmentId": null,
+          "startIndex": 626,
+          "endIndex": 638,
+          "namedStyleType": "NORMAL_TEXT",
+          "listId": null,
+          "nestingLevel": null,
+          "table": null
+        },
+        "properties": {
+          "inlineObjectId": "kix.ixpausu6vf9",
+          "textStyle": {
+            "italic": true
+          }
+        }
+      },
+      {
+        "type": "inlineObjectElement",
+        "startIndex": 10475,
+        "endIndex": 10476,
+        "tabId": "t.0",
+        "segmentId": null,
+        "container": {
+          "kind": "paragraph",
+          "path": "root.tabs[0].body.content[120]",
+          "tabId": "t.0",
+          "segmentId": null,
+          "startIndex": 10469,
+          "endIndex": 10477,
+          "namedStyleType": "NORMAL_TEXT",
+          "listId": null,
+          "nestingLevel": null,
+          "table": null
+        },
+        "properties": {
+          "inlineObjectId": "kix.5i70iiwjlokl",
+          "textStyle": {}
+        }
+      },
+      {
+        "type": "inlineObjectElement",
+        "startIndex": 10483,
+        "endIndex": 10484,
+        "tabId": "t.0",
+        "segmentId": null,
+        "container": {
+          "kind": "paragraph",
+          "path": "root.tabs[0].body.content[121]",
+          "tabId": "t.0",
+          "segmentId": null,
+          "startIndex": 10477,
+          "endIndex": 10485,
+          "namedStyleType": "NORMAL_TEXT",
+          "listId": null,
+          "nestingLevel": null,
+          "table": null
+        },
+        "properties": {
+          "inlineObjectId": "kix.vu8xwowjj6ck",
+          "textStyle": {}
+        }
+      },
+      {
+        "type": "inlineObjectElement",
+        "startIndex": 10497,
+        "endIndex": 10498,
+        "tabId": "t.0",
+        "segmentId": null,
+        "container": {
+          "kind": "paragraph",
+          "path": "root.tabs[0].body.content[122]",
+          "tabId": "t.0",
+          "segmentId": null,
+          "startIndex": 10485,
+          "endIndex": 10499,
+          "namedStyleType": "NORMAL_TEXT",
+          "listId": null,
+          "nestingLevel": null,
+          "table": null
+        },
+        "properties": {
+          "inlineObjectId": "kix.xy42wrhxq6dd",
+          "textStyle": {}
+        }
+      },
+      {
+        "type": "inlineObjectElement",
+        "startIndex": 10518,
+        "endIndex": 10519,
+        "tabId": "t.0",
+        "segmentId": null,
+        "container": {
+          "kind": "paragraph",
+          "path": "root.tabs[0].body.content[129]",
+          "tabId": "t.0",
+          "segmentId": null,
+          "startIndex": 10512,
+          "endIndex": 10520,
+          "namedStyleType": "NORMAL_TEXT",
+          "listId": null,
+          "nestingLevel": null,
+          "table": null
+        },
+        "properties": {
+          "inlineObjectId": "kix.8r32s9xwamux",
+          "textStyle": {}
+        }
+      },
+      {
+        "type": "inlineObjectElement",
+        "startIndex": 10526,
+        "endIndex": 10527,
+        "tabId": "t.0",
+        "segmentId": null,
+        "container": {
+          "kind": "paragraph",
+          "path": "root.tabs[0].body.content[130]",
+          "tabId": "t.0",
+          "segmentId": null,
+          "startIndex": 10520,
+          "endIndex": 10528,
+          "namedStyleType": "NORMAL_TEXT",
+          "listId": null,
+          "nestingLevel": null,
+          "table": null
+        },
+        "properties": {
+          "inlineObjectId": "kix.nlpldolir57o",
+          "textStyle": {}
+        }
+      },
+      {
+        "type": "inlineObjectElement",
+        "startIndex": 10540,
+        "endIndex": 10541,
+        "tabId": "t.0",
+        "segmentId": null,
+        "container": {
+          "kind": "paragraph",
+          "path": "root.tabs[0].body.content[131]",
+          "tabId": "t.0",
+          "segmentId": null,
+          "startIndex": 10528,
+          "endIndex": 10542,
+          "namedStyleType": "NORMAL_TEXT",
+          "listId": null,
+          "nestingLevel": null,
+          "table": null
+        },
+        "properties": {
+          "inlineObjectId": "kix.uwowexr0qu8y",
+          "textStyle": {}
+        }
+      }
+    ]
+  },
+  "editGuidance": {
+    "advisoryOnly": true,
+    "requiresTargetedPreservation": false,
+    "recommendedBehavior": "No protected controls were detected in the scanned scope.",
+    "warnings": []
+  }
+}

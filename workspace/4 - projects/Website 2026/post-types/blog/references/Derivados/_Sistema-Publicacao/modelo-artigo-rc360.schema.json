@@ -1,0 +1,75 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://cristianemartins.pt/schemas/modelo-artigo-rc360.schema.json",
+  "title": "Modelo de Artigo RC360 — Fase 2 (Derivados) do Método Respira e Cresce 360",
+  "description": "Contrato do artigo de blog (Fase 2) gerado a partir de uma nota canónica já sincronizada (Fase 1). Pilares = as 5 Linhas do método (documento RC360 §2). Importar SEMPRE como rascunho (draft:true). Referências nunca inventadas. CAVEAT DE INTEGRAÇÃO COM O SITE: o /admin ao vivo pode usar outro enum de 'pilar' (ex.: cavidade-oral, crescimento-craniofacial, funcao-oral, desenvolvimento-integrado) e outros valores de CTA — confirmar e mapear antes de importar (ver url-map-schema-org.md). Substituir 'cristianemartins.pt' pelo domínio real <confirmar>.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["title", "pilar", "tema_clinico", "autor", "resumo", "corpo_markdown"],
+  "properties": {
+    "title": { "type": "string", "minLength": 10, "maxLength": 70, "description": "Título. Idealmente <=60. Espelha a pergunta-alvo do pai/mãe." },
+    "slug": { "type": "string", "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$", "description": "Minúsculas, hífens, sem acentos. Vazio = gerar do título. Ao migrar, manter o slug original. É também o nome da pasta em Derivados/{slug}/." },
+    "pilar": {
+      "type": "string",
+      "enum": ["respiracao", "sono", "crescimento-facial", "sinais-comportamento", "postura"],
+      "description": "Uma das 5 Linhas RC360 (documento §2): respiracao (L1) · sono (L2) · crescimento-facial (L3) · sinais-comportamento (L4) · postura (L5). Ver Método Respira e Cresce/Linhas/."
+    },
+    "tema_clinico": { "type": "string", "description": "Etiqueta clínica fina sob a linha (ex.: 'respirador oral', 'ronco infantil', 'expansão maxilar')." },
+    "faixa": { "type": "string", "enum": ["bebe", "crianca", "adolescente"], "description": "NOVO (RC360 pediátrico). Faixa etária dominante. Opcional." },
+    "frase_ancora": {
+      "type": "string",
+      "enum": ["nao-e-fase-e-sinal", "cedo-e-facil", "observo-desenvolvimento", "parecia-outra-crianca", "nenhuma"],
+      "description": "NOVO (consistência de voz). Frase-âncora da Dra. Cristiane, usada com naturalidade. 'parecia-outra-crianca' é prova social — só na voz dos pais. 'nenhuma' = não forçar. Opcional."
+    },
+    "pergunta_alvo": { "type": "string", "description": "Nota interna: a query real (anti-canibalização). Não publicada." },
+    "autor": { "type": "string", "const": "Dra. Cristiane Martins (odontopediatra)", "description": "Médica dentista, odontopediatra, ortopediatra funcional dos maxilares, criadora do Método Respira e Cresce 360. Nunca fisioterapeuta nem ORL." },
+    "mercado": { "type": "string", "enum": ["pt-PT", "pt-BR"], "default": "pt-PT", "description": "Idioma/mercado. Por defeito pt-PT." },
+    "resumo": { "type": "string", "minLength": 80, "maxLength": 200, "description": "Cartões do blog e meta descrição por defeito." },
+    "resposta_direta": { "type": "string", "minLength": 200, "maxLength": 900, "description": "Bloco GEO citável no topo. O corpo NÃO o repete." },
+    "corpo_markdown": { "type": "string", "minLength": 800, "description": ">=1000 palavras. Começa no 1.º H2 (pergunta). Sem H1, sem repetir resposta_direta, sem CTA/refs/autora no corpo." },
+    "faq": {
+      "type": "array",
+      "items": { "type": "object", "additionalProperties": false, "required": ["pergunta", "resposta"], "properties": { "pergunta": { "type": "string", "minLength": 8 }, "resposta": { "type": "string", "minLength": 20 } } }
+    },
+    "referencias": {
+      "type": "array",
+      "description": "Só afirmações fisiológicas falsificáveis levam referência; a filosofia/conduta é dela (sem citação). NUNCA inventar PMID/DOI.",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["citacao", "estado_verificacao"],
+        "properties": {
+          "citacao": { "type": "string" },
+          "pmid": { "type": "string", "pattern": "^[0-9]+$" },
+          "doi": { "type": "string" },
+          "url": { "type": "string", "format": "uri" },
+          "estado_verificacao": { "type": "string", "enum": ["verificada-pubmed", "a-verificar"] }
+        },
+        "allOf": [ { "if": { "properties": { "estado_verificacao": { "const": "verificada-pubmed" } } }, "then": { "anyOf": [ { "required": ["pmid"] }, { "required": ["doi"] } ] } } ]
+      }
+    },
+    "imagem_capa": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["alt"],
+      "properties": {
+        "alt": { "type": "string", "minLength": 8 },
+        "legenda": { "type": "string" },
+        "asset_ref": { "type": "string" },
+        "prompt_geracao": { "type": "string" }
+      }
+    },
+    "related": { "type": "array", "items": { "type": "string", "pattern": "^/[a-z0-9/_-]+$" }, "description": "Hub-and-spoke: 2-3 irmãos + página de serviço + conversão. Caminhos que existem." },
+    "cta_funil": {
+      "type": "string",
+      "enum": ["guia-para-pais", "marcar-consulta-360"],
+      "default": "marcar-consulta-360",
+      "description": "CTA por funil (documento RC360 §4). guia-para-pais = lead magnet (topo); marcar-consulta-360 = conversão. CAVEAT: confirmar valores aceites pelo /admin ao vivo."
+    },
+    "seo": { "type": "object", "additionalProperties": false, "properties": { "meta_titulo": { "type": "string", "maxLength": 60 }, "meta_descricao": { "type": "string", "minLength": 150, "maxLength": 160 } } },
+    "data_publicacao": { "type": "string", "pattern": "^(\\d{4}-\\d{2}-\\d{2})?$" },
+    "data_atualizacao": { "type": "string", "pattern": "^(\\d{4}-\\d{2}-\\d{2})?$" },
+    "noindex": { "type": "boolean", "default": false },
+    "draft": { "type": "boolean", "default": true, "description": "Importar SEMPRE como rascunho." }
+  }
+}

@@ -32,7 +32,6 @@ Apresentar a Odontopediatria como a porta de entrada para bebés, crianças e ad
 - **Title:** Odontopediatria para acompanhar cada fase do crescimento
 - **Content:** Acompanhamos bebés, crianças e adolescentes com uma abordagem acolhedora, preventiva e adequada à fase de desenvolvimento. Começamos por compreender a história da criança e explicamos à família qual é o próximo passo mais indicado.
 - **Primary CTA:** Marcar avaliação
-- **Secondary CTA:** Preparar a primeira consulta
 
 ### Section 2 — Para quem é
 

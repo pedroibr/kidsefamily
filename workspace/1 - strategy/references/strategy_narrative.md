@@ -100,12 +100,12 @@ O herói é a pessoa ou família que deixa de navegar por problemas isolados e p
 
 ## Relationships
 
-- Uses [[Deep Research Report]].
-- Uses [[True Competitors]].
-- Uses [[Differentiation]].
-- Uses [[SWOT Analysis]].
-- Informs [[Strategy Report]].
-- Informs [[Brand Why]].
+- Uses [Deep Research Report](deep-research-report.md).
+- Uses [True Competitors](true_competitors.md).
+- Uses [Differentiation](differentiation%20%281%29.md).
+- Uses [SWOT Analysis](swot_analysis%20%281%29.md).
+- Informs [Strategy Report](../strategy_report%20%281%29.md).
+- Informs [Brand Why](brand_why%20%281%29.md).
 
 ## Supporting Skills
 

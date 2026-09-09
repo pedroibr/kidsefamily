@@ -14,4 +14,4 @@ updated: 2026-08-24
 - [Blog](blog/README.md)
 - [Testimonials](testimonials/README.md)
 - [Case Studies](case-studies/README.md)
-- [CMS Skill](../skills/cms-skill.md)
+- [Post Types Skill](../skills/post-types/SKILL.md)

@@ -174,9 +174,9 @@ O risco imediato é de publicidade e reputação. O risco seguinte é operaciona
 
 ## Relationships
 
-- [[monitoring_signals]]
-- [[../strategy_report]]
-- [[../brand_report]]
+- [monitoring_signals](../../monitoring_signals.md)
+- [Strategy Report](../../../strategy_report%20%281%29.md)
+- [Brand Report](../../../brand_report.md)
 
 ## Open Questions
 

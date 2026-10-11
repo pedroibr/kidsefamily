@@ -1,6 +1,11 @@
 # Projects Memory
 
 ## Active Projects and Work
+- 2026-10-07: [Evento Outubro 2026](Evento%20Outubro%202026/INDEX.md) reúne o documentário da clínica, a referência do mapa de filmagem, perguntas para entrevistas e plano de gravação; data, agenda e produção continuam por validar.
+- 2026-09-29: [Newsletter Kids and Family](Newsletter%20Kids%20and%20Family/INDEX.md) reúne a visão da newsletter, o plano de cinco edições e o rascunho da primeira edição de apresentação da clínica.
+- 2026-09-29: [Website Update](Website%20Update/INDEX.md) é o novo projeto separado para rever o conteúdo do site Kids & Family segundo a narrativa de expansão para adultos e famílias; o inventário inicial foi feito na conexão WordPress escolhida pelo utilizador.
+- 2026-09-28: [História da Nova Clínica](Hist%C3%B3ria%20da%20Nova%20Cl%C3%ADnica/INDEX.md) passou a priorizar o vídeo institucional de transição; e-mails e newsletter ficam para adaptação posterior.
+- 2026-09-28: [Brand Voice](Brand%20Voice/INDEX.md) has a concise operational guide and a separate [Build Your Brand reference](Brand%20Voice/Refer%C3%AAncias/Build%20Your%20Brand.md); Sage + Caregiver, Four Dimensions, and No-nonsense remain draft choices awaiting clinic review.
 - 2026-08-18: Website 2026 now contains an SEO sitemap that organizes seven main service families, subservices, blog clusters, and campaign landing pages by intent and page goal.
 - 2026-08-11: The Clínica KF WordPress staging site uses the ACF-managed `especialidades` custom post type with ten published specialty shells and a three-term care-area taxonomy; page ID 164 is the editable `/especialidades/` hub, both menus point to it, and the obsolete page shells are in the trash.
 - 2026-06-07: This folder is the default home for direct project contexts.

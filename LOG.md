@@ -6,7 +6,7 @@ status: active
 owner: workspace
 tags: [client-workspace, log]
 created: 2026-07-26
-updated: 2026-07-29
+updated: 2026-09-29
 ---
 
 # Clínica Cristiane Martins Log
@@ -32,3 +32,7 @@ updated: 2026-07-29
 ## 2026-08-26
 
 - Moved the 26 August Gemini meeting notes/transcript into the shared `CM Meetings` Drive folder; no separate recording was present.
+
+## 2026-09-29
+
+- Imported the 11 missing GenerateBlocks Global Classes from `cristianemartins.pt` into `clinicakidsefamily.pt`; preserved the destination's six same-name classes with differing styles.

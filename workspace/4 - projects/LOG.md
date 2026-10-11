@@ -6,10 +6,27 @@ status: active
 owner: workspace
 tags: [projects, log]
 created: 2026-07-26
-updated: 2026-08-18
+updated: 2026-10-07
 ---
 
 # Projects Log
+
+## 2026-10-07
+
+- Criado [Evento Outubro 2026](Evento%20Outubro%202026/INDEX.md), com referência preservada e três guias de preparação do documentário da clínica.
+
+## 2026-09-29
+
+- Criado o projeto de newsletter com objetivo editorial e quatro briefings para o primeiro ciclo quinzenal.
+- Renomeado para [Newsletter Kids and Family](Newsletter%20Kids%20and%20Family/INDEX.md); criada a pasta de edições e movido o e-mail de apresentação para a edição 01.
+- Criado o projeto [Website Update](Website%20Update/INDEX.md), separado de Website 2026, com regras locais e inventário inicial do conteúdo do site Kids & Family.
+
+## 2026-09-28
+
+- Criado o projeto [Brand Voice](Brand%20Voice/INDEX.md) e o primeiro guia draft combinando Archetype Pack e cartas de Copywriting Tactics.
+- Simplificado o guia Brand Voice para consulta rápida e movido o material de construção para a pasta Referências.
+- Criado o projeto [História da Nova Clínica](Hist%C3%B3ria%20da%20Nova%20Cl%C3%ADnica/INDEX.md), inicialmente focado em e-mails e newsletter.
+- Reorientado para [História da Nova Clínica](Hist%C3%B3ria%20da%20Nova%20Cl%C3%ADnica/INDEX.md): o vídeo institucional passa a ser a primeira entrega; e-mails e newsletter ficam como desdobramentos.
 
 ## 2026-08-18
 

@@ -14,3 +14,7 @@ updated: 2026-07-26
 ## 2026-07-26
 
 - Added index and log files to align with the protocol.
+
+## 2026-09-26
+
+- Added the campaigns operations area and opened the Odontopediatria direct-interest campaign brief for review.

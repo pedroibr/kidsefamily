@@ -6,7 +6,7 @@ status: active
 owner: workspace
 tags: [operation, index]
 created: 2026-07-26
-updated: 2026-07-26
+updated: 2026-09-26
 ---
 
 # Operation
@@ -19,6 +19,7 @@ Use this workspace for recurring execution, operational processes, automations, 
 
 - [Finance](finance/INDEX.md)
 - [Marketing](marketing/INDEX.md)
+- [Campaigns](campaigns/INDEX.md)
 - [Delivery](delivery/INDEX.md)
 - [Sales](sales/INDEX.md)
 - [Support](support/INDEX.md)

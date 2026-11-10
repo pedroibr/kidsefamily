@@ -6,7 +6,7 @@ status: draft
 owner: Pedro Raimundo
 tags: [kids-family, documentario, filmagem]
 created: 2026-10-07
-updated: 2026-10-07
+updated: 2026-10-11
 ---
 
 # Entrevista da Cris — história e transformação
@@ -15,7 +15,7 @@ updated: 2026-10-07
 
 Contar como Cristiane Martins percebeu uma necessidade das pessoas que já acompanhava, decidiu transformar a clínica e trabalhou para receber crianças e adultos com a mesma atenção. Cris é a personagem que conduz essa transformação; as famílias dão sentido à mudança e a equipa mostra como ela se tornou possível.
 
-A base é o [storytelling História da Nova Clínica](../Hist%C3%B3ria%20da%20Nova%20Cl%C3%ADnica/video_storyboard.md). O percurso mantém-se: cuidado reconhecido → incómodo → decisão → desafio → preparação → benefício para as famílias → novo nome. A entrevista acrescenta memórias e um episódio real de dificuldade e superação onde a história precisar de profundidade.
+A base é o [storytelling História da Nova Clínica](references/historia-nova-clinica.md). O percurso mantém-se: cuidado reconhecido → incómodo → decisão → desafio → preparação → benefício para as famílias → novo nome. A entrevista acrescenta memórias e um episódio real de dificuldade e superação onde a história precisar de profundidade.
 
 **Captar:** três ganchos alternativos, a história completa e um convite separado. O documentário final tem como referência 3–5 minutos, ajustáveis à força das respostas e dos inserts. Reservar 30–45 minutos para desenvolver a história, mais 10–15 minutos para ganchos e convite.
 
@@ -73,4 +73,4 @@ Pedir uma segunda tomada mais curta, de cerca de 10–15 segundos, com as mesmas
 
 Confirmar cronologia, nome público, salas, profissionais, equipamento e serviços que serão mencionados. O roteiro anterior contém “15 anos” e “mais de 1.000 crianças” ainda por confirmar; não usar esses números enquanto não forem validados. Livro, podcast e celebração podem aparecer nas imagens do evento, mas só entram na fala se ajudarem a explicar a transformação da clínica.
 
-Complementos: [entrevistas de colaboradores](05-entrevistas-colaboradores.md), [entrevistas de clientes](06-entrevistas-clientes.md) e [plano de B-roll e gravação](03-plano-gravacao.md).
+Complementos: [entrevistas de colaboradores](04-entrevistas-colaboradores.md), [entrevistas de clientes](05-entrevistas-clientes.md) e [checklist de filmagem](01-checklist-mapa-filmagem.md).

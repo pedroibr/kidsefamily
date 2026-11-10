@@ -1,10 +1,15 @@
 # Evento Outubro 2026 Memory
 
 ## Active Projects and Work
+- 2026-10-11: O comprovativo da cópia e o atalho Google Docs do mapa de filmagem foram movidos para `archived`, agora com nome em minúsculas. `references` mantém o modelo Markdown e a história da clínica.
+- 2026-10-11: Criado [briefing.md](briefing.md) com o objetivo, os destinatários e as gravações previstas; AGENTS.md foi resumido em português com aprovação do utilizador e `instrucoes-propostas.md` foi removido.
+- 2026-10-11: O conjunto de trabalho foi reorganizado em cinco documentos numerados: checklist, guia do entrevistador e entrevistas de Cris, colaboradores e clientes; o plano de gravação está em `archived`. A pasta `references` reúne o modelo e a cópia integral do roteiro História da Nova Clínica, usada nas ligações dos documentos ativos.
 - 2026-10-07: As entrevistas foram adaptadas com Content to Experience e Discover Business Experiences: perguntas curtas sobre lembranças e sentimentos, tabelas de três colunas e apoio de aprofundamento separado. Cris tem quatro perguntas para cobrir os sete blocos; colaboradores/clientes têm três comuns e uma opcional, ainda em rascunho para revisão.
-- 2026-10-07: A reunião de 30/09 mencionou 25/10, dois anos no novo espaço, livro e estúdio de podcast; agenda, participantes, equipa de captação, orçamento e prazos continuam por confirmar.
+- 2026-10-07: A reunião de 30/09 mencionou dois anos no novo espaço, livro e estúdio de podcast; agenda, participantes, equipa de captação, orçamento e prazos continuam por confirmar.
 
 ## Decisions
+- 2026-10-11: O utilizador confirmou o evento para 24/10/2026, corrigindo a data anterior de 25/10. A pasta serve como orientação de conteúdo e entrevistas para Cris e a produção; as decisões técnicas de captação ficam com o videógrafo.
+- 2026-10-11: O utilizador pediu uma pasta simples para enviar a Cris e à equipa, retirando o plano técnico de gravação do conjunto ativo e mantendo a indicação de B-roll no checklist.
 - 2026-10-07: O utilizador pediu perguntas mais humanas e menos colunas, com ponto de partida e destino claros; a revisão mais ampla do conteúdo e da organização dos documentos fica para a próxima etapa.
 - 2026-10-07: O utilizador definiu Cris como personagem da transformação para melhor atender as pessoas: três ganchos na posição principal, história completa e convite separado; entrevistador fora da imagem e da montagem.
 - 2026-10-07: A captação prevista é de pelo menos 3 colaboradores (procurando 4 ou mais) e 6 clientes, com perguntas comuns, inserts e depoimentos de clientes de 30–60 segundos; participantes ainda por confirmar.

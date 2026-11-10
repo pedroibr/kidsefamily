@@ -6,7 +6,7 @@ status: active
 owner: workspace
 tags: [context, log]
 created: 2026-07-26
-updated: 2026-08-24
+updated: 2026-10-28
 ---
 
 # Context Log
@@ -56,3 +56,7 @@ updated: 2026-08-24
 ## 2026-08-26
 
 - Moved the 26 August Gemini meeting notes/transcript into the shared `CM Meetings` Drive folder; no separate recording was present.
+
+## 2026-10-28
+
+- Atualizada a hierarquia editorial de Pillars com três pilares principais confirmados pelo utilizador; reabilitação/estética e ATM/dor ficam pontuais, e a ponte do pilar de continuidade foi alinhada a essa direção.

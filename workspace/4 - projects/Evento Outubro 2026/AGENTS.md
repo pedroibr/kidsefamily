@@ -1,15 +1,20 @@
-# Project: Evento Outubro 2026
+# Projeto: Evento Outubro 2026
 
-## Purpose
-- Plan the clinic event and its documentary filming deliverables.
+## Propósito
+- Reunir as orientações para aproveitar o evento da clínica na gravação da sua história e de experiências da equipa e dos pacientes.
 
-## Inheritance
-- Inherit the clinic root, workspace and projects rules.
+## Herança
+- Seguir as instruções da raiz da clínica, de `workspace` e da área de projetos.
 
-## Rules
-- Preserve the supplied Google Docs original and the reference copy; develop adaptations in the working documents.
-- Keep production proposals distinct from confirmed event facts.
-- Cross-reference [História da Nova Clínica](../Hist%C3%B3ria%20da%20Nova%20Cl%C3%ADnica/video_storyboard.md) when reusing its narrative.
+## Regras
+- Manter os documentos simples e úteis para Cris, o videógrafo, o entrevistador e a equipa.
+- Preservar as referências; fazer adaptações nos documentos de trabalho.
+- Distinguir propostas de informações confirmadas.
 
-## Routing
-- Use [INDEX.md](INDEX.md) for navigation, [01-mapa-filmagem.md](01-mapa-filmagem.md) for the brief, [02-perguntas-entrevistas.md](02-perguntas-entrevistas.md) for interviews and [03-plano-gravacao.md](03-plano-gravacao.md) for production.
+## Navegação
+- [Briefing](briefing.md): objetivo, destinatários e âmbito do projeto.
+- [Índice](INDEX.md): mapa dos documentos e referências.
+- [Checklist](01-checklist-mapa-filmagem.md): o que gravar.
+- [Guia do entrevistador](02-guia-entrevistador.md): como conduzir as conversas.
+- Roteiros: [Cris](03-entrevista-cris.md), [colaboradores](04-entrevistas-colaboradores.md) e [clientes](05-entrevistas-clientes.md).
+- `references` guarda os materiais de base; `archived` guarda documentos retirados do conjunto de trabalho.

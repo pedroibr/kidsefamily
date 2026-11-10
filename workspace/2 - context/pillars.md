@@ -6,12 +6,27 @@ status: draft
 owner: Clínica Kids e Family
 tags: [business-architecture, pillars, content-strategy]
 created: 2026-08-04
-updated: 2026-08-24
+updated: 2026-10-28
 ---
 
 # Pillars
 
 > Estes pilares foram derivados do contexto da clínica, das audiências, das jornadas e das dez ofertas atuais. A medicina dentária integrada funciona como lente transversal: parte da saúde oral, conecta áreas somente quando clinicamente relevante e explicita limites e encaminhamentos. Os pilares não impõem volume igual nem substituem revisão clínica de conteúdos públicos.
+
+## Hierarquia editorial — 2026-10-28
+
+O utilizador definiu três pilares principais para a presença recorrente da clínica. Reabilitação/estética e ATM/dor têm participação pontual, pois não constituem o core indicado da clínica; a sua existência na biblioteca não exige publicações em todos os ciclos.
+
+| Prioridade | Pilar | Papel editorial |
+| --- | --- | --- |
+| Principal | Saúde Oral Infantil e Crescimento | Odontopediatria, prevenção e acompanhamento da criança. |
+| Principal | Ortodontia, Alinhamento e Desenvolvimento | Crescimento, alinhamento e acompanhamento ortodôntico de crianças e adultos. |
+| Principal | Medicina Dentária Integrada, Prevenção e Continuidade | Forma de cuidar, equipa, cuidado adulto, prevenção e continuidade familiar. |
+| Pontual | Reabilitação, Estética e Confiança | Perguntas ou oportunidades concretas, sem frequência fixa ou presença obrigatória por ciclo. |
+| Pontual | Dor Orofacial, ATM e Função | Dúvidas específicas e avaliação dirigida quando relevante, sem frequência fixa ou presença obrigatória por ciclo. |
+| Sem prioridade recorrente definida | Respiração, Sono e Função Orofacial | Território preservado na biblioteca; não foi incluído pelo utilizador entre os pilares principais desta orientação. |
+
+Esta hierarquia atualiza a direção editorial anterior que dava maior destaque a ATM/dor. A proposta do primeiro ciclo concentra as pautas nos três pilares principais; os restantes podem entrar por relevância concreta, sem quota automática.
 
 ## Item: Saúde Oral Infantil e Crescimento
 
@@ -83,4 +98,4 @@ updated: 2026-08-24
 | `offers` | Odontopediatria, Respiração oral infantil, Ortodontia infantil e desenvolvimento, DTM e dor orofacial relacionada à ATM, Ortodontia funcional, Sono, respiração e roncopatia, Medicina dentária geral e cuidado adulto, Implantologia e reabilitação oral, Estética dentária e restauração, Ortodontia e alinhadores transparentes para adultos |
 | `pillarDescription` | Explicar a abordagem de medicina dentária integrada como um cuidado focado na saúde oral que considera a pessoa, integra áreas quando relevante e acompanha evolução ao longo do tempo. Reforçar a passagem de episódios fragmentados para prevenção, coordenação e continuidade familiar. |
 | `coreTopics` | saúde oral no contexto da pessoa, diferença entre integração e quantidade de especialidades, avaliação contextual, liderança e coordenação do caso, prevenção ao longo da vida, continuidade entre infância e vida adulta, limites clínicos, correlação versus causalidade, quando tratar ou encaminhar |
-| `offerBridge` | O conteúdo diferencia a forma de cuidar da clínica e cria pontes para as duas entradas prioritárias — Odontopediatria e ATM/dor orofacial — além de sustentar continuidade nas demais ofertas conforme a necessidade individual. |
+| `offerBridge` | O conteúdo torna compreensível a forma de cuidar da clínica e cria pontes recorrentes para Odontopediatria, ortodontia de crianças e adultos e cuidado geral com prevenção e continuidade. As demais ofertas entram quando uma necessidade individual justifica o próximo passo, sem exigir destaque editorial recorrente. |

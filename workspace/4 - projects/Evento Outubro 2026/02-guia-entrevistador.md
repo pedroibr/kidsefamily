@@ -6,7 +6,7 @@ status: draft
 owner: Pedro Raimundo
 tags: [kids-family, documentario, filmagem]
 created: 2026-10-07
-updated: 2026-10-07
+updated: 2026-10-11
 ---
 
 # Guia do entrevistador
@@ -19,9 +19,9 @@ Conduzir a história da transformação da clínica pela voz da Cris e recolher 
 
 | Pessoa | Documento e conteúdo | Plano de captação |
 | --- | --- | --- |
-| Cris | [Entrevista da Cris](04-entrevista-cris.md): três ganchos, quatro perguntas que cobrem os sete blocos da história e convite à parte. | Uma entrevista principal; 30–45 min para a história e 10–15 min para ganchos/convite. |
-| Colaboradores | [Entrevistas de colaboradores](05-entrevistas-colaboradores.md): três perguntas comuns sobre lembranças, orgulho e sentido; uma opcional sobre a mudança. | Pelo menos 3; procurar 4 ou mais; 5–10 min por pessoa. |
-| Clientes / famílias | [Entrevistas de clientes](06-entrevistas-clientes.md): três perguntas comuns sobre lembrança, gesto e significado; inserts e depoimentos autónomos. | Pelo menos 6; mais se possível; 5–10 min por pessoa. |
+| Cris | [Entrevista da Cris](03-entrevista-cris.md): três ganchos, quatro perguntas que cobrem os sete blocos da história e convite à parte. | Uma entrevista principal; 30–45 min para a história e 10–15 min para ganchos/convite. |
+| Colaboradores | [Entrevistas de colaboradores](04-entrevistas-colaboradores.md): três perguntas comuns sobre lembranças, orgulho e sentido; uma opcional sobre a mudança. | Pelo menos 3; procurar 4 ou mais; 5–10 min por pessoa. |
+| Clientes / famílias | [Entrevistas de clientes](05-entrevistas-clientes.md): três perguntas comuns sobre lembrança, gesto e significado; inserts e depoimentos autónomos. | Pelo menos 6; mais se possível; 5–10 min por pessoa. |
 
 As quantidades são o plano pedido pelo utilizador; nomes e disponibilidade ainda precisam de confirmação. Os 30–60 segundos referem-se ao trecho completo ou depoimento editado, não ao tempo total da entrevista.
 
@@ -58,4 +58,4 @@ Estas perguntas são opções, não uma sequência a cumprir. Informação prát
 
 Após cada entrevista, anotar ficheiro/identificador, nome e função autorizados para legenda, usos combinados, tempo aproximado da frase útil e bloco da história a que se liga. Sinalizar factos ou informações pessoais que precisam de revisão.
 
-A montagem alterna Cris → experiência de cliente ou contributo de colaborador → Cris, com [B-roll dos espaços](03-plano-gravacao.md). Selecionar o que acrescenta uma ideia; preservar o sentido das falas.
+A montagem alterna Cris → experiência de cliente ou contributo de colaborador → Cris, com [imagens de apoio previstas no checklist](01-checklist-mapa-filmagem.md#mapa-das-captações). Selecionar o que acrescenta uma ideia; preservar o sentido das falas.

@@ -6,7 +6,7 @@ status: draft
 owner: Pedro Raimundo
 tags: [kids-family, documentario, filmagem]
 created: 2026-10-07
-updated: 2026-10-07
+updated: 2026-10-11
 ---
 
 # Entrevistas de clientes e famílias
@@ -68,4 +68,4 @@ Montar apenas o que a pessoa realmente disse. Manter o sentido e não juntar res
 
 **Crianças:** a captação principal pode ser feita com pais/responsáveis ou adultos que frequentam a clínica. Uma participação infantil é opcional, com acordo do responsável e vontade da criança. Se acontecer, usar perguntas simples como “De que gostas quando vens aqui?”, mantendo o responsável próximo; não perguntar sobre dor, saúde ou tratamentos.
 
-Referências: [roteiro da Cris](04-entrevista-cris.md), [guia do entrevistador](02-perguntas-entrevistas.md) e [plano de gravação](03-plano-gravacao.md).
+Referências: [roteiro da Cris](03-entrevista-cris.md), [guia do entrevistador](02-guia-entrevistador.md) e [checklist de filmagem](01-checklist-mapa-filmagem.md).

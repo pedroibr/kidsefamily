@@ -6,46 +6,46 @@ status: active
 owner: Pedro Raimundo
 tags: [kids-family, evento, documentario, index]
 created: 2026-10-07
-updated: 2026-10-07
+updated: 2026-10-11
 ---
 
 # Evento Outubro 2026 — Kids & Family
 
 ## Estado e intenção
 
-Preparação de um documentário com Cris como personagem da transformação da clínica para melhor atender as pessoas. Quatro perguntas exploram os sete blocos da história, com três ganchos alternativos e convite separado; colaboradores e clientes acrescentam experiências nos momentos certos da montagem. As entrevistas partem de lembranças e sentimentos, com tabelas de três colunas. Os guias estão prontos para revisão de conteúdo e logística com Cris.
+Aproveitar o evento da clínica em **24/10/2026** para gravar a história pela voz da Cris, um convite e experiências de colaboradores e pacientes. Esta pasta orienta Cris, o videógrafo, o entrevistador e a equipa.
 
-**Evento mencionado:** 25/10/2026; celebração de dois anos no novo espaço, livro e estúdio de podcast segundo a reunião de 30/09. Horário, agenda e composição final ainda por confirmar.
+Começar pelo [briefing do projeto](briefing.md). Horário, agenda e participantes continuam por confirmar.
 
-## Documentos para Cris e para quem filma
+## Documentos de trabalho
 
-1. [Mapa dos vídeos](01-mapa-filmagem.md): captações, quantidade, formatos e papel de cada material.
-2. [Entrevista da Cris](04-entrevista-cris.md): três ganchos, quatro perguntas para os sete blocos da história e convite à parte; ponto de partida → pergunta → onde queremos chegar.
-3. [Entrevistas de colaboradores](05-entrevistas-colaboradores.md): tabela de perguntas sobre mudança e contributo da equipa; pelo menos 3, procurando 4 ou mais.
-4. [Entrevistas de clientes](06-entrevistas-clientes.md): tabela de perguntas para experiências, inserts e depoimentos autónomos de 30–60 segundos; pelo menos 6 pessoas.
-5. [Guia do entrevistador](02-perguntas-entrevistas.md): condução e registo; entrevistador fora da imagem e da montagem.
-6. [Plano de gravação e B-roll](03-plano-gravacao.md): movimentos suaves do exterior às salas, espaços vazios/ocupados, tempos e entrega ao editor.
+1. [Checklist — mapa de filmagem](01-checklist-mapa-filmagem.md): lista do que gravar, quantidades, formatos e uso de cada material, incluindo imagens dos espaços.
+2. [Guia do entrevistador](02-guia-entrevistador.md): condução das conversas e acesso aos três roteiros.
+3. [Entrevista da Cris](03-entrevista-cris.md): três ganchos, história completa e convite separado.
+4. [Entrevistas de colaboradores](04-entrevistas-colaboradores.md): perguntas e exemplos do contributo da equipa.
+5. [Entrevistas de clientes](05-entrevistas-clientes.md): experiências para o documentário e depoimentos autónomos.
 
-## Referência e proveniência
+## Referências
 
-- [Cópia do Google Docs no projeto](https://docs.google.com/document/d/1hMKy8D8yZL_kChaWsAaa0WMC1s9F7QpoiveBQMJoILg/edit): duplicação nativa do modelo, preservando o conteúdo e a formatação; esta cópia foi exportada para MD.
-- [Pasta do projeto no Drive](https://drive.google.com/drive/folders/1nV1drTNa-11UdKPvAghJ5A4gEe81yuDO).
-- [Modelo recebido, convertido para MD](00-mapa-filmagem-referencia.md): exportação fiel do conteúdo e tabelas, mantida separada das adaptações. A versão MD não conserva a paginação e o desenho visual do Google Docs.
-- [Google Docs original](https://docs.google.com/document/d/1LOh-zqK2I9GLmIBaH-eM6i1VmRMwHmTMlzqt0oaDVV0/edit): fonte preservada, sem edições.
+- [História da Nova Clínica — roteiro completo](references/historia-nova-clinica.md): cópia do roteiro de origem, com os dez pontos da história e sugestões de imagens; incluída para acompanhar a exportação desta pasta. Números, nomes e afirmações continuam sujeitos às confirmações indicadas no próprio roteiro.
+- [Modelo de mapa de filmagem](references/00-mapa-filmagem-referencia.md): referência recebida, preservada separadamente dos documentos de trabalho.
+- [Cópia do modelo no Google Docs](https://docs.google.com/document/d/1hMKy8D8yZL_kChaWsAaa0WMC1s9F7QpoiveBQMJoILg/edit) e [Google Docs original](https://docs.google.com/document/d/1LOh-zqK2I9GLmIBaH-eM6i1VmRMwHmTMlzqt0oaDVV0/edit): fontes preservadas.
 - [Notas da reunião de 30/09 — Gemini](https://docs.google.com/document/d/1dCXd1qPALUi1G94OlEG-Igm8IMhP09ow-XHg4lujImo/edit?tab=t.1p62y11p3mn4): contexto inicial do evento.
+- [Pasta do projeto no Drive](https://drive.google.com/drive/folders/1nV1drTNa-11UdKPvAghJ5A4gEe81yuDO).
+
+## Arquivo
+
+- [Plano de gravação anterior](archived/03-plano-gravacao.md): arquivado; não integra os documentos de trabalho para Cris e a equipa.
 
 ## Prioridades para fechar a produção
 
 1. Cris validar a história, os ganchos, a cronologia, os nomes e o convite.
-2. Confirmar data/agenda e reservar a entrevista principal em silêncio.
+2. Confirmar horário/agenda e reservar a entrevista principal em silêncio.
 3. Definir equipa de gravação/edição, orçamento e prazo da primeira montagem.
 4. Confirmar pelo menos 3 colaboradores e 6 clientes, disponibilidade e uso de imagem/voz para inserts e depoimentos autónomos.
 5. Selecionar fotografias antigas e planear os pares de planos do espaço vazio e ocupado, com movimentos suaves.
 
-## Contexto relacionado
+## Contexto do projeto
 
-- [História da Nova Clínica — guião institucional](../Hist%C3%B3ria%20da%20Nova%20Cl%C3%ADnica/video_storyboard.md)
-- [Brand Voice da clínica](../Brand%20Voice/Brand%20Voice.md)
-- [Projetos da clínica](../INDEX.md)
-- [Memória do projeto](MEMORY.md) e [registo de alterações](LOG.md)
-- [Instruções locais](AGENTS.md) e [ponteiro de compatibilidade](CLAUDE.md), criados com aprovação do utilizador em 07/10/2026.
+- [Memória do projeto](MEMORY.md) e [registo de alterações](LOG.md).
+- [Instruções locais](AGENTS.md) e [ponteiro de compatibilidade](CLAUDE.md).

@@ -2,20 +2,22 @@
 type: Context
 title: Plano de gravação — Evento Outubro 2026
 description: Preparação, imagens essenciais, equipa e entrega do material do documentário.
-status: draft
+status: archived
 owner: Pedro Raimundo
 tags: [kids-family, evento, filmagem]
 created: 2026-10-07
-updated: 2026-10-07
+updated: 2026-10-11
 ---
 
 # Plano de gravação
+
+**Arquivado em 2026-10-11:** retirado do conjunto de trabalho por decisão do utilizador.
 
 ## Captações a organizar
 
 Uma boa entrevista da Cris, com som claro, sustenta o filme: três ganchos na mesma posição, história em sete blocos e convite separado. Captar também pelo menos 3 colaboradores (procurando 4 ou mais), pelo menos 6 clientes e imagens dos espaços vazios e depois com pessoas. Os clientes fornecem inserts e depoimentos autónomos de 30–60 segundos.
 
-**Plano de captação pedido pelo utilizador:** cumprir as quantidades acima, confirmando antecipadamente quem participa e os usos de imagem/voz. Se a agenda não comportar o volume, combinar o ajuste antes do evento. Usar os [roteiros separados](02-perguntas-entrevistas.md) e proteger a entrevista principal e a cobertura dos espaços.
+**Plano de captação pedido pelo utilizador:** cumprir as quantidades acima, confirmando antecipadamente quem participa e os usos de imagem/voz. Se a agenda não comportar o volume, combinar o ajuste antes do evento. Usar os [roteiros separados](../02-guia-entrevistador.md) e proteger a entrevista principal e a cobertura dos espaços.
 
 ## Preparação e responsabilidades
 
@@ -109,7 +111,7 @@ Guardar originais sem compressão por aplicações de mensagens. Separar materia
 
 Antes de apagar cartões ou libertar o equipamento, confirmar que os ficheiros abrem e que existem duas cópias. Entregar também as notas das entrevistas, nomes/funções para legendas, elementos de identidade, destino do convite final e marcações de trechos que precisam de revisão.
 
-**Montagem:** escolher um gancho, organizar a [história da Cris em sete blocos](04-entrevista-cris.md), inserir colaboradores/clientes onde acrescentem uma ideia e cobrir com B-roll. Usar pares do espaço vazio/ocupado; legendar e usar música com licença adequada. Selecionar inserts breves e montar depoimentos autónomos de 30–60 segundos com contexto, experiência e significado, preservando as falas. O convite é uma peça separada que também pode fechar o filme.
+**Montagem:** escolher um gancho, organizar a [história da Cris em sete blocos](../03-entrevista-cris.md), inserir colaboradores/clientes onde acrescentem uma ideia e cobrir com B-roll. Usar pares do espaço vazio/ocupado; legendar e usar música com licença adequada. Selecionar inserts breves e montar depoimentos autónomos de 30–60 segundos com contexto, experiência e significado, preservando as falas. O convite é uma peça separada que também pode fechar o filme.
 
 **Revisão com Cris:** confirmar factos, serviços, identificação das pessoas, sentido das respostas, autorizações e convite final. Só depois fechar as versões para publicação. Prazo da primeira montagem, número de revisões e responsável por publicar continuam a definir.
 

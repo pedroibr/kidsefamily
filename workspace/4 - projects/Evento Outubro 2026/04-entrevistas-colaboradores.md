@@ -6,7 +6,7 @@ status: draft
 owner: Pedro Raimundo
 tags: [kids-family, documentario, filmagem]
 created: 2026-10-07
-updated: 2026-10-07
+updated: 2026-10-11
 ---
 
 # Entrevistas de colaboradores
@@ -56,4 +56,4 @@ Quando a história estiver clara, pedir uma síntese em duas ou três frases. N�
 - Marcar no registo o ficheiro, nome/função, assunto, tempo da frase útil e bloco narrativo provável.
 - Dar prioridade a exemplos diferentes: acolhimento, preparação de espaços, organização ou colaboração. Não montar quatro pessoas a repetir a mesma ideia.
 
-Referências: [roteiro da Cris](04-entrevista-cris.md), [guia do entrevistador](02-perguntas-entrevistas.md) e [plano de gravação](03-plano-gravacao.md).
+Referências: [roteiro da Cris](03-entrevista-cris.md), [guia do entrevistador](02-guia-entrevistador.md) e [checklist de filmagem](01-checklist-mapa-filmagem.md).

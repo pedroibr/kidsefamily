@@ -2,3 +2,17 @@
 .stfolder/
 .env
 .env.*
+
+# Mídias de vídeo na área de edição; documentos e legendas permanecem versionáveis.
+/workspace/5 - operation/video-editing/**/*.mp4
+/workspace/5 - operation/video-editing/**/*.mov
+/workspace/5 - operation/video-editing/**/*.mkv
+/workspace/5 - operation/video-editing/**/*.avi
+/workspace/5 - operation/video-editing/**/*.mxf
+/workspace/5 - operation/video-editing/**/*.webm
+/workspace/5 - operation/video-editing/**/*.MP4
+/workspace/5 - operation/video-editing/**/*.MOV
+/workspace/5 - operation/video-editing/**/*.MKV
+/workspace/5 - operation/video-editing/**/*.AVI
+/workspace/5 - operation/video-editing/**/*.MXF
+/workspace/5 - operation/video-editing/**/*.WEBM

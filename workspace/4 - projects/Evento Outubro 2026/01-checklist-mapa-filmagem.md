@@ -1,21 +1,21 @@
 ---
 type: Project Brief
-title: Mapa dos vídeos — documentário da Cris
+title: Checklist — mapa de filmagem
 description: Organização das captações, papéis de cada vídeo e ligação ao storytelling existente.
 status: draft
 owner: Pedro Raimundo
 tags: [kids-family, documentario, filmagem]
 created: 2026-10-07
-updated: 2026-10-07
+updated: 2026-10-11
 ---
 
-# Mapa dos vídeos — documentário da Cris
+# Checklist — mapa de filmagem
 
 ## Objetivo e história
 
 Mostrar Cristiane Martins como personagem da transformação da clínica: percebeu que as crianças cresciam e os adultos da família também precisavam de cuidado, decidiu ampliar e preparou espaço, equipa e equipamento para atender melhor essas pessoas, preservando a atenção às crianças.
 
-A história vem do [storytelling História da Nova Clínica](../Hist%C3%B3ria%20da%20Nova%20Cl%C3%ADnica/video_storyboard.md). A entrevista desenvolve os momentos reais dessa história. O evento é uma oportunidade de reunir pessoas e filmar o espaço cheio de vida.
+A história vem do [storytelling História da Nova Clínica](references/historia-nova-clinica.md). A entrevista desenvolve os momentos reais dessa história. O evento de **24/10/2026** é uma oportunidade de reunir pessoas e filmar o espaço cheio de vida.
 
 **Mensagem de trabalho:** a clínica cresce para continuar a acompanhar as pessoas, com a mesma atenção. A fala final será construída com as respostas reais de Cris.
 
@@ -24,7 +24,7 @@ A história vem do [storytelling História da Nova Clínica](../Hist%C3%B3ria%20
 | Captação | Quantidade / formato | O que deve ter | Uso |
 | --- | --- | --- | --- |
 | Ganchos da Cris | 3 alternativas curtas, na posição da entrevista principal | Crescimento com as famílias; necessidade ainda não atendida; desafio de ampliar preservando o cuidado | Escolher uma abertura para o documentário; guardar as outras para versões futuras. |
-| História da Cris | Uma história completa; referência de 3–5 min na edição | Sete blocos: cuidado reconhecido, incómodo, decisão, desafio, preparação, benefício e significado do novo nome | Vídeo principal, com inserts e B-roll. |
+| História da Cris | Uma história completa; referência de 3–5 min na edição | Sete blocos: cuidado reconhecido, incómodo, decisão, desafio, preparação, benefício e significado do novo nome.                   | Vídeo principal, com inserts e B-roll. |
 | Convite da Cris | Uma peça separada de 15–25 s e uma tomada mais curta | Conhecer a clínica e a equipa, entrar em contacto, acolhimento | Fecho do documentário ou vídeo autónomo. |
 | Colaboradores | Pelo menos 3; procurar 4 ou mais se possível | Exemplos reais da mudança, do esforço da equipa e do cuidado | Inserts que complementam os blocos da Cris; recolher trechos completos de 30–60 s. |
 | Clientes / famílias | Pelo menos 6; mais se possível | Como conheceram a clínica, um momento marcante e o significado da experiência | Inserts no documentário e depoimentos autónomos de 30–60 s. |
@@ -34,7 +34,7 @@ As quantidades representam a direção pedida pelo utilizador, com participaçã
 
 ## Roteiro do vídeo principal
 
-A tabela está em [Entrevista da Cris — história em sete blocos](04-entrevista-cris.md). Quatro perguntas partem de lembranças e sentimentos para cobrir os sete blocos; as três colunas mostram **ponto de partida, pergunta e onde queremos chegar**. Nesse mesmo documento estão os três ganchos e o convite.
+A tabela está em [Entrevista da Cris — história em sete blocos](03-entrevista-cris.md). Quatro perguntas partem de lembranças e sentimentos para cobrir os sete blocos; as três colunas mostram **ponto de partida, pergunta e onde queremos chegar**. Nesse mesmo documento estão os três ganchos e o convite.
 
 A montagem segue: **gancho escolhido → história da Cris com vozes complementares → conclusão da transformação → convite, se adequado ao uso do filme**. O entrevistador nunca aparece e as perguntas não ficam no áudio final.
 
@@ -42,11 +42,10 @@ Exemplo: Cris conta o cuidado que queria preservar → um cliente descreve um ge
 
 ## Documentos de produção
 
-- [Entrevista da Cris](04-entrevista-cris.md): ganchos, roteiro por blocos e convite.
-- [Entrevistas de colaboradores](05-entrevistas-colaboradores.md): objetivo, perguntas e pontos de inserção.
-- [Entrevistas de clientes](06-entrevistas-clientes.md): objetivo, perguntas e estrutura dos depoimentos.
-- [Guia do entrevistador](02-perguntas-entrevistas.md): condução e registo.
-- [Plano de gravação e B-roll](03-plano-gravacao.md): espaços, movimento, tempo e entrega.
+- [Entrevista da Cris](03-entrevista-cris.md): ganchos, roteiro por blocos e convite.
+- [Entrevistas de colaboradores](04-entrevistas-colaboradores.md): objetivo, perguntas e pontos de inserção.
+- [Entrevistas de clientes](05-entrevistas-clientes.md): objetivo, perguntas e estrutura dos depoimentos.
+- [Guia do entrevistador](02-guia-entrevistador.md): condução e registo.
 
 ## Audiência e canais
 
@@ -54,7 +53,7 @@ Famílias que conhecem a clínica, famílias da região e adultos que ainda a as
 
 ## Pontos por confirmar
 
-- Data e agenda: a reunião de 30/09 mencionou 25/10/2026, dois anos no novo espaço, livro e estúdio de podcast.
+- Horário e agenda do evento de 24/10/2026; confirmar a presença da celebração de dois anos no novo espaço, livro e estúdio de podcast mencionados na reunião de 30/09.
 - Cronologia, grafia do nome público, novas salas, equipa, equipamento e serviços mencionados.
 - “15 anos” e “mais de 1.000 crianças” do roteiro anterior continuam por confirmar.
 - Pessoas a entrevistar, equipa de captação, editor, orçamento, prazo e destino de contacto do convite.
@@ -63,4 +62,4 @@ Livro, podcast e resumo do evento não são entregas adicionais deste plano. Pod
 
 ## Referência
 
-A estrutura parte do [modelo recebido, preservado em MD](00-mapa-filmagem-referencia.md) e do storytelling existente. As adaptações estão nestes documentos de trabalho.
+A estrutura parte do [modelo recebido, preservado em MD](references/00-mapa-filmagem-referencia.md) e do storytelling existente. As adaptações estão nestes documentos de trabalho.

@@ -6,7 +6,7 @@ status: draft
 owner: Clínica Kids e Family
 tags: [project, newsletter, editorial-plan]
 created: 2026-09-29
-updated: 2026-09-29
+updated: 2026-11-07
 ---
 
 # Newsletter Kids and Family — plano de outubro e novembro de 2026
@@ -19,16 +19,22 @@ Manter uma relação útil e de confiança com as famílias que já conhecem a c
 
 ## Calendário proposto
 
-Um e-mail inicial de apresentação, seguido de quatro newsletters com **14 dias entre elas**. As datas são propostas; se o anúncio sair mais tarde, deslocar o calendário mantendo a cadência quinzenal das newsletters.
+O plano inicial previa um e-mail de apresentação seguido de quatro newsletters quinzenais. Em 07/11, a edição especial sobre o encontro e o livro foi definida pelo utilizador como edição 03; a sua data e a sequência das pautas seguintes estão por definir. A data prevista para a edição 02 não confirma que tenha sido enviada.
 
 | Edição | Data | Título | Briefing |
 |---|---|---|---|
 | 01 | 07/10/2026 | **[A Clínica Cristiane Martins agora é Kids & Family](edicoes/01-apresentacao-clinica.md)** | Contar o desejo de continuar a acompanhar as crianças que cresciam e de receber pais, mães e outros adultos; mostrar as condições que faltavam e como a clínica se preparou. Apresentar a newsletter e convidar o leitor a responder com dúvidas e sugestões. |
-| 02 | 14/10/2026 | **Que cuidados orais acompanhar em cada fase da família?** | Dar uma visão simples das dúvidas que surgem na infância, no crescimento e na vida adulta. Ajudar o leitor a identificar uma pergunta para levar à equipa, sem transformar a mensagem numa lista de serviços. |
-| 03 | 28/10/2026 | **Três perguntas para levar à próxima consulta da criança** | Criar uma lista breve sobre mudanças desde a última consulta, dificuldades na rotina e dúvidas da criança ou dos responsáveis. O valor é chegar à conversa mais preparado, sem culpa nem autodiagnóstico. |
-| 04 | 11/11/2026 | **Como retomar os cuidados dentários com tranquilidade** | Reconhecer as dúvidas de um adulto que passou algum tempo sem acompanhamento. Explicar, depois de confirmar o percurso com a equipa, como começar uma conversa sobre as suas necessidades e oferecer um convite discreto para entrar em contacto. |
-| 05 | 25/11/2026 | **Aparelho fixo ou alinhadores: como começar a decidir?** | Comparar as perguntas que ajudam a avaliar as duas possibilidades, sem recomendar uma opção para todos. Mostrar o papel da avaliação ortodôntica na escolha e convidar quem está a considerar tratamento a esclarecer o seu caso com a equipa. |
+| 02 | 19/10/2026 (definida) | **[Os cuidados mudam. As perguntas também.](edicoes/02-cuidados-ao-longo-da-vida.md)** | Mostrar como as perguntas sobre saúde oral mudam da infância à vida adulta. Convidar o leitor a anotar uma mudança e uma dúvida para conversar com a equipa, sem transformar a mensagem numa lista de serviços. |
+| 03 | Por definir | **[Uma nova fase, celebrada em conjunto](edicoes/especial-evento-livro-v1.md)** | Edição especial sobre o encontro, a nova fase da clínica e o livro *Noites Roubadas*; rascunho para revisão. |
 
-**Direção editorial:** uma ideia útil e um próximo passo proporcional por edição. Os três primeiros temas são amplos; o quarto aprofunda ortodontia. Se as permissões e a ferramenta o permitirem, respostas voluntárias e cliques temáticos podem sinalizar interesse editorial por infância, cuidado adulto ou ortodontia e orientar futuras pautas e convites. Não inferir necessidades clínicas desses sinais nem usar a abertura isolada para segmentar. Manter linguagem clara, acolhedora e em português de Portugal, conforme o [Brand Voice](../Brand%20Voice/Brand%20Voice.md). Formatos adaptados da skill *Writing Newsletter*: visão ampla (#010), lista útil (#009), dificuldade e saída (#018), comparação honesta (#083). Confirmar factos clínicos, serviços, percurso de contacto e ligações antes de escrever cada e-mail.
+### Pautas preservadas para programação posterior
+
+- **Três perguntas para levar à próxima consulta da criança:** mudanças desde a última consulta, dificuldades na rotina e dúvidas da criança ou dos responsáveis; anteriormente prevista como edição 03.
+- **Como retomar os cuidados dentários com tranquilidade:** reconhecer as dúvidas de um adulto sem acompanhamento recente e confirmar o percurso com a equipa; anteriormente prevista como edição 04.
+- **Aparelho fixo ou alinhadores: como começar a decidir?:** comparar perguntas úteis sem recomendar uma opção para todos; anteriormente prevista como edição 05.
+
+A ordem e as datas destas pautas precisam de revisão; as datas antigas eram apenas propostas.
+
+**Direção editorial:** uma ideia útil e um próximo passo proporcional por edição. As pautas planeadas combinam temas amplos com um aprofundamento em ortodontia. Se as permissões e a ferramenta o permitirem, respostas voluntárias e cliques temáticos podem sinalizar interesse editorial por infância, cuidado adulto ou ortodontia e orientar futuras pautas e convites. Não inferir necessidades clínicas desses sinais nem usar a abertura isolada para segmentar. Manter linguagem clara, acolhedora e em português de Portugal, conforme o [Brand Voice](../Brand%20Voice/Brand%20Voice.md). Formatos adaptados da skill *Writing Newsletter*: visão ampla (#010), lista útil (#009), dificuldade e saída (#018), comparação honesta (#083). Confirmar factos clínicos, serviços, percurso de contacto e ligações antes de escrever cada e-mail.
 
 **Fecho das quatro edições:** convidar a responder com uma dúvida geral ou sugestão de conteúdo; oferecer contacto com a equipa a quem queira conhecer a clínica ou conversar sobre acompanhamento.

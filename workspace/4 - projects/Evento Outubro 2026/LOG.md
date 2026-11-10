@@ -6,10 +6,23 @@ status: active
 owner: Pedro Raimundo
 tags: [evento, log]
 created: 2026-10-07
-updated: 2026-10-07
+updated: 2026-10-11
 ---
 
 # Log
+
+## 2026-10-11
+
+- Renomeada `Archived` para `archived` e movidos para lá `comprovacao-copia.jpg` e o atalho Google Docs do mapa de filmagem; atualizadas a navegação e a memória.
+
+- Criado `briefing.md` resumido com data do evento, objetivo, destinatários, gravações, usos e audiência; incluído no índice.
+- Corrigida a data do evento para 24/10/2026 nos documentos ativos e na memória, conforme confirmação do utilizador.
+- Removido `instrucoes-propostas.md`; AGENTS.md foi resumido em português e teve as rotas atualizadas com aprovação explícita do utilizador.
+
+- Renomeados e numerados em sequência os cinco documentos de trabalho; preservado o conteúdo do checklist e as perguntas das entrevistas, com atualização das ligações.
+- Movidos o modelo Markdown, o ponteiro Google Docs e o comprovativo da cópia para `references`; arquivado o plano de gravação em `Archived` e removidas as suas ligações dos guias ativos.
+- Copiado o roteiro completo História da Nova Clínica para `references/historia-nova-clinica.md`, preservando o original; as duas ligações a contextos externos foram convertidas em texto na cópia para evitar dependências na exportação.
+- Atualizados índice e memória; as rotas de AGENTS.md ficaram inicialmente pendentes de aprovação, posteriormente concedida nesta data.
 
 ## 2026-10-07
 

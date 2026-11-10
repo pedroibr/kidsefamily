@@ -1,0 +1,4412 @@
+[
+  {
+    "speaker" : "Speaker 1",
+    "text" : "Olá,",
+    "timestamp" : "00:16.580-00:17.540"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "text" : "tudo",
+    "timestamp" : "00:17.540-00:17.860"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "text" : "bem?",
+    "timestamp" : "00:17.860-00:18.500"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "text" : "Só",
+    "timestamp" : "00:18.820-00:18.980"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "text" : "filhona,",
+    "timestamp" : "00:19.060-00:19.860"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "text" : "né?",
+    "timestamp" : "00:19.860-00:20.260"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "Well",
+    "timestamp" : "00:29.500-00:29.740"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "we",
+    "timestamp" : "00:29.820-00:29.900"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "did",
+    "timestamp" : "00:30.060-00:30.140"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "our",
+    "timestamp" : "00:30.220-00:30.300"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "study",
+    "timestamp" : "00:30.380-00:30.619"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "or",
+    "timestamp" : "00:30.779-00:30.860"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "we",
+    "timestamp" : "00:31.099-00:31.180"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "text" : "should",
+    "timestamp" : "00:32.220-00:32.379"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "text" : "go",
+    "timestamp" : "00:32.460-00:32.540"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "text" : "up",
+    "timestamp" : "00:32.619-00:32.700"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "text" : "on",
+    "timestamp" : "00:32.780-00:32.860"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "text" : "you,",
+    "timestamp" : "00:33.020-00:33.180"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "text" : "should",
+    "timestamp" : "00:33.180-00:33.340"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "text" : "go",
+    "timestamp" : "00:33.340-00:33.420"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "text" : "up",
+    "timestamp" : "00:33.500-00:33.580"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "text" : "today",
+    "timestamp" : "00:33.820-00:33.980"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "text" : "Okay.",
+    "timestamp" : "00:43.739-00:45.019"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "Ai,",
+    "timestamp" : "00:51.100-00:51.500"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "meu",
+    "timestamp" : "00:51.500-00:51.739"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "Deus.",
+    "timestamp" : "00:51.739-00:52.140"
+  },
+  {
+    "speaker" : "Speaker 4",
+    "text" : "Agora",
+    "timestamp" : "00:53.660-00:53.980"
+  },
+  {
+    "speaker" : "Speaker 4",
+    "text" : "eu",
+    "timestamp" : "00:53.980-00:54.140"
+  },
+  {
+    "speaker" : "Speaker 4",
+    "text" : "vou",
+    "timestamp" : "00:54.140-00:54.379"
+  },
+  {
+    "speaker" : "Speaker 4",
+    "text" : "entrevistar.",
+    "timestamp" : "00:54.379-00:55.900"
+  },
+  {
+    "speaker" : "Speaker 4",
+    "text" : "A",
+    "timestamp" : "00:55.980-00:56.140"
+  },
+  {
+    "speaker" : "Speaker 4",
+    "text" : "doutora",
+    "timestamp" : "00:56.140-00:56.540"
+  },
+  {
+    "speaker" : "Speaker 4",
+    "text" : "vai",
+    "timestamp" : "00:56.540-00:56.780"
+  },
+  {
+    "speaker" : "Speaker 4",
+    "text" : "fazer",
+    "timestamp" : "00:56.780-00:56.940"
+  },
+  {
+    "speaker" : "Speaker 4",
+    "text" : "umas",
+    "timestamp" : "00:56.940-00:57.260"
+  },
+  {
+    "speaker" : "Speaker 4",
+    "text" : "perguntas",
+    "timestamp" : "00:57.260-00:58.059"
+  },
+  {
+    "speaker" : "Speaker 4",
+    "text" : "e",
+    "timestamp" : "00:58.059-00:58.300"
+  },
+  {
+    "speaker" : "Speaker 4",
+    "text" : "eu",
+    "timestamp" : "00:58.300-00:58.460"
+  },
+  {
+    "speaker" : "Speaker 4",
+    "text" : "vou",
+    "timestamp" : "00:58.460-00:58.620"
+  },
+  {
+    "speaker" : "Speaker 4",
+    "text" : "responder.",
+    "timestamp" : "00:58.620-00:59.420"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "Depois",
+    "timestamp" : "00:59.980-01:00.220"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "a",
+    "timestamp" : "01:00.380-01:00.540"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "câmera",
+    "timestamp" : "01:00.540-01:01.020"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "não",
+    "timestamp" : "01:01.500-01:01.660"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "aparece?",
+    "timestamp" : "01:01.660-01:02.060"
+  },
+  {
+    "speaker" : "Speaker 4",
+    "text" : "Sim,",
+    "timestamp" : "01:02.540-01:02.780"
+  },
+  {
+    "speaker" : "Speaker 4",
+    "text" : "não",
+    "timestamp" : "01:02.780-01:02.940"
+  },
+  {
+    "speaker" : "Speaker 4",
+    "text" : "preciso",
+    "timestamp" : "01:02.940-01:03.260"
+  },
+  {
+    "speaker" : "Speaker 4",
+    "text" : "aparecer,",
+    "timestamp" : "01:03.260-01:03.740"
+  },
+  {
+    "speaker" : "Speaker 4",
+    "text" : "pode",
+    "timestamp" : "01:03.740-01:03.900"
+  },
+  {
+    "speaker" : "Speaker 4",
+    "text" : "ser",
+    "timestamp" : "01:03.900-01:04.059"
+  },
+  {
+    "speaker" : "Speaker 4",
+    "text" : "só",
+    "timestamp" : "01:04.059-01:04.300"
+  },
+  {
+    "speaker" : "Speaker 4",
+    "text" : "ela,",
+    "timestamp" : "01:04.300-01:04.540"
+  },
+  {
+    "speaker" : "Speaker 4",
+    "text" : "pode",
+    "timestamp" : "01:04.540-01:04.700"
+  },
+  {
+    "speaker" : "Speaker 4",
+    "text" : "ficar",
+    "timestamp" : "01:04.780-01:04.940"
+  },
+  {
+    "speaker" : "Speaker 4",
+    "text" : "nessa",
+    "timestamp" : "01:04.940-01:05.260"
+  },
+  {
+    "speaker" : "Speaker 4",
+    "text" : "sequência,",
+    "timestamp" : "01:05.260-01:05.740"
+  },
+  {
+    "speaker" : "Speaker 4",
+    "text" : "que",
+    "timestamp" : "01:05.740-01:05.900"
+  },
+  {
+    "speaker" : "Speaker 4",
+    "text" : "é",
+    "timestamp" : "01:05.900-01:06.140"
+  },
+  {
+    "speaker" : "Speaker 4",
+    "text" : "melhor,",
+    "timestamp" : "01:06.140-01:06.540"
+  },
+  {
+    "speaker" : "Speaker 4",
+    "text" : "né?",
+    "timestamp" : "01:06.540-01:07.100"
+  },
+  {
+    "speaker" : "Speaker 4",
+    "text" : "Eu",
+    "timestamp" : "01:07.420-01:07.500"
+  },
+  {
+    "speaker" : "Speaker 4",
+    "text" : "não",
+    "timestamp" : "01:07.660-01:07.820"
+  },
+  {
+    "speaker" : "Speaker 4",
+    "text" : "aparecer.",
+    "timestamp" : "01:07.820-01:08.620"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "Estás",
+    "timestamp" : "01:11.460-01:11.780"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "o",
+    "timestamp" : "01:12.020-01:12.100"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "microfone",
+    "timestamp" : "01:12.100-01:12.580"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "muito",
+    "timestamp" : "01:12.580-01:12.740"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "à",
+    "timestamp" : "01:12.900-01:12.980"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "frente,",
+    "timestamp" : "01:12.980-01:13.300"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "tens",
+    "timestamp" : "01:13.300-01:13.460"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "de",
+    "timestamp" : "01:13.540-01:13.620"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "meter",
+    "timestamp" : "01:13.700-01:13.860"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "o",
+    "timestamp" : "01:13.940-01:14.020"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "microfone",
+    "timestamp" : "01:14.020-01:14.420"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "mais",
+    "timestamp" : "01:14.420-01:14.580"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "para",
+    "timestamp" : "01:14.580-01:14.740"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "trás",
+    "timestamp" : "01:14.740-01:14.980"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "e",
+    "timestamp" : "01:14.980-01:15.060"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "mais",
+    "timestamp" : "01:15.060-01:15.220"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "de",
+    "timestamp" : "01:15.220-01:15.300"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "lado.",
+    "timestamp" : "01:15.300-01:15.540"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "Aqui?",
+    "timestamp" : "01:17.060-01:17.940"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "Make.",
+    "timestamp" : "01:19.300-01:20.260"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "Ah,",
+    "timestamp" : "01:23.460-01:23.780"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "também,",
+    "timestamp" : "01:23.780-01:24.100"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "por",
+    "timestamp" : "01:24.100-01:24.180"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "causa",
+    "timestamp" : "01:24.180-01:24.340"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "da",
+    "timestamp" : "01:24.420-01:24.580"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "outra.",
+    "timestamp" : "01:24.580-01:24.820"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "Exatamente.",
+    "timestamp" : "01:25.220-01:25.780"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "Tá",
+    "timestamp" : "01:25.860-01:26.020"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "bem?",
+    "timestamp" : "01:26.020-01:26.420"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "Tá",
+    "timestamp" : "01:26.420-01:26.580"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "bem,",
+    "timestamp" : "01:26.580-01:26.820"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "tá",
+    "timestamp" : "01:26.820-01:26.900"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "bem.",
+    "timestamp" : "01:26.900-01:27.140"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "Não",
+    "timestamp" : "01:27.380-01:27.460"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "mexo",
+    "timestamp" : "01:27.619-01:28.180"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "nada.",
+    "timestamp" : "01:28.180-01:28.820"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "Um",
+    "timestamp" : "01:30.820-01:31.140"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "sorry.",
+    "timestamp" : "01:39.540-01:40.820"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "I",
+    "timestamp" : "01:40.820-01:40.900"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "just",
+    "timestamp" : "01:41.060-01:41.140"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "tried",
+    "timestamp" : "01:41.300-01:41.460"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "to",
+    "timestamp" : "01:41.540-01:41.620"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "muito",
+    "timestamp" : "01:43.780-01:44.020"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "grande",
+    "timestamp" : "01:44.180-01:44.340"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "tô",
+    "timestamp" : "01:44.740-01:44.979"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "tô",
+    "timestamp" : "01:45.140-01:45.539"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "faz",
+    "timestamp" : "01:45.860-01:46.020"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "muito",
+    "timestamp" : "01:46.180-01:46.259"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "grande",
+    "timestamp" : "01:46.579-01:46.659"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "estou",
+    "timestamp" : "01:48.340-01:48.659"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "muito",
+    "timestamp" : "01:48.659-01:48.979"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "grande",
+    "timestamp" : "01:50.340-01:50.500"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "Ai,",
+    "timestamp" : "01:53.560-01:53.799"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "meu",
+    "timestamp" : "01:53.799-01:54.039"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "Deus.",
+    "timestamp" : "01:54.039-01:54.920"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "Olha,",
+    "timestamp" : "01:55.240-01:55.799"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "eu",
+    "timestamp" : "01:55.799-01:55.960"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "não",
+    "timestamp" : "01:55.960-01:56.119"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "decorei",
+    "timestamp" : "01:56.119-01:57.000"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "nada",
+    "timestamp" : "01:57.000-01:57.320"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "e",
+    "timestamp" : "01:57.320-01:57.640"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "confesso,",
+    "timestamp" : "01:57.960-01:58.759"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "vai",
+    "timestamp" : "01:58.759-01:58.920"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "lá.",
+    "timestamp" : "01:59.000-01:59.399"
+  },
+  {
+    "speaker" : "Speaker 4",
+    "text" : "A",
+    "timestamp" : "01:59.399-01:59.560"
+  },
+  {
+    "speaker" : "Speaker 4",
+    "text" : "mim",
+    "timestamp" : "01:59.560-01:59.719"
+  },
+  {
+    "speaker" : "Speaker 4",
+    "text" : "eu",
+    "timestamp" : "01:59.799-01:59.960"
+  },
+  {
+    "speaker" : "Speaker 4",
+    "text" : "fiz",
+    "timestamp" : "01:59.960-02:00.200"
+  },
+  {
+    "speaker" : "Speaker 4",
+    "text" : "porque",
+    "timestamp" : "02:00.200-02:00.439"
+  },
+  {
+    "speaker" : "Speaker 4",
+    "text" : "era",
+    "timestamp" : "02:00.439-02:00.600"
+  },
+  {
+    "speaker" : "Speaker 4",
+    "text" : "muito",
+    "timestamp" : "02:00.600-02:00.759"
+  },
+  {
+    "speaker" : "Speaker 4",
+    "text" : "específica",
+    "timestamp" : "02:00.759-02:01.159"
+  },
+  {
+    "speaker" : "Speaker 4",
+    "text" : "algumas",
+    "timestamp" : "02:01.320-02:01.640"
+  },
+  {
+    "speaker" : "Speaker 4",
+    "text" : "coisas.",
+    "timestamp" : "02:01.640-02:01.880"
+  },
+  {
+    "speaker" : "Speaker 4",
+    "text" : "Mas",
+    "timestamp" : "02:02.280-02:02.520"
+  },
+  {
+    "speaker" : "Speaker 4",
+    "text" : "foi",
+    "timestamp" : "02:02.520-02:02.679"
+  },
+  {
+    "speaker" : "Speaker 4",
+    "text" : "da",
+    "timestamp" : "02:02.679-02:02.759"
+  },
+  {
+    "speaker" : "Speaker 4",
+    "text" : "gente.",
+    "timestamp" : "02:02.920-02:03.320"
+  },
+  {
+    "speaker" : "Speaker 4",
+    "text" : "Tudo",
+    "timestamp" : "02:03.560-02:03.640"
+  },
+  {
+    "speaker" : "Speaker 4",
+    "text" : "minha,",
+    "timestamp" : "02:03.720-02:04.040"
+  },
+  {
+    "speaker" : "Speaker 4",
+    "text" : "minhas",
+    "timestamp" : "02:04.040-02:04.360"
+  },
+  {
+    "speaker" : "Speaker 4",
+    "text" : "palavras.",
+    "timestamp" : "02:04.360-02:05.000"
+  },
+  {
+    "speaker" : "Speaker 4",
+    "text" : "Não",
+    "timestamp" : "02:05.000-02:05.160"
+  },
+  {
+    "speaker" : "Speaker 4",
+    "text" : "foi",
+    "timestamp" : "02:05.160-02:05.320"
+  },
+  {
+    "speaker" : "Speaker 4",
+    "text" : "Ana.",
+    "timestamp" : "02:05.560-02:06.600"
+  },
+  {
+    "speaker" : "Speaker 4",
+    "text" : "Vamos",
+    "timestamp" : "02:06.600-02:06.920"
+  },
+  {
+    "speaker" : "Speaker 4",
+    "text" : "lá?",
+    "timestamp" : "02:06.920-02:07.400"
+  },
+  {
+    "speaker" : "Speaker 4",
+    "text" : "Vamos",
+    "timestamp" : "02:07.480-02:07.800"
+  },
+  {
+    "speaker" : "Speaker 4",
+    "text" : "lá.",
+    "timestamp" : "02:07.800-02:09.080"
+  },
+  {
+    "speaker" : "Speaker 4",
+    "text" : "Aína,",
+    "timestamp" : "02:13.140-02:14.180"
+  },
+  {
+    "speaker" : "Speaker 4",
+    "text" : "como",
+    "timestamp" : "02:14.180-02:14.500"
+  },
+  {
+    "speaker" : "Speaker 4",
+    "text" : "chegou",
+    "timestamp" : "02:14.659-02:15.140"
+  },
+  {
+    "speaker" : "Speaker 4",
+    "text" : "à",
+    "timestamp" : "02:15.140-02:15.220"
+  },
+  {
+    "speaker" : "Speaker 4",
+    "text" : "clínica",
+    "timestamp" : "02:15.220-02:15.780"
+  },
+  {
+    "speaker" : "Speaker 4",
+    "text" : "e",
+    "timestamp" : "02:15.780-02:15.939"
+  },
+  {
+    "speaker" : "Speaker 4",
+    "text" : "o",
+    "timestamp" : "02:15.939-02:16.180"
+  },
+  {
+    "speaker" : "Speaker 4",
+    "text" : "que",
+    "timestamp" : "02:16.180-02:16.420"
+  },
+  {
+    "speaker" : "Speaker 4",
+    "text" : "fez",
+    "timestamp" : "02:16.420-02:16.819"
+  },
+  {
+    "speaker" : "Speaker 4",
+    "text" : "ficar?",
+    "timestamp" : "02:16.819-02:18.340"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "Olha,",
+    "timestamp" : "02:18.340-02:18.900"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "eu",
+    "timestamp" : "02:18.900-02:19.060"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "cheguei",
+    "timestamp" : "02:19.060-02:19.620"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "à",
+    "timestamp" : "02:19.620-02:19.860"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "clínica",
+    "timestamp" : "02:19.860-02:20.420"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "por",
+    "timestamp" : "02:20.420-02:20.659"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "uma",
+    "timestamp" : "02:20.659-02:20.900"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "indicação.",
+    "timestamp" : "02:20.900-02:22.099"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "Uma",
+    "timestamp" : "02:22.420-02:22.579"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "indicação",
+    "timestamp" : "02:22.739-02:23.220"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "de",
+    "timestamp" : "02:23.220-02:23.379"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "uma.",
+    "timestamp" : "02:23.379-02:23.620"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "Pronto.",
+    "timestamp" : "02:24.019-02:25.060"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "Não,",
+    "timestamp" : "02:25.280-02:25.440"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "fala",
+    "timestamp" : "02:25.440-02:25.599"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "isso",
+    "timestamp" : "02:25.599-02:25.680"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "pra",
+    "timestamp" : "02:25.680-02:25.760"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "ela",
+    "timestamp" : "02:25.840-02:25.920"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : ",",
+    "timestamp" : "02:25.920-02:26.000"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "fala",
+    "timestamp" : "02:26.080-02:26.239"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "pra",
+    "timestamp" : "02:26.239-02:26.319"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "mim.",
+    "timestamp" : "02:26.319-02:26.480"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "Ah,",
+    "timestamp" : "02:27.280-02:27.520"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "é",
+    "timestamp" : "02:27.520-02:27.680"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "mesmo?",
+    "timestamp" : "02:27.680-02:28.080"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "Desculpa.",
+    "timestamp" : "02:28.080-02:28.800"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "Eu",
+    "timestamp" : "02:30.879-02:30.959"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "não",
+    "timestamp" : "02:30.959-02:31.040"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "estou",
+    "timestamp" : "02:31.040-02:31.200"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "acostumada,",
+    "timestamp" : "02:31.200-02:32.160"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "é",
+    "timestamp" : "02:32.160-02:32.239"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "só",
+    "timestamp" : "02:32.319-02:32.480"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "naquela.",
+    "timestamp" : "02:32.480-02:32.959"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "É",
+    "timestamp" : "02:33.120-02:33.280"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "verdade.",
+    "timestamp" : "02:33.360-02:34.160"
+  },
+  {
+    "speaker" : "Speaker 4",
+    "text" : "Você",
+    "timestamp" : "02:34.160-02:34.319"
+  },
+  {
+    "speaker" : "Speaker 4",
+    "text" : "viu",
+    "timestamp" : "02:34.319-02:34.560"
+  },
+  {
+    "speaker" : "Speaker 4",
+    "text" : "que",
+    "timestamp" : "02:34.560-02:34.640"
+  },
+  {
+    "speaker" : "Speaker 4",
+    "text" : "eu",
+    "timestamp" : "02:34.640-02:34.720"
+  },
+  {
+    "speaker" : "Speaker 4",
+    "text" : "só",
+    "timestamp" : "02:34.720-02:34.880"
+  },
+  {
+    "speaker" : "Speaker 4",
+    "text" : "estava",
+    "timestamp" : "02:34.880-02:34.959"
+  },
+  {
+    "speaker" : "Speaker 4",
+    "text" : "ali",
+    "timestamp" : "02:35.120-02:35.360"
+  },
+  {
+    "speaker" : "Speaker 4",
+    "text" : "também.",
+    "timestamp" : "02:35.360-02:35.920"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "Exatamente.",
+    "timestamp" : "02:35.920-02:36.720"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "Ela",
+    "timestamp" : "02:37.300-02:37.460"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "faz",
+    "timestamp" : "02:37.540-02:37.620"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "a",
+    "timestamp" : "02:37.700-02:37.780"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "pergunta,",
+    "timestamp" : "02:37.780-02:38.020"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "mas",
+    "timestamp" : "02:38.020-02:38.180"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "não",
+    "timestamp" : "02:38.180-02:38.260"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "olha.",
+    "timestamp" : "02:38.260-02:38.580"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "Sim,",
+    "timestamp" : "02:39.300-02:39.540"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "estou",
+    "timestamp" : "02:39.540-02:39.940"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "mal",
+    "timestamp" : "02:39.940-02:40.020"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "acostumada.",
+    "timestamp" : "02:40.100-02:40.740"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "Estou",
+    "timestamp" : "02:40.900-02:41.060"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "mal",
+    "timestamp" : "02:41.140-02:41.220"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "acostumada.",
+    "timestamp" : "02:41.780-02:42.820"
+  },
+  {
+    "speaker" : "Speaker 4",
+    "text" : "Pode",
+    "timestamp" : "02:44.980-02:45.300"
+  },
+  {
+    "speaker" : "Speaker 4",
+    "text" : "responder.",
+    "timestamp" : "02:45.460-02:46.740"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "Meu",
+    "timestamp" : "02:48.320-02:48.560"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "nome",
+    "timestamp" : "02:48.560-02:48.720"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "é",
+    "timestamp" : "02:48.720-02:48.880"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "Jaína",
+    "timestamp" : "02:48.880-02:49.440"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "Almeida,",
+    "timestamp" : "02:49.440-02:50.240"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "eu",
+    "timestamp" : "02:50.240-02:50.480"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "sou",
+    "timestamp" : "02:50.480-02:50.720"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "assistente",
+    "timestamp" : "02:50.720-02:51.200"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "da",
+    "timestamp" : "02:51.200-02:51.360"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "doutora",
+    "timestamp" : "02:51.360-02:51.680"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "Cristiane",
+    "timestamp" : "02:51.680-02:52.320"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "Martins",
+    "timestamp" : "02:52.320-02:52.880"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "desde",
+    "timestamp" : "02:53.280-02:53.600"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "o",
+    "timestamp" : "02:53.600-02:53.760"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "início",
+    "timestamp" : "02:53.760-02:54.400"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "que",
+    "timestamp" : "02:54.400-02:54.640"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "nós",
+    "timestamp" : "02:54.640-02:54.880"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "começamos",
+    "timestamp" : "02:54.880-02:55.520"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "aqui",
+    "timestamp" : "02:55.520-02:55.840"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "nessa",
+    "timestamp" : "02:55.840-02:56.160"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "nova",
+    "timestamp" : "02:56.160-02:56.640"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "sede,",
+    "timestamp" : "02:56.640-02:57.280"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "na",
+    "timestamp" : "02:57.280-02:57.440"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "nova",
+    "timestamp" : "02:57.440-02:57.760"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "clínica.",
+    "timestamp" : "02:57.760-02:58.800"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "Fui",
+    "timestamp" : "02:59.680-03:00.159"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "indicada",
+    "timestamp" : "03:00.159-03:00.959"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "por",
+    "timestamp" : "03:00.959-03:01.200"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "uma",
+    "timestamp" : "03:01.200-03:01.519"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "colega",
+    "timestamp" : "03:01.519-03:02.159"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "que",
+    "timestamp" : "03:02.560-03:02.879"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "ficaria",
+    "timestamp" : "03:02.879-03:03.360"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "um",
+    "timestamp" : "03:03.519-03:03.680"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "período",
+    "timestamp" : "03:03.680-03:04.319"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "em",
+    "timestamp" : "03:05.280-03:05.599"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "casa",
+    "timestamp" : "03:05.599-03:05.920"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "por",
+    "timestamp" : "03:06.159-03:06.400"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "questões",
+    "timestamp" : "03:06.400-03:06.959"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "pessoais,",
+    "timestamp" : "03:06.959-03:08.079"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "e",
+    "timestamp" : "03:08.079-03:08.400"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "o",
+    "timestamp" : "03:09.280-03:09.519"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "que",
+    "timestamp" : "03:09.519-03:09.760"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "me",
+    "timestamp" : "03:09.760-03:10.000"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "fez",
+    "timestamp" : "03:10.000-03:10.400"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "ficar.",
+    "timestamp" : "03:10.400-03:11.519"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "A",
+    "timestamp" : "03:12.900-03:13.140"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "doutora",
+    "timestamp" : "03:13.140-03:13.700"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "Cristiane",
+    "timestamp" : "03:13.700-03:14.340"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "sempre",
+    "timestamp" : "03:14.820-03:15.140"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "demonstrou",
+    "timestamp" : "03:15.140-03:15.780"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "um",
+    "timestamp" : "03:16.020-03:16.260"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "cuidado",
+    "timestamp" : "03:16.260-03:17.060"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "muito",
+    "timestamp" : "03:17.060-03:17.380"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "especial",
+    "timestamp" : "03:17.380-03:18.020"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "e",
+    "timestamp" : "03:18.020-03:18.260"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "diferenciado",
+    "timestamp" : "03:18.260-03:19.140"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "na",
+    "timestamp" : "03:19.140-03:19.460"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "área",
+    "timestamp" : "03:19.460-03:19.780"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "dela.",
+    "timestamp" : "03:19.780-03:20.420"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "E",
+    "timestamp" : "03:20.420-03:20.580"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "o",
+    "timestamp" : "03:20.580-03:20.740"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "que",
+    "timestamp" : "03:20.740-03:20.900"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "me",
+    "timestamp" : "03:20.900-03:21.060"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "fez",
+    "timestamp" : "03:21.060-03:21.380"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "ficar",
+    "timestamp" : "03:21.380-03:21.780"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "foi",
+    "timestamp" : "03:21.780-03:22.020"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "justamente",
+    "timestamp" : "03:22.020-03:22.500"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "isso:",
+    "timestamp" : "03:22.500-03:22.820"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "o",
+    "timestamp" : "03:22.820-03:22.980"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "acolhimento",
+    "timestamp" : "03:22.980-03:23.700"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "que",
+    "timestamp" : "03:23.700-03:23.860"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "a",
+    "timestamp" : "03:23.860-03:24.020"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "doutora",
+    "timestamp" : "03:24.020-03:24.500"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "tem",
+    "timestamp" : "03:24.500-03:24.820"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "com",
+    "timestamp" : "03:24.820-03:25.060"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "essas",
+    "timestamp" : "03:25.060-03:25.380"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "crianças.",
+    "timestamp" : "03:25.380-03:26.020"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "Com",
+    "timestamp" : "03:26.360-03:26.599"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "essas",
+    "timestamp" : "03:26.599-03:26.840"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "famílias.",
+    "timestamp" : "03:26.840-03:27.640"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "Isso",
+    "timestamp" : "03:27.640-03:28.120"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "me",
+    "timestamp" : "03:28.120-03:28.360"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "fez",
+    "timestamp" : "03:28.360-03:28.840"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "ficar",
+    "timestamp" : "03:28.840-03:29.480"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "na",
+    "timestamp" : "03:29.480-03:29.800"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "clínica",
+    "timestamp" : "03:29.800-03:30.440"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "e",
+    "timestamp" : "03:30.440-03:30.760"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "estou",
+    "timestamp" : "03:30.760-03:31.160"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "aqui",
+    "timestamp" : "03:31.160-03:31.400"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "até",
+    "timestamp" : "03:31.400-03:31.640"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "hoje.",
+    "timestamp" : "03:31.640-03:32.040"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "Também",
+    "timestamp" : "03:32.040-03:32.440"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "faço",
+    "timestamp" : "03:32.440-03:32.840"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "aniversário",
+    "timestamp" : "03:32.840-03:33.400"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "de",
+    "timestamp" : "03:33.480-03:33.640"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "dois",
+    "timestamp" : "03:33.640-03:33.800"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "anos",
+    "timestamp" : "03:33.800-03:34.120"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "com",
+    "timestamp" : "03:34.120-03:34.280"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "a",
+    "timestamp" : "03:34.280-03:34.360"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "clínica.",
+    "timestamp" : "03:34.360-03:35.319"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "Pronto.",
+    "timestamp" : "03:36.840-03:38.120"
+  },
+  {
+    "speaker" : "Speaker 4",
+    "text" : "Algum",
+    "timestamp" : "03:38.880-03:39.440"
+  },
+  {
+    "speaker" : "Speaker 4",
+    "text" : "momento",
+    "timestamp" : "03:39.440-03:39.600"
+  },
+  {
+    "speaker" : "Speaker 4",
+    "text" : "em",
+    "timestamp" : "03:39.920-03:40.160"
+  },
+  {
+    "speaker" : "Speaker 4",
+    "text" : "quem",
+    "timestamp" : "03:40.160-03:40.480"
+  },
+  {
+    "speaker" : "Speaker 4",
+    "text" : "sentiu",
+    "timestamp" : "03:40.800-03:41.440"
+  },
+  {
+    "speaker" : "Speaker 4",
+    "text" : "orgulho",
+    "timestamp" : "03:41.520-03:42.240"
+  },
+  {
+    "speaker" : "Speaker 4",
+    "text" : "dessa",
+    "timestamp" : "03:42.240-03:42.400"
+  },
+  {
+    "speaker" : "Speaker 4",
+    "text" : "equipe?",
+    "timestamp" : "03:42.560-03:44.320"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "Eu",
+    "timestamp" : "03:44.320-03:44.640"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "sinto",
+    "timestamp" : "03:44.880-03:45.360"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "orgulho",
+    "timestamp" : "03:45.360-03:45.920"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "dessa",
+    "timestamp" : "03:45.920-03:46.080"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "equipe",
+    "timestamp" : "03:46.320-03:47.120"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "acho",
+    "timestamp" : "03:47.600-03:47.840"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "que",
+    "timestamp" : "03:47.840-03:48.000"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "quase",
+    "timestamp" : "03:48.160-03:48.560"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "todos",
+    "timestamp" : "03:48.560-03:48.720"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "os",
+    "timestamp" : "03:48.720-03:48.960"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "dias.",
+    "timestamp" : "03:48.960-03:49.760"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "Quasi",
+    "timestamp" : "03:50.340-03:50.580"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "all",
+    "timestamp" : "03:50.739-03:50.900"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "the",
+    "timestamp" : "03:51.060-03:51.140"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "years",
+    "timestamp" : "03:51.220-03:51.379"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : ",",
+    "timestamp" : "03:51.620-03:51.700"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "the",
+    "timestamp" : "03:51.860-03:51.940"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "fact",
+    "timestamp" : "03:52.099-03:52.420"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "that",
+    "timestamp" : "03:52.580-03:52.819"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "everyone",
+    "timestamp" : "03:52.980-03:53.300"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "is",
+    "timestamp" : "03:53.700-03:53.780"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "inesperated,",
+    "timestamp" : "03:54.340-03:55.540"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "and",
+    "timestamp" : "03:55.540-03:55.780"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "the",
+    "timestamp" : "03:55.780-03:55.940"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "equipe",
+    "timestamp" : "03:56.260-03:56.819"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "is",
+    "timestamp" : "03:56.819-03:57.060"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "an",
+    "timestamp" : "03:57.060-03:57.220"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "equipe",
+    "timestamp" : "03:57.300-03:57.780"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "unite",
+    "timestamp" : "03:58.099-03:58.500"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : ",",
+    "timestamp" : "03:58.980-03:59.220"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "an",
+    "timestamp" : "03:59.700-03:59.940"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "equipe",
+    "timestamp" : "04:00.099-04:00.500"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "that",
+    "timestamp" : "04:00.500-04:00.739"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "ajudes",
+    "timestamp" : "04:00.980-04:01.620"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "and",
+    "timestamp" : "04:01.620-04:01.780"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "dedicates",
+    "timestamp" : "04:02.099-04:02.500"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "in",
+    "timestamp" : "04:02.900-04:02.980"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "what",
+    "timestamp" : "04:03.060-04:03.140"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "we",
+    "timestamp" : "04:03.220-04:03.300"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "have.",
+    "timestamp" : "04:03.940-04:04.099"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "Então,",
+    "timestamp" : "04:03.700-04:04.020"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "eu",
+    "timestamp" : "04:04.020-04:04.180"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "tenho",
+    "timestamp" : "04:04.180-04:04.420"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "orgulho",
+    "timestamp" : "04:04.420-04:04.900"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "dessa",
+    "timestamp" : "04:04.900-04:05.220"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "equipe",
+    "timestamp" : "04:05.220-04:05.860"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "todos",
+    "timestamp" : "04:06.020-04:06.340"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "os",
+    "timestamp" : "04:06.340-04:06.580"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "dias.",
+    "timestamp" : "04:06.580-04:07.540"
+  },
+  {
+    "speaker" : "Speaker 4",
+    "text" : "Como",
+    "timestamp" : "04:08.420-04:08.740"
+  },
+  {
+    "speaker" : "Speaker 4",
+    "text" : "foi",
+    "timestamp" : "04:08.820-04:09.140"
+  },
+  {
+    "speaker" : "Speaker 4",
+    "text" : "entrevistar",
+    "timestamp" : "04:09.140-04:09.780"
+  },
+  {
+    "speaker" : "Speaker 4",
+    "text" : "a",
+    "timestamp" : "04:09.780-04:09.940"
+  },
+  {
+    "speaker" : "Speaker 4",
+    "text" : "doutora",
+    "timestamp" : "04:09.940-04:10.260"
+  },
+  {
+    "speaker" : "Speaker 4",
+    "text" : "Cristiane",
+    "timestamp" : "04:10.260-04:10.660"
+  },
+  {
+    "speaker" : "Speaker 4",
+    "text" : "no",
+    "timestamp" : "04:10.820-04:10.980"
+  },
+  {
+    "speaker" : "Speaker 4",
+    "text" : "episódio",
+    "timestamp" : "04:10.980-04:11.460"
+  },
+  {
+    "speaker" : "Speaker 4",
+    "text" : "zero?",
+    "timestamp" : "04:11.460-04:12.180"
+  },
+  {
+    "speaker" : "Speaker 4",
+    "text" : "podcast.",
+    "timestamp" : "04:12.060-04:14.620"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "Entrevistar",
+    "timestamp" : "04:14.620-04:15.500"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "a",
+    "timestamp" : "04:15.500-04:15.579"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "doutora",
+    "timestamp" : "04:15.579-04:16.060"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "Cristiane",
+    "timestamp" : "04:16.060-04:16.780"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "é",
+    "timestamp" : "04:16.859-04:17.100"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "muito",
+    "timestamp" : "04:17.100-04:17.340"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "bom.",
+    "timestamp" : "04:17.340-04:17.739"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "É",
+    "timestamp" : "04:17.739-04:17.900"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "muito",
+    "timestamp" : "04:17.900-04:18.060"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "bom",
+    "timestamp" : "04:18.060-04:18.220"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "porque",
+    "timestamp" : "04:18.380-04:18.620"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "a",
+    "timestamp" : "04:18.620-04:18.699"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "gente",
+    "timestamp" : "04:18.699-04:18.940"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "já",
+    "timestamp" : "04:18.940-04:19.180"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "tem,",
+    "timestamp" : "04:19.180-04:19.500"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "querendo",
+    "timestamp" : "04:19.500-04:19.900"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "ou",
+    "timestamp" : "04:19.900-04:20.060"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "não.",
+    "timestamp" : "04:20.060-04:20.380"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : ".",
+    "timestamp" : "04:21.019-04:21.340"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "Uma",
+    "timestamp" : "04:20.260-04:20.420"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "intimidade",
+    "timestamp" : "04:20.420-04:21.140"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "e",
+    "timestamp" : "04:21.140-04:21.380"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "fica",
+    "timestamp" : "04:21.380-04:21.780"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "algo",
+    "timestamp" : "04:21.780-04:22.100"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "mais",
+    "timestamp" : "04:22.100-04:22.420"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "casual,",
+    "timestamp" : "04:22.420-04:23.460"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "fica",
+    "timestamp" : "04:23.460-04:24.020"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "algo",
+    "timestamp" : "04:24.020-04:24.340"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "muito",
+    "timestamp" : "04:24.340-04:24.660"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "mais",
+    "timestamp" : "04:24.900-04:25.220"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "íntimo,",
+    "timestamp" : "04:25.380-04:26.340"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "e",
+    "timestamp" : "04:26.340-04:26.660"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "nós",
+    "timestamp" : "04:26.980-04:27.460"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "temos",
+    "timestamp" : "04:27.460-04:28.100"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "algumas",
+    "timestamp" : "04:28.100-04:28.660"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "histórias",
+    "timestamp" : "04:28.660-04:29.300"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "que",
+    "timestamp" : "04:29.300-04:29.460"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "nós",
+    "timestamp" : "04:29.460-04:29.700"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "Compartilhamos",
+    "timestamp" : "04:29.879-04:30.440"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "aqui",
+    "timestamp" : "04:30.440-04:30.680"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "internamente.",
+    "timestamp" : "04:30.680-04:31.240"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "Então,",
+    "timestamp" : "04:31.240-04:31.560"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "entrevistar",
+    "timestamp" : "04:31.560-04:32.039"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "a",
+    "timestamp" : "04:32.039-04:32.199"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "doutora",
+    "timestamp" : "04:32.199-04:32.440"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "Cristiane",
+    "timestamp" : "04:32.440-04:32.840"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "é",
+    "timestamp" : "04:33.000-04:33.080"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "como",
+    "timestamp" : "04:33.080-04:33.240"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "está",
+    "timestamp" : "04:33.240-04:33.400"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "no",
+    "timestamp" : "04:33.400-04:33.560"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "dia",
+    "timestamp" : "04:33.560-04:33.720"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "a",
+    "timestamp" : "04:33.720-04:33.800"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "dia",
+    "timestamp" : "04:33.800-04:34.039"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "aqui",
+    "timestamp" : "04:34.120-04:34.280"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "na",
+    "timestamp" : "04:34.280-04:34.440"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "clínica.",
+    "timestamp" : "04:34.440-04:36.120"
+  },
+  {
+    "speaker" : "Speaker 4",
+    "text" : "O",
+    "timestamp" : "04:37.240-04:37.479"
+  },
+  {
+    "speaker" : "Speaker 4",
+    "text" : "que",
+    "timestamp" : "04:37.479-04:37.800"
+  },
+  {
+    "speaker" : "Speaker 4",
+    "text" : "mais",
+    "timestamp" : "04:37.800-04:38.039"
+  },
+  {
+    "speaker" : "Speaker 4",
+    "text" : "marcou",
+    "timestamp" : "04:38.039-04:38.759"
+  },
+  {
+    "speaker" : "Speaker 4",
+    "text" : "nessa",
+    "timestamp" : "04:38.759-04:39.400"
+  },
+  {
+    "speaker" : "Speaker 4",
+    "text" : "mudança",
+    "timestamp" : "04:39.400-04:40.120"
+  },
+  {
+    "speaker" : "Speaker 4",
+    "text" : "da",
+    "timestamp" : "04:40.120-04:40.280"
+  },
+  {
+    "speaker" : "Speaker 4",
+    "text" : "clínica,",
+    "timestamp" : "04:40.280-04:40.840"
+  },
+  {
+    "speaker" : "Speaker 4",
+    "text" : "para",
+    "timestamp" : "04:40.840-04:41.000"
+  },
+  {
+    "speaker" : "Speaker 4",
+    "text" : "ela",
+    "timestamp" : "04:41.000-04:41.159"
+  },
+  {
+    "speaker" : "Speaker 4",
+    "text" : "não",
+    "timestamp" : "04:41.240-04:41.400"
+  },
+  {
+    "speaker" : "Speaker 4",
+    "text" : "essa?",
+    "timestamp" : "04:41.639-04:42.280"
+  },
+  {
+    "speaker" : "Speaker 4",
+    "text" : "Não",
+    "timestamp" : "04:41.900-04:42.060"
+  },
+  {
+    "speaker" : "Speaker 4",
+    "text" : "vale",
+    "timestamp" : "04:42.060-04:42.220"
+  },
+  {
+    "speaker" : "Speaker 4",
+    "text" : "porque",
+    "timestamp" : "04:42.380-04:42.460"
+  },
+  {
+    "speaker" : "Speaker 4",
+    "text" : "ela",
+    "timestamp" : "04:42.620-04:42.780"
+  },
+  {
+    "speaker" : "Speaker 4",
+    "text" : "não",
+    "timestamp" : "04:42.780-04:42.940"
+  },
+  {
+    "speaker" : "Speaker 4",
+    "text" : "foi",
+    "timestamp" : "04:42.940-04:43.180"
+  },
+  {
+    "speaker" : "Speaker 4",
+    "text" : "pra",
+    "timestamp" : "04:43.180-04:43.340"
+  },
+  {
+    "speaker" : "Speaker 4",
+    "text" : "lá.",
+    "timestamp" : "04:43.340-04:43.900"
+  },
+  {
+    "speaker" : "Speaker 4",
+    "text" : "O",
+    "timestamp" : "04:43.979-04:44.220"
+  },
+  {
+    "speaker" : "Speaker 4",
+    "text" : "que",
+    "timestamp" : "04:44.220-04:44.380"
+  },
+  {
+    "speaker" : "Speaker 4",
+    "text" : "é",
+    "timestamp" : "04:44.380-04:44.460"
+  },
+  {
+    "speaker" : "Speaker 4",
+    "text" : "que",
+    "timestamp" : "04:44.460-04:44.699"
+  },
+  {
+    "speaker" : "Speaker 4",
+    "text" : "as",
+    "timestamp" : "04:44.699-04:44.860"
+  },
+  {
+    "speaker" : "Speaker 4",
+    "text" : "famílias",
+    "timestamp" : "04:44.860-04:45.419"
+  },
+  {
+    "speaker" : "Speaker 4",
+    "text" : "costumam",
+    "timestamp" : "04:45.419-04:46.220"
+  },
+  {
+    "speaker" : "Speaker 4",
+    "text" : "dizer",
+    "timestamp" : "04:46.220-04:46.540"
+  },
+  {
+    "speaker" : "Speaker 4",
+    "text" : "quando",
+    "timestamp" : "04:47.180-04:47.500"
+  },
+  {
+    "speaker" : "Speaker 4",
+    "text" : "saem",
+    "timestamp" : "04:47.660-04:48.060"
+  },
+  {
+    "speaker" : "Speaker 4",
+    "text" : "da",
+    "timestamp" : "04:48.220-04:48.460"
+  },
+  {
+    "speaker" : "Speaker 4",
+    "text" : "consulta?",
+    "timestamp" : "04:48.460-04:49.020"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "O",
+    "timestamp" : "04:50.699-04:51.020"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "que",
+    "timestamp" : "04:51.020-04:51.259"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "as",
+    "timestamp" : "04:51.259-04:51.419"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "famílias",
+    "timestamp" : "04:51.419-04:51.979"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "costumam",
+    "timestamp" : "04:51.979-04:52.699"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "dizer",
+    "timestamp" : "04:52.699-04:53.020"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "quando",
+    "timestamp" : "04:53.020-04:53.259"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "saem",
+    "timestamp" : "04:53.259-04:53.500"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "daqui?",
+    "timestamp" : "04:53.500-04:54.540"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "As",
+    "timestamp" : "04:55.620-04:55.940"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "famílias",
+    "timestamp" : "04:55.940-04:56.740"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : ",",
+    "timestamp" : "04:56.740-04:56.900"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "eu",
+    "timestamp" : "04:57.220-04:57.460"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "sinto",
+    "timestamp" : "04:57.460-04:57.860"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "que",
+    "timestamp" : "04:57.860-04:58.020"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "as",
+    "timestamp" : "04:58.020-04:58.180"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "famílias",
+    "timestamp" : "04:58.180-04:58.740"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "têm",
+    "timestamp" : "04:58.740-04:59.140"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "muita",
+    "timestamp" : "04:59.140-04:59.540"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "gratidão",
+    "timestamp" : "04:59.540-05:00.340"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "pelo",
+    "timestamp" : "05:00.340-05:00.580"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "cuidado",
+    "timestamp" : "05:00.580-05:00.980"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "da",
+    "timestamp" : "05:00.980-05:01.140"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "doutora.",
+    "timestamp" : "05:01.140-05:01.620"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "Repito.",
+    "timestamp" : "05:01.620-05:02.340"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "The",
+    "timestamp" : "05:02.400-05:02.480"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "doctor",
+    "timestamp" : "05:02.640-05:02.880"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "is",
+    "timestamp" : "05:03.040-05:03.200"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "very",
+    "timestamp" : "05:03.200-05:03.440"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "cuidosaur",
+    "timestamp" : "05:03.440-05:04.160"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : ",",
+    "timestamp" : "05:04.160-05:04.160"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "what",
+    "timestamp" : "05:05.840-05:06.000"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "is.",
+    "timestamp" : "05:06.320-05:07.040"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "And",
+    "timestamp" : "05:07.040-05:07.360"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "this",
+    "timestamp" : "05:07.360-05:07.520"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "is",
+    "timestamp" : "05:08.080-05:08.400"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "demonstrated",
+    "timestamp" : "05:08.400-05:09.360"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "by",
+    "timestamp" : "05:09.360-05:09.520"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "the",
+    "timestamp" : "05:09.600-05:09.760"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "families",
+    "timestamp" : "05:09.760-05:10.160"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "when",
+    "timestamp" : "05:10.320-05:10.480"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "they",
+    "timestamp" : "05:10.560-05:10.640"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "go",
+    "timestamp" : "05:10.880-05:10.960"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : ",",
+    "timestamp" : "05:11.200-05:11.280"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "those",
+    "timestamp" : "05:11.440-05:11.600"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "indications",
+    "timestamp" : "05:11.760-05:12.400"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "that",
+    "timestamp" : "05:12.640-05:12.800"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "the",
+    "timestamp" : "05:12.800-05:12.880"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "doctor",
+    "timestamp" : "05:13.040-05:13.360"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "receives.",
+    "timestamp" : "05:13.600-05:15.040"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "Das",
+    "timestamp" : "05:14.479-05:14.560"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "famílias,",
+    "timestamp" : "05:14.800-05:15.680"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "para",
+    "timestamp" : "05:15.680-05:15.919"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "outros",
+    "timestamp" : "05:16.160-05:16.639"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "colegas,",
+    "timestamp" : "05:16.639-05:17.759"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "e",
+    "timestamp" : "05:17.759-05:18.080"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "a",
+    "timestamp" : "05:18.080-05:18.240"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "gente",
+    "timestamp" : "05:18.240-05:18.560"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "vê",
+    "timestamp" : "05:18.560-05:18.880"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "isso",
+    "timestamp" : "05:18.880-05:19.120"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "por",
+    "timestamp" : "05:19.120-05:19.360"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "aqui.",
+    "timestamp" : "05:19.360-05:19.840"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "É",
+    "timestamp" : "05:19.840-05:20.160"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "algo",
+    "timestamp" : "05:20.160-05:20.479"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "muito",
+    "timestamp" : "05:20.720-05:21.040"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "acolhedor,",
+    "timestamp" : "05:21.840-05:23.120"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "as",
+    "timestamp" : "05:23.120-05:23.280"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "famílias",
+    "timestamp" : "05:23.280-05:23.680"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "se",
+    "timestamp" : "05:23.759-05:23.919"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "sentem",
+    "timestamp" : "05:23.919-05:24.240"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "acolhidas,",
+    "timestamp" : "05:24.240-05:25.360"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "e",
+    "timestamp" : "05:25.360-05:25.520"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "com",
+    "timestamp" : "05:25.600-05:25.840"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "isso",
+    "timestamp" : "05:25.840-05:26.080"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "elas",
+    "timestamp" : "05:26.160-05:26.560"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "indicam",
+    "timestamp" : "05:26.560-05:27.040"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "para",
+    "timestamp" : "05:27.040-05:27.280"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "outras",
+    "timestamp" : "05:27.280-05:27.600"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "famílias",
+    "timestamp" : "05:27.600-05:28.000"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "que",
+    "timestamp" : "05:28.000-05:28.240"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "também.",
+    "timestamp" : "05:28.240-05:28.479"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "São",
+    "timestamp" : "05:28.620-05:28.780"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "muito",
+    "timestamp" : "05:28.780-05:28.940"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "bem",
+    "timestamp" : "05:28.940-05:29.099"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "cuidadas",
+    "timestamp" : "05:29.099-05:29.580"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "aqui",
+    "timestamp" : "05:29.580-05:29.740"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "na",
+    "timestamp" : "05:29.740-05:29.900"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "clínica.",
+    "timestamp" : "05:29.900-05:30.780"
+  },
+  {
+    "speaker" : "Speaker 4",
+    "text" : "Gente",
+    "timestamp" : "05:30.780-05:31.099"
+  },
+  {
+    "speaker" : "Speaker 4",
+    "text" : ",",
+    "timestamp" : "05:31.099-05:31.180"
+  },
+  {
+    "speaker" : "Speaker 4",
+    "text" : "pra",
+    "timestamp" : "05:31.419-05:31.500"
+  },
+  {
+    "speaker" : "Speaker 4",
+    "text" : "gente",
+    "timestamp" : "05:31.580-05:31.740"
+  },
+  {
+    "speaker" : "Speaker 4",
+    "text" : "fechar",
+    "timestamp" : "05:31.819-05:32.300"
+  },
+  {
+    "speaker" : "Speaker 4",
+    "text" : "aqui",
+    "timestamp" : "05:32.300-05:32.620"
+  },
+  {
+    "speaker" : "Speaker 4",
+    "text" : "numa",
+    "timestamp" : "05:32.780-05:33.259"
+  },
+  {
+    "speaker" : "Speaker 4",
+    "text" : "frase,",
+    "timestamp" : "05:33.259-05:34.060"
+  },
+  {
+    "speaker" : "Speaker 4",
+    "text" : "como",
+    "timestamp" : "05:34.060-05:34.379"
+  },
+  {
+    "speaker" : "Speaker 4",
+    "text" : "descreve",
+    "timestamp" : "05:34.379-05:35.020"
+  },
+  {
+    "speaker" : "Speaker 4",
+    "text" : "essa",
+    "timestamp" : "05:35.020-05:35.259"
+  },
+  {
+    "speaker" : "Speaker 4",
+    "text" : "clínica?",
+    "timestamp" : "05:35.259-05:36.940"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "Família",
+    "timestamp" : "05:37.580-05:38.460"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : ",",
+    "timestamp" : "05:38.620-05:38.940"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "respira",
+    "timestamp" : "05:39.900-05:40.780"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "e",
+    "timestamp" : "05:40.780-05:40.940"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "cresce.",
+    "timestamp" : "05:40.940-05:42.220"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "Eu",
+    "timestamp" : "05:42.000-05:42.320"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "acho",
+    "timestamp" : "05:42.640-05:42.960"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "que",
+    "timestamp" : "05:42.960-05:43.280"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "a",
+    "timestamp" : "05:43.920-05:44.240"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "clínica",
+    "timestamp" : "05:44.240-05:45.040"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "é",
+    "timestamp" : "05:45.840-05:46.160"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "uma",
+    "timestamp" : "05:46.160-05:46.480"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "família",
+    "timestamp" : "05:46.480-05:47.280"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "que",
+    "timestamp" : "05:47.280-05:47.600"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "gosta",
+    "timestamp" : "05:47.760-05:48.160"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "de",
+    "timestamp" : "05:48.160-05:48.320"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "cuidar",
+    "timestamp" : "05:48.320-05:48.720"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "de",
+    "timestamp" : "05:48.720-05:48.880"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "outras",
+    "timestamp" : "05:48.880-05:49.280"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "famílias.",
+    "timestamp" : "05:49.280-05:50.320"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "É",
+    "timestamp" : "05:50.320-05:50.480"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "essa",
+    "timestamp" : "05:50.640-05:50.800"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "visão",
+    "timestamp" : "05:51.040-05:51.360"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "que",
+    "timestamp" : "05:51.360-05:51.520"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "eu",
+    "timestamp" : "05:51.520-05:51.760"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "tenho.",
+    "timestamp" : "05:51.760-05:52.720"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "E",
+    "timestamp" : "05:52.020-05:52.340"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "começando",
+    "timestamp" : "05:52.500-05:53.460"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "pela",
+    "timestamp" : "05:53.780-05:54.100"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "mãe",
+    "timestamp" : "05:54.580-05:55.300"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "dessa",
+    "timestamp" : "05:55.300-05:55.620"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "família,",
+    "timestamp" : "05:55.780-05:56.820"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "a",
+    "timestamp" : "05:56.820-05:57.060"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "doutora",
+    "timestamp" : "05:57.060-05:57.540"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "Cristiane.",
+    "timestamp" : "05:57.540-05:59.060"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "Muito",
+    "timestamp" : "06:00.020-06:00.420"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "obrigada,",
+    "timestamp" : "06:00.420-06:01.300"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "muito",
+    "timestamp" : "06:01.300-06:01.460"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "obrigada,",
+    "timestamp" : "06:01.540-06:02.020"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "doutora",
+    "timestamp" : "06:02.020-06:02.500"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "Cristiane.",
+    "timestamp" : "06:02.500-06:03.940"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "Novamente",
+    "timestamp" : "06:03.560-06:04.040"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "por",
+    "timestamp" : "06:04.200-06:04.360"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "ter",
+    "timestamp" : "06:04.360-06:04.680"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "esse",
+    "timestamp" : "06:04.680-06:05.000"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "olhar,",
+    "timestamp" : "06:05.000-06:05.960"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "não",
+    "timestamp" : "06:05.960-06:06.200"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "só",
+    "timestamp" : "06:06.200-06:06.440"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "com",
+    "timestamp" : "06:06.440-06:06.600"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "a",
+    "timestamp" : "06:06.600-06:06.760"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "nossa",
+    "timestamp" : "06:06.760-06:07.000"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "equipa,",
+    "timestamp" : "06:07.000-06:07.640"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "não",
+    "timestamp" : "06:07.640-06:07.880"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "só",
+    "timestamp" : "06:07.880-06:08.200"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "com",
+    "timestamp" : "06:08.200-06:08.440"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "todos",
+    "timestamp" : "06:08.440-06:08.760"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "que",
+    "timestamp" : "06:08.760-06:09.080"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "estão",
+    "timestamp" : "06:09.080-06:09.400"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "aqui,",
+    "timestamp" : "06:09.400-06:10.200"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "mas",
+    "timestamp" : "06:10.200-06:10.520"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "com",
+    "timestamp" : "06:10.760-06:11.080"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "todas",
+    "timestamp" : "06:11.080-06:11.400"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "as",
+    "timestamp" : "06:11.400-06:11.560"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "nossas",
+    "timestamp" : "06:11.560-06:11.880"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "famílias",
+    "timestamp" : "06:11.880-06:12.360"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "e",
+    "timestamp" : "06:12.360-06:12.600"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "as",
+    "timestamp" : "06:12.600-06:12.760"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "nossas",
+    "timestamp" : "06:12.760-06:13.080"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "crianças,",
+    "timestamp" : "06:13.080-06:13.640"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "é",
+    "timestamp" : "06:13.640-06:13.880"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "claro.",
+    "timestamp" : "06:13.880-06:14.840"
+  },
+  {
+    "speaker" : "Speaker 4",
+    "text" : "Obrigada.",
+    "timestamp" : "06:15.060-06:16.340"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "Muito",
+    "timestamp" : "06:16.900-06:17.460"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "bem.",
+    "timestamp" : "06:17.460-06:18.180"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "Agora",
+    "timestamp" : "06:18.180-06:18.580"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "o",
+    "timestamp" : "06:18.580-06:18.740"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "próximo,",
+    "timestamp" : "06:18.740-06:19.300"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "por",
+    "timestamp" : "06:19.300-06:19.460"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "favor.",
+    "timestamp" : "06:19.460-06:19.860"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "Kathleen,",
+    "timestamp" : "06:19.860-06:20.420"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "você",
+    "timestamp" : "06:20.420-06:20.580"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "já",
+    "timestamp" : "06:20.580-06:20.740"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "está",
+    "timestamp" : "06:20.740-06:20.900"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "aqui.",
+    "timestamp" : "06:20.900-06:21.060"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "text" : "Ai,",
+    "timestamp" : "06:21.300-06:21.540"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "text" : "não,",
+    "timestamp" : "06:21.540-06:21.700"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "text" : "não,",
+    "timestamp" : "06:21.700-06:21.940"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "text" : "não.",
+    "timestamp" : "06:21.940-06:22.100"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "text" : "Eu",
+    "timestamp" : "06:22.180-06:22.260"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "text" : "ainda",
+    "timestamp" : "06:22.260-06:22.420"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "text" : "não",
+    "timestamp" : "06:22.500-06:22.580"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "text" : "estou",
+    "timestamp" : "06:22.580-06:22.820"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "text" : "preparada.",
+    "timestamp" : "06:22.820-06:23.460"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "Bora,",
+    "timestamp" : "06:23.460-06:23.780"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "bora,",
+    "timestamp" : "06:23.780-06:24.100"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "bora,",
+    "timestamp" : "06:24.100-06:24.340"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "bora.",
+    "timestamp" : "06:24.340-06:24.580"
+  },
+  {
+    "speaker" : "Speaker 4",
+    "text" : "Chama",
+    "timestamp" : "06:25.860-06:26.100"
+  },
+  {
+    "speaker" : "Speaker 4",
+    "text" : "a",
+    "timestamp" : "06:26.260-06:26.340"
+  },
+  {
+    "speaker" : "Speaker 4",
+    "text" : "Paulinha,",
+    "timestamp" : "06:26.340-06:26.740"
+  },
+  {
+    "speaker" : "Speaker 4",
+    "text" : "deixa",
+    "timestamp" : "06:26.740-06:26.900"
+  },
+  {
+    "speaker" : "Speaker 4",
+    "text" : "eu",
+    "timestamp" : "06:26.900-06:26.980"
+  },
+  {
+    "speaker" : "Speaker 4",
+    "text" : "entrevistar",
+    "timestamp" : "06:27.060-06:27.460"
+  },
+  {
+    "speaker" : "Speaker 4",
+    "text" : "a",
+    "timestamp" : "06:27.460-06:27.540"
+  },
+  {
+    "speaker" : "Speaker 4",
+    "text" : "Paulinha.",
+    "timestamp" : "06:27.540-06:28.820"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "Ok,",
+    "timestamp" : "06:28.139-06:28.540"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "ok.",
+    "timestamp" : "06:28.540-06:29.020"
+  },
+  {
+    "speaker" : "Speaker 4",
+    "text" : "Chama",
+    "timestamp" : "06:29.020-06:29.259"
+  },
+  {
+    "speaker" : "Speaker 4",
+    "text" : "ela.",
+    "timestamp" : "06:29.500-06:29.820"
+  },
+  {
+    "speaker" : "Speaker 4",
+    "text" : "Eu",
+    "timestamp" : "06:29.820-06:29.979"
+  },
+  {
+    "speaker" : "Speaker 4",
+    "text" : "sei",
+    "timestamp" : "06:29.979-06:30.139"
+  },
+  {
+    "speaker" : "Speaker 4",
+    "text" : "que",
+    "timestamp" : "06:30.139-06:30.220"
+  },
+  {
+    "speaker" : "Speaker 4",
+    "text" : "ela.",
+    "timestamp" : "06:30.220-06:30.460"
+  },
+  {
+    "speaker" : "Speaker 4",
+    "text" : ".",
+    "timestamp" : "06:30.460-06:30.540"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "Depois",
+    "timestamp" : "06:30.780-06:31.020"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "disso.",
+    "timestamp" : "06:31.020-06:31.419"
+  },
+  {
+    "speaker" : "Speaker 4",
+    "text" : "Eu",
+    "timestamp" : "06:31.500-06:31.580"
+  },
+  {
+    "speaker" : "Speaker 4",
+    "text" : "já",
+    "timestamp" : "06:31.580-06:31.740"
+  },
+  {
+    "speaker" : "Speaker 4",
+    "text" : "vou",
+    "timestamp" : "06:31.740-06:31.820"
+  },
+  {
+    "speaker" : "Speaker 4",
+    "text" : "pra",
+    "timestamp" : "06:31.820-06:31.900"
+  },
+  {
+    "speaker" : "Speaker 4",
+    "text" : "lá.",
+    "timestamp" : "06:31.900-06:32.060"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "text" : "Muita",
+    "timestamp" : "06:32.380-06:32.540"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "text" : "gente",
+    "timestamp" : "06:32.540-06:32.620"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "text" : "você",
+    "timestamp" : "06:32.699-06:32.860"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "text" : "tem",
+    "timestamp" : "06:32.860-06:32.940"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "text" : "que",
+    "timestamp" : "06:32.940-06:33.020"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "text" : "ali",
+    "timestamp" : "06:33.100-06:33.340"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "text" : "fazer",
+    "timestamp" : "06:33.340-06:33.580"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "text" : "uma",
+    "timestamp" : "06:33.580-06:33.660"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "média.",
+    "timestamp" : "06:34.780-06:35.100"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "Porque",
+    "timestamp" : "06:35.100-06:35.180"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "eu",
+    "timestamp" : "06:35.340-06:35.580"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "acho",
+    "timestamp" : "06:35.580-06:35.900"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "até",
+    "timestamp" : "06:35.900-06:36.220"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "melhor.",
+    "timestamp" : "06:36.300-06:37.020"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "Vocês",
+    "timestamp" : "06:37.100-06:37.340"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "queriam",
+    "timestamp" : "06:37.419-06:37.660"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "ali",
+    "timestamp" : "06:37.740-06:37.820"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "fazer",
+    "timestamp" : "06:37.900-06:38.060"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "uma",
+    "timestamp" : "06:38.060-06:38.300"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "make.",
+    "timestamp" : "06:38.300-06:38.620"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "Eu",
+    "timestamp" : "06:39.580-06:39.740"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "acho",
+    "timestamp" : "06:39.740-06:39.900"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "melhor",
+    "timestamp" : "06:40.140-06:40.540"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "a",
+    "timestamp" : "06:40.700-06:40.860"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "gente",
+    "timestamp" : "06:40.860-06:41.260"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "fazer",
+    "timestamp" : "06:41.260-06:41.580"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "com",
+    "timestamp" : "06:41.580-06:41.820"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "as",
+    "timestamp" : "06:43.660-06:43.740"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "pessoas.",
+    "timestamp" : "06:43.740-06:43.980"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "Porque",
+    "timestamp" : "06:43.980-06:44.140"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "se",
+    "timestamp" : "06:44.860-06:45.020"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "eles",
+    "timestamp" : "06:45.020-06:45.180"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "quiserem",
+    "timestamp" : "06:45.180-06:45.420"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "ir",
+    "timestamp" : "06:45.420-06:45.500"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "embora,",
+    "timestamp" : "06:45.580-06:45.980"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "eles",
+    "timestamp" : "06:45.980-06:46.220"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "podem",
+    "timestamp" : "06:46.220-06:46.540"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "ir",
+    "timestamp" : "06:46.540-06:46.620"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "embora",
+    "timestamp" : "06:46.620-06:46.860"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "e",
+    "timestamp" : "06:47.020-06:47.180"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "já",
+    "timestamp" : "06:47.180-06:47.340"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "deu",
+    "timestamp" : "06:47.340-06:47.500"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "o",
+    "timestamp" : "06:47.500-06:47.580"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "seu",
+    "timestamp" : "06:47.580-06:47.820"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "depoimento.",
+    "timestamp" : "06:47.820-06:48.540"
+  },
+  {
+    "speaker" : "Speaker 4",
+    "text" : "Olha",
+    "timestamp" : "06:48.940-06:49.100"
+  },
+  {
+    "speaker" : "Speaker 4",
+    "text" : "o",
+    "timestamp" : "06:49.180-06:49.260"
+  },
+  {
+    "speaker" : "Speaker 4",
+    "text" : "telepônico",
+    "timestamp" : "06:49.420-06:49.900"
+  },
+  {
+    "speaker" : "Speaker 4",
+    "text" : "vai",
+    "timestamp" : "06:49.980-06:50.140"
+  },
+  {
+    "speaker" : "Speaker 4",
+    "text" : "ficar",
+    "timestamp" : "06:50.140-06:50.380"
+  },
+  {
+    "speaker" : "Speaker 4",
+    "text" : "aqui",
+    "timestamp" : "06:50.380-06:50.540"
+  },
+  {
+    "speaker" : "Speaker 4",
+    "text" : "dentro.",
+    "timestamp" : "06:50.540-06:51.580"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "O",
+    "timestamp" : "06:54.140-06:54.220"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "pessoal",
+    "timestamp" : "06:54.300-06:54.700"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "aqui",
+    "timestamp" : "06:54.700-06:54.940"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "da",
+    "timestamp" : "06:54.940-06:55.020"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "clínica",
+    "timestamp" : "06:55.020-06:55.420"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "fica",
+    "timestamp" : "06:55.660-06:55.980"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "mais",
+    "timestamp" : "06:55.980-06:56.140"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "fácil",
+    "timestamp" : "06:56.140-06:56.620"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "depois.",
+    "timestamp" : "06:56.620-06:58.140"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "Deixa",
+    "timestamp" : "06:58.860-06:59.100"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "eu",
+    "timestamp" : "06:59.100-06:59.180"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "te",
+    "timestamp" : "06:59.340-06:59.420"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "chamar.",
+    "timestamp" : "06:59.580-07:00.540"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "I",
+    "timestamp" : "07:18.300-07:18.460"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "didn",
+    "timestamp" : "07:18.460-07:18.620"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "'t",
+    "timestamp" : "07:18.620-07:18.700"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "really",
+    "timestamp" : "07:18.700-07:18.780"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "add",
+    "timestamp" : "07:18.940-07:19.100"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "up.",
+    "timestamp" : "07:19.180-07:19.340"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "No,",
+    "timestamp" : "07:19.500-07:19.740"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "but",
+    "timestamp" : "07:19.740-07:19.820"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "it",
+    "timestamp" : "07:19.900-07:19.980"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "could",
+    "timestamp" : "07:20.060-07:20.140"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "be",
+    "timestamp" : "07:20.220-07:20.300"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "the",
+    "timestamp" : "07:20.380-07:20.460"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "whole",
+    "timestamp" : "07:20.620-07:20.780"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "thing.",
+    "timestamp" : "07:21.420-07:21.420"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "I",
+    "timestamp" : "07:21.580-07:21.660"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "got",
+    "timestamp" : "07:21.820-07:21.900"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "more",
+    "timestamp" : "07:22.140-07:22.220"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "Ok,",
+    "timestamp" : "07:28.139-07:28.860"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "eu",
+    "timestamp" : "07:28.860-07:29.180"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "vou",
+    "timestamp" : "07:29.180-07:29.500"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "pegar",
+    "timestamp" : "07:29.500-07:29.900"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "já",
+    "timestamp" : "07:29.900-07:30.220"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "o",
+    "timestamp" : "07:30.220-07:30.300"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "pessoal,",
+    "timestamp" : "07:30.300-07:30.699"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "porque",
+    "timestamp" : "07:30.699-07:30.940"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "se",
+    "timestamp" : "07:30.940-07:31.099"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "eles",
+    "timestamp" : "07:31.099-07:31.259"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "quiserem",
+    "timestamp" : "07:31.259-07:31.659"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "ir",
+    "timestamp" : "07:31.659-07:31.740"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "embora",
+    "timestamp" : "07:31.740-07:32.460"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : ",",
+    "timestamp" : "07:32.620-07:32.780"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "vai",
+    "timestamp" : "07:33.099-07:33.340"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "lá",
+    "timestamp" : "07:33.340-07:33.500"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "embora",
+    "timestamp" : "07:33.580-07:33.979"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "e",
+    "timestamp" : "07:33.979-07:34.060"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "O",
+    "timestamp" : "07:39.660-07:39.740"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "Kim,",
+    "timestamp" : "07:40.060-07:40.780"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "quer",
+    "timestamp" : "07:40.780-07:40.940"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "que",
+    "timestamp" : "07:41.100-07:41.180"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "a",
+    "timestamp" : "07:41.180-07:41.260"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "gente",
+    "timestamp" : "07:41.260-07:41.500"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "coloque",
+    "timestamp" : "07:41.500-07:41.980"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "a",
+    "timestamp" : "07:41.980-07:42.060"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "mesa",
+    "timestamp" : "07:42.060-07:42.380"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "ali",
+    "timestamp" : "07:42.380-07:42.540"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "já?",
+    "timestamp" : "07:42.780-07:43.180"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "Eu",
+    "timestamp" : "07:46.060-07:46.220"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "acho",
+    "timestamp" : "07:46.220-07:46.380"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "que",
+    "timestamp" : "07:46.380-07:46.460"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "eu",
+    "timestamp" : "07:46.460-07:46.540"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "coloco.",
+    "timestamp" : "07:46.620-07:47.020"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "text" : "Coloca",
+    "timestamp" : "07:47.100-07:47.500"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "text" : "o",
+    "timestamp" : "07:47.580-07:47.660"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "text" : "skate,",
+    "timestamp" : "07:47.820-07:48.460"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "text" : "só",
+    "timestamp" : "07:48.460-07:48.620"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "text" : "sobe",
+    "timestamp" : "07:48.620-07:49.020"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "text" : "mais",
+    "timestamp" : "07:49.020-07:49.260"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "text" : "o.",
+    "timestamp" : "07:49.260-07:49.420"
+  },
+  {
+    "speaker" : "Speaker 1",
+    "text" : ".",
+    "timestamp" : "07:49.420-07:49.500"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "Olha",
+    "timestamp" : "07:49.820-07:49.980"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : ",",
+    "timestamp" : "07:49.980-07:50.060"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "24",
+    "timestamp" : "07:50.940-07:51.420"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "podcasts,",
+    "timestamp" : "07:51.580-07:52.140"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "tá",
+    "timestamp" : "07:52.140-07:52.220"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "bom?",
+    "timestamp" : "07:52.300-07:52.540"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "Sim,",
+    "timestamp" : "07:52.700-07:53.100"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "sim.",
+    "timestamp" : "07:53.100-07:53.580"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "E",
+    "timestamp" : "08:13.180-08:13.500"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "também",
+    "timestamp" : "08:13.500-08:13.820"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "aqui",
+    "timestamp" : "08:13.980-08:14.300"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "também,",
+    "timestamp" : "08:14.380-08:14.780"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "tipo",
+    "timestamp" : "08:14.780-08:15.020"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "assim,",
+    "timestamp" : "08:15.020-08:15.420"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "a",
+    "timestamp" : "08:15.420-08:15.500"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "gente",
+    "timestamp" : "08:15.500-08:15.740"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "está",
+    "timestamp" : "08:15.740-08:15.900"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "na",
+    "timestamp" : "08:15.980-08:16.140"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "inauguração",
+    "timestamp" : "08:16.140-08:16.700"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "da",
+    "timestamp" : "08:16.700-08:16.860"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "festa.",
+    "timestamp" : "08:16.860-08:17.260"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "Se",
+    "timestamp" : "08:17.260-08:17.420"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "sair",
+    "timestamp" : "08:17.420-08:17.740"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "pelo",
+    "timestamp" : "08:17.820-08:18.140"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "menos",
+    "timestamp" : "08:18.140-08:18.300"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "um",
+    "timestamp" : "08:18.300-08:18.380"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "pouquinho",
+    "timestamp" : "08:18.380-08:18.780"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "do",
+    "timestamp" : "08:18.780-08:19.100"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "som.",
+    "timestamp" : "08:19.100-08:20.060"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "É",
+    "timestamp" : "08:22.940-08:23.180"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "mais",
+    "timestamp" : "08:23.180-08:23.419"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "para",
+    "timestamp" : "08:23.419-08:23.659"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "não",
+    "timestamp" : "08:23.659-08:23.819"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "ficar",
+    "timestamp" : "08:23.819-08:24.139"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "também",
+    "timestamp" : "08:24.139-08:24.379"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "no",
+    "timestamp" : "08:24.539-08:24.620"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "sol",
+    "timestamp" : "08:24.699-08:24.780"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "lá.",
+    "timestamp" : "08:25.099-08:25.819"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "Pronto.",
+    "timestamp" : "08:27.020-08:27.900"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "Quem",
+    "timestamp" : "08:28.460-08:28.699"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "pode",
+    "timestamp" : "08:28.699-08:29.020"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "ficar",
+    "timestamp" : "08:29.020-08:29.259"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "aqui?",
+    "timestamp" : "08:29.259-08:29.740"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "Você",
+    "timestamp" : "08:29.740-08:29.900"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "vai",
+    "timestamp" : "08:30.139-08:30.300"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "ficar",
+    "timestamp" : "08:30.300-08:30.539"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "aqui?",
+    "timestamp" : "08:30.539-08:30.860"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "Sim.",
+    "timestamp" : "08:30.860-08:31.180"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "Eu",
+    "timestamp" : "08:31.819-08:31.900"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "vou",
+    "timestamp" : "08:32.060-08:32.219"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "chamar",
+    "timestamp" : "08:32.219-08:32.620"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "Okay,",
+    "timestamp" : "08:32.780-08:33.020"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "the",
+    "timestamp" : "08:33.020-08:33.100"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "Shimmer",
+    "timestamp" : "08:33.180-08:33.580"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : ",",
+    "timestamp" : "08:33.900-08:33.980"
+  },
+  {
+    "speaker" : "Speaker 3",
+    "text" : "Kissal.",
+    "timestamp" : "08:34.060-08:34.940"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "Two",
+    "timestamp" : "08:35.020-08:35.180"
+  },
+  {
+    "speaker" : "Speaker 2",
+    "text" : "Pontchalaki.",
+    "timestamp" : "08:35.260-08:36.220"
+  }
+]

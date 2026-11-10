@@ -1,7 +1,7 @@
 # Memória: Edição de vídeo
 
 ## Active Projects and Work
-- 2026-11-10: Área de edição criada; ainda não há projetos de vídeo cadastrados. As instruções locais foram aprovadas e criadas.
+- 2026-11-10: Projeto [Evento Clínica 15 de fevereiro](video-projects/2026-11-10%20-%20Evento%20Cl%C3%ADnica%2015%20de%20fevereiro/INDEX.md) criado com material recebido e instruções locais pendentes de aprovação.
 
 ## Decisions
 - 2026-11-10: Projetos individuais serão organizados em `video-projects/`, um por pasta.
